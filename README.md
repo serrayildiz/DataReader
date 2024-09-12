@@ -1,0 +1,2 @@
+# DataReader
+ Data Reader is a Python-based application designed to analyze log files and extract critical operational insights. This tool processes a given log file to calculate metrics like error percentages, warning-error correlations, average operation durations, and the most frequent error messages across different system modules. The results are outputted in a structured JSON format for further analysis or integration with other tools.
