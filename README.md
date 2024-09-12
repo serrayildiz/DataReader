@@ -35,8 +35,8 @@ No external libraries are required as the project uses Python's built-in librari
 ### Steps
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/data-reader.git
-   cd data-reader
+   git clone https://github.com/serrayildiz/DataReader.git
+   cd DataReader
    ```
 
 2. **Set up a virtual environment** (optional but recommended):
@@ -49,9 +49,11 @@ No external libraries are required as the project uses Python's built-in librari
    ```bash
    source venv/bin/activate  # Windows: venv\Scripts\activate
    ```
-
-No additional packages need to be installed, as the script only relies on Python's standard library.
-
+   
+4. **Install dependencies**:
+   ```bash
+   pip install -r requirements.txt
+   ```
 ---
 
 ## Usage
