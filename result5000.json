@@ -1,33 +1,33 @@
 {
     "date": "2022-01-25",
     "operations": {
-        "T1_Measure": 1646,
-        "Main": 1651,
-        "T2_Measure": 1703
+        "Main": 1667,
+        "T2_Measure": 1705,
+        "T1_Measure": 1628
     },
     "errors": {
-        "T1_Measure": 277,
-        "Main": 257,
-        "T2_Measure": 273
+        "Main": 274,
+        "T1_Measure": 261,
+        "T2_Measure": 251
     },
     "errors_percentage": {
-        "T1_Measure": 16.83,
-        "Main": 15.57,
-        "T2_Measure": 16.03
+        "Main": 16.44,
+        "T2_Measure": 14.72,
+        "T1_Measure": 16.03
     },
     "warning_error_relation": {
-        "T2_Measure": 21.33,
-        "T1_Measure": 25.28,
-        "Main": 20.21
+        "T1_Measure": 20.6,
+        "T2_Measure": 25.35,
+        "Main": 23.27
     },
     "most_frequent_errors": {
+        "Main": "An error occurred and the operation failed",
         "T1_Measure": "Message here",
-        "Main": "Connection dropped",
-        "T2_Measure": "Progressing"
+        "T2_Measure": "Memory index out of bound"
     },
     "average_operation_duration": {
-        "T2_Measure": 224.42857142857142,
-        "T1_Measure": 259.22082585278275,
-        "Main": 221.54844606946983
+        "Main": 6.005366726296959,
+        "T2_Measure": 5.7846153846153845,
+        "T1_Measure": 5.874545454545455
     }
 }

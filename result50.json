@@ -2,32 +2,32 @@
     "date": "2022-01-25",
     "operations": {
         "T2_Measure": 18,
-        "Main": 14,
-        "T1_Measure": 18
+        "Main": 22,
+        "T1_Measure": 10
     },
     "errors": {
-        "T2_Measure": 4,
-        "Main": 2,
-        "T1_Measure": 4
+        "Main": 3,
+        "T1_Measure": 4,
+        "T2_Measure": 2
     },
     "errors_percentage": {
-        "T2_Measure": 22.22,
-        "Main": 14.29,
-        "T1_Measure": 22.22
+        "T2_Measure": 11.11,
+        "Main": 13.64,
+        "T1_Measure": 40.0
     },
     "warning_error_relation": {
+        "Main": 20.0,
         "T2_Measure": 0.0,
-        "T1_Measure": 33.33,
-        "Main": 33.33
+        "T1_Measure": 0.0
     },
     "most_frequent_errors": {
-        "T2_Measure": "An error occurred and the operation failed",
-        "Main": "Connection dropped",
-        "T1_Measure": "Message here"
+        "Main": "An error occurred and the operation failed",
+        "T1_Measure": "Connection dropped",
+        "T2_Measure": "Operation aborted"
     },
     "average_operation_duration": {
-        "T2_Measure": 230.8,
-        "Main": 249.66666666666666,
-        "T1_Measure": 269.5
+        "T2_Measure": 6.333333333333333,
+        "Main": 5.714285714285714,
+        "T1_Measure": 15.0
     }
 }

@@ -1,33 +1,33 @@
 {
     "date": "2022-01-25",
     "operations": {
-        "Main": 335,
-        "T2_Measure": 314,
-        "T1_Measure": 351
+        "T1_Measure": 295,
+        "T2_Measure": 333,
+        "Main": 372
     },
     "errors": {
-        "Main": 63,
-        "T2_Measure": 43,
-        "T1_Measure": 57
+        "T1_Measure": 52,
+        "T2_Measure": 69,
+        "Main": 69
     },
     "errors_percentage": {
-        "Main": 18.81,
-        "T2_Measure": 13.69,
-        "T1_Measure": 16.24
+        "T1_Measure": 17.63,
+        "T2_Measure": 20.72,
+        "Main": 18.55
     },
     "warning_error_relation": {
-        "T2_Measure": 25.93,
-        "Main": 27.12,
-        "T1_Measure": 25.76
+        "T2_Measure": 31.48,
+        "Main": 30.19,
+        "T1_Measure": 25.42
     },
     "most_frequent_errors": {
-        "Main": "Progressing",
+        "T1_Measure": "An error occurred and the operation failed",
         "T2_Measure": "Message here",
-        "T1_Measure": "Operation aborted"
+        "Main": "Operation aborted"
     },
     "average_operation_duration": {
-        "T2_Measure": 274.96491228070175,
-        "Main": 268.4770642201835,
-        "T1_Measure": 196.5096153846154
+        "T1_Measure": 6.760869565217392,
+        "T2_Measure": 6.438095238095238,
+        "Main": 6.344
     }
 }

@@ -1,50 +1,50 @@
-2022-01-25 11:00:38   INFO      T2_measure      Starting
-2022-01-25 11:01:10   ERROR    T2_measure      An error occurred and the operation failed
-2022-01-25 11:01:17   ERROR    Main            Connection dropped
-2022-01-25 11:01:55   INFO      T2_measure      Operation complete
+2022-01-25 11:00:02   INFO      T2_measure      Starting
+2022-01-25 11:00:06   INFO      T2_measure      Operation complete
+2022-01-25 11:00:11   INFO      Main            Starting
+2022-01-25 11:00:14   INFO      Main            Operation complete
+2022-01-25 11:00:15   INFO      Main            Starting
+2022-01-25 11:00:18   INFO      Main            Operation complete
+2022-01-25 11:00:23   INFO      Main            Starting
+2022-01-25 11:00:25   INFO      Main            Operation complete
+2022-01-25 11:00:30   INFO      Main            Starting
+2022-01-25 11:00:33   ERROR    Main            An error occurred and the operation failed
+2022-01-25 11:00:34   WARNING  Main            Message here
+2022-01-25 11:00:39   WARNING  Main            Operation aborted
+2022-01-25 11:00:42   INFO      Main            Operation complete
+2022-01-25 11:00:44   INFO      T2_measure      Starting
+2022-01-25 11:00:48   WARNING  T2_measure      You know this is random, right?
+2022-01-25 11:00:53   INFO      T2_measure      Operation complete
+2022-01-25 11:00:57   INFO      Main            Starting
+2022-01-25 11:01:01   INFO      Main            Operation complete
+2022-01-25 11:01:06   INFO      T2_measure      Starting
+2022-01-25 11:01:10   INFO      T2_measure      Operation complete
+2022-01-25 11:01:13   INFO      T1_measure      Starting
+2022-01-25 11:01:17   WARNING  T1_measure      Operation aborted
+2022-01-25 11:01:20   INFO      T1_measure      Operation complete
+2022-01-25 11:01:21   INFO      Main            Starting
+2022-01-25 11:01:24   WARNING  Main            Operation aborted
+2022-01-25 11:01:25   WARNING  Main            Connection dropped
+2022-01-25 11:01:26   ERROR    Main            Memory index out of bound
+2022-01-25 11:01:29   ERROR    Main            Progressing
+2022-01-25 11:01:32   INFO      Main            Operation complete
+2022-01-25 11:01:36   INFO      Main            Starting
+2022-01-25 11:01:37   WARNING  Main            You know this is random, right?
+2022-01-25 11:01:41   INFO      Main            Operation complete
+2022-01-25 11:01:46   INFO      T1_measure      Starting
+2022-01-25 11:01:49   ERROR    T1_measure      Connection dropped
+2022-01-25 11:01:53   ERROR    T1_measure      Message here
+2022-01-25 11:01:56   ERROR    T1_measure      You know this is random, right?
+2022-01-25 11:02:00   ERROR    T1_measure      Operation aborted
+2022-01-25 11:02:04   WARNING  T1_measure      Progressing
+2022-01-25 11:02:09   INFO      T1_measure      Operation complete
+2022-01-25 11:02:14   INFO      T2_measure      Starting
+2022-01-25 11:02:16   INFO      T2_measure      Operation complete
 2022-01-25 11:02:17   INFO      T2_measure      Starting
-2022-01-25 11:02:36   ERROR    T2_measure      An error occurred and the operation failed
-2022-01-25 11:03:32   ERROR    T2_measure      Memory index out of bound
-2022-01-25 11:03:45   INFO      T1_measure      Operation complete
-2022-01-25 11:04:45   INFO      T2_measure      Starting
-2022-01-25 11:05:09   WARNING  T2_measure      Message here
-2022-01-25 11:05:49   WARNING  T1_measure      Updating
-2022-01-25 11:06:07   INFO      Main            Operation complete
-2022-01-25 11:07:04   INFO      Main            Starting
-2022-01-25 11:07:41   INFO      T2_measure      Operation complete
-2022-01-25 11:08:10   INFO      T2_measure      Starting
-2022-01-25 11:08:46   WARNING  Main            Updating
-2022-01-25 11:09:28   ERROR    T1_measure      Message here
-2022-01-25 11:09:43   INFO      T1_measure      Operation complete
-2022-01-25 11:10:43   INFO      Main            Starting
-2022-01-25 11:11:38   INFO      T1_measure      Operation complete
-2022-01-25 11:12:06   INFO      T1_measure      Starting
-2022-01-25 11:12:24   INFO      T2_measure      Operation complete
-2022-01-25 11:12:56   INFO      Main            Starting
-2022-01-25 11:13:24   INFO      T2_measure      Operation complete
-2022-01-25 11:14:06   INFO      T2_measure      Starting
-2022-01-25 11:14:34   WARNING  Main            Message here
-2022-01-25 11:14:47   ERROR    Main            One does not simply walk into Mordor
-2022-01-25 11:15:47   INFO      Main            Operation complete
-2022-01-25 11:16:27   INFO      T1_measure      Starting
-2022-01-25 11:16:49   ERROR    T1_measure      Memory index out of bound
-2022-01-25 11:17:41   INFO      Main            Operation complete
-2022-01-25 11:18:21   INFO      Main            Starting
-2022-01-25 11:18:50   ERROR    T1_measure      Progressing
-2022-01-25 11:19:39   INFO      T2_measure      Operation complete
-2022-01-25 11:20:32   INFO      T2_measure      Starting
-2022-01-25 11:21:25   WARNING  T1_measure      Updating
-2022-01-25 11:22:09   WARNING  T1_measure      Memory index out of bound
-2022-01-25 11:23:03   INFO      T1_measure      Operation complete
-2022-01-25 11:23:31   INFO      Main            Starting
-2022-01-25 11:24:08   ERROR    T2_measure      Updating
-2022-01-25 11:25:02   INFO      T1_measure      Operation complete
-2022-01-25 11:25:33   INFO      T1_measure      Starting
-2022-01-25 11:25:47   ERROR    T1_measure      Operation aborted
-2022-01-25 11:26:22   INFO      T1_measure      Operation complete
-2022-01-25 11:26:43   INFO      T1_measure      Starting
-2022-01-25 11:27:29   WARNING  T2_measure      Progressing
-2022-01-25 11:27:31   WARNING  Main            Message here
-2022-01-25 11:28:24   INFO      Main            Operation complete
-2022-01-25 11:28:34   INFO      T2_measure      Starting
-2022-01-25 11:28:41   INFO      T1_measure      Operation complete
+2022-01-25 11:02:21   WARNING  T2_measure      One does not simply walk into Mordor
+2022-01-25 11:02:22   WARNING  T2_measure      Connection dropped
+2022-01-25 11:02:25   WARNING  T2_measure      Memory index out of bound
+2022-01-25 11:02:29   INFO      T2_measure      Operation complete
+2022-01-25 11:02:30   INFO      T2_measure      Starting
+2022-01-25 11:02:32   ERROR    T2_measure      Operation aborted
+2022-01-25 11:02:34   ERROR    T2_measure      An error occurred and the operation failed
+2022-01-25 11:02:37   INFO      T2_measure      Operation complete
