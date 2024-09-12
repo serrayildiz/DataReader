@@ -9,16 +9,12 @@ def parselogline(line):
     Parses a single line of the log file and returns the extracted components.
     """
     parts = line.split()
-    datetime_str = ' '.join(parts[:2])  # Tarih ve saati birleştir
+    datetime_str = ' '.join(parts[:2])  
     msgtype = parts[2]
     module_name = parts[3]
     message = ' '.join(parts[4:])
     return datetime_str, msgtype, module_name, message
 
-
-
-from collections import defaultdict
-import datetime
 
 def process_log_file(filepath):
     operations_count = defaultdict(int)

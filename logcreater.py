@@ -25,7 +25,7 @@ def generate_log_entries(num_entries):
         
         if module not in active_modules:
             # Start a new module
-            timestamp += datetime.timedelta(seconds=random.randint(1, 5))  # Shorter time interval
+            timestamp += datetime.timedelta(seconds=random.randint(1, 5))  
             start_log = f"{timestamp.strftime('%Y-%m-%d %H:%M:%S')}   INFO      {module:<15} Starting"
             log_entries.append(start_log)
             active_modules[module] = True
@@ -33,14 +33,14 @@ def generate_log_entries(num_entries):
 
             # Generate intermediate messages
             while entry_count < num_entries - 1 and random.choice([True, False]):
-                timestamp += datetime.timedelta(seconds=random.randint(1, 5))  # Shorter time interval
+                timestamp += datetime.timedelta(seconds=random.randint(1, 5))  
                 status = random.choice(['WARNING', 'ERROR'])
                 message = random.choice(messages)
                 log_entries.append(f"{timestamp.strftime('%Y-%m-%d %H:%M:%S')}   {status:<8} {module:<15} {message}")
                 entry_count += 1
             
             # End with "Operation complete" entry
-            timestamp += datetime.timedelta(seconds=random.randint(1, 5))  # Shorter time interval
+            timestamp += datetime.timedelta(seconds=random.randint(1, 5))  
             complete_log = f"{timestamp.strftime('%Y-%m-%d %H:%M:%S')}   INFO      {module:<15} Operation complete"
             log_entries.append(complete_log)
             active_modules.pop(module)  # Module is no longer active
@@ -48,7 +48,7 @@ def generate_log_entries(num_entries):
         else:
             # Random non-INFO log for the remaining single entry if no modules are active
             if not active_modules:
-                timestamp += datetime.timedelta(seconds=random.randint(1, 5))  # Shorter time interval
+                timestamp += datetime.timedelta(seconds=random.randint(1, 5))  
                 status = random.choice(statuses)
                 module = random.choice(modules)
                 message = random.choice(messages)
