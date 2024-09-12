@@ -1,0 +1,50 @@
+2022-01-25 11:00:38   INFO      T2_measure      Starting
+2022-01-25 11:01:10   ERROR    T2_measure      An error occurred and the operation failed
+2022-01-25 11:01:17   ERROR    Main            Connection dropped
+2022-01-25 11:01:55   INFO      T2_measure      Operation complete
+2022-01-25 11:02:17   INFO      T2_measure      Starting
+2022-01-25 11:02:36   ERROR    T2_measure      An error occurred and the operation failed
+2022-01-25 11:03:32   ERROR    T2_measure      Memory index out of bound
+2022-01-25 11:03:45   INFO      T1_measure      Operation complete
+2022-01-25 11:04:45   INFO      T2_measure      Starting
+2022-01-25 11:05:09   WARNING  T2_measure      Message here
+2022-01-25 11:05:49   WARNING  T1_measure      Updating
+2022-01-25 11:06:07   INFO      Main            Operation complete
+2022-01-25 11:07:04   INFO      Main            Starting
+2022-01-25 11:07:41   INFO      T2_measure      Operation complete
+2022-01-25 11:08:10   INFO      T2_measure      Starting
+2022-01-25 11:08:46   WARNING  Main            Updating
+2022-01-25 11:09:28   ERROR    T1_measure      Message here
+2022-01-25 11:09:43   INFO      T1_measure      Operation complete
+2022-01-25 11:10:43   INFO      Main            Starting
+2022-01-25 11:11:38   INFO      T1_measure      Operation complete
+2022-01-25 11:12:06   INFO      T1_measure      Starting
+2022-01-25 11:12:24   INFO      T2_measure      Operation complete
+2022-01-25 11:12:56   INFO      Main            Starting
+2022-01-25 11:13:24   INFO      T2_measure      Operation complete
+2022-01-25 11:14:06   INFO      T2_measure      Starting
+2022-01-25 11:14:34   WARNING  Main            Message here
+2022-01-25 11:14:47   ERROR    Main            One does not simply walk into Mordor
+2022-01-25 11:15:47   INFO      Main            Operation complete
+2022-01-25 11:16:27   INFO      T1_measure      Starting
+2022-01-25 11:16:49   ERROR    T1_measure      Memory index out of bound
+2022-01-25 11:17:41   INFO      Main            Operation complete
+2022-01-25 11:18:21   INFO      Main            Starting
+2022-01-25 11:18:50   ERROR    T1_measure      Progressing
+2022-01-25 11:19:39   INFO      T2_measure      Operation complete
+2022-01-25 11:20:32   INFO      T2_measure      Starting
+2022-01-25 11:21:25   WARNING  T1_measure      Updating
+2022-01-25 11:22:09   WARNING  T1_measure      Memory index out of bound
+2022-01-25 11:23:03   INFO      T1_measure      Operation complete
+2022-01-25 11:23:31   INFO      Main            Starting
+2022-01-25 11:24:08   ERROR    T2_measure      Updating
+2022-01-25 11:25:02   INFO      T1_measure      Operation complete
+2022-01-25 11:25:33   INFO      T1_measure      Starting
+2022-01-25 11:25:47   ERROR    T1_measure      Operation aborted
+2022-01-25 11:26:22   INFO      T1_measure      Operation complete
+2022-01-25 11:26:43   INFO      T1_measure      Starting
+2022-01-25 11:27:29   WARNING  T2_measure      Progressing
+2022-01-25 11:27:31   WARNING  Main            Message here
+2022-01-25 11:28:24   INFO      Main            Operation complete
+2022-01-25 11:28:34   INFO      T2_measure      Starting
+2022-01-25 11:28:41   INFO      T1_measure      Operation complete

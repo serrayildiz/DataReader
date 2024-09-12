@@ -1,0 +1,33 @@
+{
+    "date": "2022-01-25",
+    "operations": {
+        "Main": 335,
+        "T2_Measure": 314,
+        "T1_Measure": 351
+    },
+    "errors": {
+        "Main": 63,
+        "T2_Measure": 43,
+        "T1_Measure": 57
+    },
+    "errors_percentage": {
+        "Main": 18.81,
+        "T2_Measure": 13.69,
+        "T1_Measure": 16.24
+    },
+    "warning_error_relation": {
+        "T2_Measure": 25.93,
+        "Main": 27.12,
+        "T1_Measure": 25.76
+    },
+    "most_frequent_errors": {
+        "Main": "Progressing",
+        "T2_Measure": "Message here",
+        "T1_Measure": "Operation aborted"
+    },
+    "average_operation_duration": {
+        "T2_Measure": 274.96491228070175,
+        "Main": 268.4770642201835,
+        "T1_Measure": 196.5096153846154
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "date": "2022-01-25",
+    "operations": {
+        "T1_Measure": 1646,
+        "Main": 1651,
+        "T2_Measure": 1703
+    },
+    "errors": {
+        "T1_Measure": 277,
+        "Main": 257,
+        "T2_Measure": 273
+    },
+    "errors_percentage": {
+        "T1_Measure": 16.83,
+        "Main": 15.57,
+        "T2_Measure": 16.03
+    },
+    "warning_error_relation": {
+        "T2_Measure": 21.33,
+        "T1_Measure": 25.28,
+        "Main": 20.21
+    },
+    "most_frequent_errors": {
+        "T1_Measure": "Message here",
+        "Main": "Connection dropped",
+        "T2_Measure": "Progressing"
+    },
+    "average_operation_duration": {
+        "T2_Measure": 224.42857142857142,
+        "T1_Measure": 259.22082585278275,
+        "Main": 221.54844606946983
+    }
+}
