@@ -1,0 +1,33 @@
+{
+    "date": "2022-01-25",
+    "operations": {
+        "Main": 912,
+        "T2_Measure": 845,
+        "T1_Measure": 952
+    },
+    "errors": {
+        "T2_Measure": 78,
+        "T1_Measure": 93,
+        "Main": 83
+    },
+    "errors_percentage": {
+        "Main": 9.1,
+        "T2_Measure": 9.23,
+        "T1_Measure": 9.77
+    },
+    "warning_error_relation": {
+        "Main": 24.34,
+        "T2_Measure": 22.97,
+        "T1_Measure": 24.7
+    },
+    "most_frequent_errors": {
+        "T2_Measure": "Message here",
+        "T1_Measure": "One does not simply walk into Mordor",
+        "Main": "One does not simply walk into Mordor"
+    },
+    "average_operation_duration": {
+        "Main": 7.684210526315789,
+        "T2_Measure": 7.560509554140127,
+        "T1_Measure": 7.586206896551724
+    }
+}

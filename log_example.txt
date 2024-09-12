@@ -1,0 +1,2709 @@
+2022-01-25 11:11:25   INFO      Main           Starting
+2022-01-25 11:11:28   INFO      Main           Updating
+2022-01-25 11:11:29   INFO      Main           Message here
+2022-01-25 11:11:30   WARNING   Main           You know this is random, right?
+2022-01-25 11:11:30   INFO      Main           Operation complete
+2022-01-25 11:11:30   INFO      T2_measure     Starting
+2022-01-25 11:11:32   WARNING   T2_measure     Updating
+2022-01-25 11:11:36   WARNING   T2_measure     One does not simply walk into Mordor
+2022-01-25 11:11:39   INFO      T2_measure     Updating
+2022-01-25 11:11:39   INFO      T2_measure     Operation complete
+2022-01-25 11:11:39   INFO      T2_measure     Starting
+2022-01-25 11:11:44   WARNING   T2_measure     Progressing
+2022-01-25 11:11:47   WARNING   T2_measure     One does not simply walk into Mordor
+2022-01-25 11:11:51   INFO      T2_measure     Updating
+2022-01-25 11:11:51   ERROR     T2_measure     An error occured and the operation failed
+2022-01-25 11:11:51   INFO      Main           Starting
+2022-01-25 11:11:52   INFO      Main           Progressing
+2022-01-25 11:11:56   WARNING   Main           Progressing
+2022-01-25 11:11:58   WARNING   Main           Message here
+2022-01-25 11:11:58   INFO      Main           Operation complete
+2022-01-25 11:11:58   INFO      T2_measure     Starting
+2022-01-25 11:12:00   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 11:12:04   INFO      T2_measure     Message here
+2022-01-25 11:12:04   INFO      T2_measure     Operation complete
+2022-01-25 11:12:04   INFO      T1_measure     Starting
+2022-01-25 11:12:05   WARNING   T1_measure     Message here
+2022-01-25 11:12:05   INFO      T1_measure     Operation complete
+2022-01-25 11:12:05   INFO      T2_measure     Starting
+2022-01-25 11:12:07   WARNING   T2_measure     Message here
+2022-01-25 11:12:07   ERROR     T2_measure     Operation aborted
+2022-01-25 11:12:07   INFO      T2_measure     Starting
+2022-01-25 11:12:10   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 11:12:10   INFO      T2_measure     Operation complete
+2022-01-25 11:12:10   INFO      T2_measure     Starting
+2022-01-25 11:12:11   ERROR     T2_measure     Message here
+2022-01-25 11:12:11   ERROR     T2_measure     Operation aborted
+2022-01-25 11:12:11   INFO      T2_measure     Starting
+2022-01-25 11:12:12   INFO      T2_measure     Updating
+2022-01-25 11:12:12   ERROR     T2_measure     Connection dropped
+2022-01-25 11:12:12   INFO      T1_measure     Starting
+2022-01-25 11:12:16   INFO      T1_measure     You know this is random, right?
+2022-01-25 11:12:18   INFO      T1_measure     You know this is random, right?
+2022-01-25 11:12:23   WARNING   T1_measure     You know this is random, right?
+2022-01-25 11:12:23   INFO      T1_measure     Operation complete
+2022-01-25 11:12:23   INFO      T2_measure     Starting
+2022-01-25 11:12:28   WARNING   T2_measure     Message here
+2022-01-25 11:12:33   INFO      T2_measure     Progressing
+2022-01-25 11:12:33   ERROR     T2_measure     Memory index out of bound
+2022-01-25 11:12:33   INFO      T1_measure     Starting
+2022-01-25 11:12:34   WARNING   T1_measure     Updating
+2022-01-25 11:12:39   ERROR     T1_measure     Progressing
+2022-01-25 11:12:42   WARNING   T1_measure     One does not simply walk into Mordor
+2022-01-25 11:12:42   INFO      T1_measure     Operation complete
+2022-01-25 11:12:42   INFO      T1_measure     Starting
+2022-01-25 11:12:47   INFO      T1_measure     Message here
+2022-01-25 11:12:48   INFO      T1_measure     You know this is random, right?
+2022-01-25 11:12:49   INFO      T1_measure     Message here
+2022-01-25 11:12:51   INFO      T1_measure     Updating
+2022-01-25 11:12:51   INFO      T1_measure     Operation complete
+2022-01-25 11:12:51   INFO      Main           Starting
+2022-01-25 11:12:52   INFO      Main           You know this is random, right?
+2022-01-25 11:12:57   INFO      Main           Updating
+2022-01-25 11:12:57   INFO      Main           Operation complete
+2022-01-25 11:12:57   INFO      T1_measure     Starting
+2022-01-25 11:13:02   ERROR     T1_measure     Progressing
+2022-01-25 11:13:03   WARNING   T1_measure     One does not simply walk into Mordor
+2022-01-25 11:13:08   INFO      T1_measure     You know this is random, right?
+2022-01-25 11:13:11   WARNING   T1_measure     You know this is random, right?
+2022-01-25 11:13:11   INFO      T1_measure     Operation complete
+2022-01-25 11:13:11   INFO      Main           Starting
+2022-01-25 11:13:12   WARNING   Main           You know this is random, right?
+2022-01-25 11:13:17   WARNING   Main           One does not simply walk into Mordor
+2022-01-25 11:13:21   INFO      Main           Progressing
+2022-01-25 11:13:23   INFO      Main           Message here
+2022-01-25 11:13:23   INFO      Main           Operation complete
+2022-01-25 11:13:23   INFO      T2_measure     Starting
+2022-01-25 11:13:24   ERROR     T2_measure     Message here
+2022-01-25 11:13:24   INFO      T2_measure     Operation complete
+2022-01-25 11:13:24   INFO      Main           Starting
+2022-01-25 11:13:28   INFO      Main           Progressing
+2022-01-25 11:13:30   WARNING   Main           Updating
+2022-01-25 11:13:35   INFO      Main           One does not simply walk into Mordor
+2022-01-25 11:13:39   WARNING   Main           Updating
+2022-01-25 11:13:39   ERROR     Main           Connection dropped
+2022-01-25 11:13:39   INFO      T1_measure     Starting
+2022-01-25 11:13:41   INFO      T1_measure     Message here
+2022-01-25 11:13:46   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 11:13:47   WARNING   T1_measure     You know this is random, right?
+2022-01-25 11:13:51   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 11:13:51   ERROR     T1_measure     Memory index out of bound
+2022-01-25 11:13:51   INFO      T2_measure     Starting
+2022-01-25 11:13:55   WARNING   T2_measure     Message here
+2022-01-25 11:13:57   INFO      T2_measure     Message here
+2022-01-25 11:13:58   INFO      T2_measure     You know this is random, right?
+2022-01-25 11:13:58   INFO      T2_measure     Operation complete
+2022-01-25 11:13:58   INFO      Main           Starting
+2022-01-25 11:13:59   WARNING   Main           Message here
+2022-01-25 11:14:00   INFO      Main           Updating
+2022-01-25 11:14:04   INFO      Main           You know this is random, right?
+2022-01-25 11:14:09   WARNING   Main           One does not simply walk into Mordor
+2022-01-25 11:14:09   INFO      Main           Operation complete
+2022-01-25 11:14:09   INFO      T2_measure     Starting
+2022-01-25 11:14:13   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 11:14:16   INFO      T2_measure     Progressing
+2022-01-25 11:14:16   INFO      T2_measure     Operation complete
+2022-01-25 11:14:16   INFO      T1_measure     Starting
+2022-01-25 11:14:21   INFO      T1_measure     You know this is random, right?
+2022-01-25 11:14:22   ERROR     T1_measure     One does not simply walk into Mordor
+2022-01-25 11:14:23   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 11:14:23   ERROR     T1_measure     Connection dropped
+2022-01-25 11:14:23   INFO      T2_measure     Starting
+2022-01-25 11:14:24   INFO      T2_measure     Updating
+2022-01-25 11:14:26   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 11:14:26   ERROR     T2_measure     Connection dropped
+2022-01-25 11:14:26   INFO      Main           Starting
+2022-01-25 11:14:27   WARNING   Main           Updating
+2022-01-25 11:14:31   INFO      Main           Updating
+2022-01-25 11:14:31   INFO      Main           Operation complete
+2022-01-25 11:14:31   INFO      T2_measure     Starting
+2022-01-25 11:14:34   INFO      T2_measure     Progressing
+2022-01-25 11:14:35   INFO      T2_measure     You know this is random, right?
+2022-01-25 11:14:35   ERROR     T2_measure     Operation aborted
+2022-01-25 11:14:35   INFO      T2_measure     Starting
+2022-01-25 11:14:36   WARNING   T2_measure     You know this is random, right?
+2022-01-25 11:14:36   INFO      T2_measure     Operation complete
+2022-01-25 11:14:36   INFO      T1_measure     Starting
+2022-01-25 11:14:37   INFO      T1_measure     Progressing
+2022-01-25 11:14:39   ERROR     T1_measure     One does not simply walk into Mordor
+2022-01-25 11:14:40   INFO      T1_measure     You know this is random, right?
+2022-01-25 11:14:43   ERROR     T1_measure     Message here
+2022-01-25 11:14:43   INFO      T1_measure     Operation complete
+2022-01-25 11:14:43   INFO      Main           Starting
+2022-01-25 11:14:45   INFO      Main           One does not simply walk into Mordor
+2022-01-25 11:14:47   INFO      Main           You know this is random, right?
+2022-01-25 11:14:52   WARNING   Main           Updating
+2022-01-25 11:14:52   INFO      Main           Operation complete
+2022-01-25 11:14:52   INFO      Main           Starting
+2022-01-25 11:14:54   WARNING   Main           You know this is random, right?
+2022-01-25 11:14:58   ERROR     Main           One does not simply walk into Mordor
+2022-01-25 11:14:59   WARNING   Main           One does not simply walk into Mordor
+2022-01-25 11:15:02   ERROR     Main           Message here
+2022-01-25 11:15:02   INFO      Main           Operation complete
+2022-01-25 11:15:02   INFO      Main           Starting
+2022-01-25 11:15:04   INFO      Main           Updating
+2022-01-25 11:15:04   INFO      Main           Operation complete
+2022-01-25 11:15:04   INFO      T1_measure     Starting
+2022-01-25 11:15:08   WARNING   T1_measure     You know this is random, right?
+2022-01-25 11:15:13   INFO      T1_measure     Progressing
+2022-01-25 11:15:13   INFO      T1_measure     Operation complete
+2022-01-25 11:15:13   INFO      Main           Starting
+2022-01-25 11:15:17   INFO      Main           Progressing
+2022-01-25 11:15:20   WARNING   Main           Message here
+2022-01-25 11:15:25   INFO      Main           Message here
+2022-01-25 11:15:28   INFO      Main           You know this is random, right?
+2022-01-25 11:15:28   INFO      Main           Operation complete
+2022-01-25 11:15:28   INFO      Main           Starting
+2022-01-25 11:15:30   INFO      Main           Updating
+2022-01-25 11:15:32   WARNING   Main           You know this is random, right?
+2022-01-25 11:15:37   INFO      Main           Updating
+2022-01-25 11:15:39   INFO      Main           Progressing
+2022-01-25 11:15:39   INFO      Main           Operation complete
+2022-01-25 11:15:39   INFO      T1_measure     Starting
+2022-01-25 11:15:44   ERROR     T1_measure     One does not simply walk into Mordor
+2022-01-25 11:15:47   INFO      T1_measure     You know this is random, right?
+2022-01-25 11:15:48   WARNING   T1_measure     Message here
+2022-01-25 11:15:48   INFO      T1_measure     Operation complete
+2022-01-25 11:15:48   INFO      Main           Starting
+2022-01-25 11:15:52   INFO      Main           Message here
+2022-01-25 11:15:52   ERROR     Main           Connection dropped
+2022-01-25 11:15:52   INFO      Main           Starting
+2022-01-25 11:15:57   WARNING   Main           Message here
+2022-01-25 11:16:00   INFO      Main           Progressing
+2022-01-25 11:16:04   INFO      Main           You know this is random, right?
+2022-01-25 11:16:04   INFO      Main           Operation complete
+2022-01-25 11:16:04   INFO      T1_measure     Starting
+2022-01-25 11:16:05   INFO      T1_measure     Message here
+2022-01-25 11:16:05   INFO      T1_measure     Operation complete
+2022-01-25 11:16:05   INFO      T1_measure     Starting
+2022-01-25 11:16:06   INFO      T1_measure     Message here
+2022-01-25 11:16:09   WARNING   T1_measure     You know this is random, right?
+2022-01-25 11:16:10   INFO      T1_measure     You know this is random, right?
+2022-01-25 11:16:10   INFO      T1_measure     Operation complete
+2022-01-25 11:16:10   INFO      T1_measure     Starting
+2022-01-25 11:16:12   WARNING   T1_measure     Progressing
+2022-01-25 11:16:14   INFO      T1_measure     Message here
+2022-01-25 11:16:18   WARNING   T1_measure     Progressing
+2022-01-25 11:16:18   INFO      T1_measure     Operation complete
+2022-01-25 11:16:18   INFO      T1_measure     Starting
+2022-01-25 11:16:22   INFO      T1_measure     Progressing
+2022-01-25 11:16:27   INFO      T1_measure     Message here
+2022-01-25 11:16:27   INFO      T1_measure     Operation complete
+2022-01-25 11:16:27   INFO      T1_measure     Starting
+2022-01-25 11:16:32   INFO      T1_measure     Message here
+2022-01-25 11:16:36   WARNING   T1_measure     Progressing
+2022-01-25 11:16:36   INFO      T1_measure     Operation complete
+2022-01-25 11:16:36   INFO      T2_measure     Starting
+2022-01-25 11:16:40   INFO      T2_measure     Progressing
+2022-01-25 11:16:44   ERROR     T2_measure     One does not simply walk into Mordor
+2022-01-25 11:16:49   WARNING   T2_measure     One does not simply walk into Mordor
+2022-01-25 11:16:52   ERROR     T2_measure     You know this is random, right?
+2022-01-25 11:16:52   INFO      T2_measure     Operation complete
+2022-01-25 11:16:52   INFO      Main           Starting
+2022-01-25 11:16:55   INFO      Main           Message here
+2022-01-25 11:16:56   INFO      Main           Progressing
+2022-01-25 11:17:00   ERROR     Main           One does not simply walk into Mordor
+2022-01-25 11:17:00   ERROR     Main           Memory index out of bound
+2022-01-25 11:17:00   INFO      T2_measure     Starting
+2022-01-25 11:17:03   INFO      T2_measure     Progressing
+2022-01-25 11:17:03   ERROR     T2_measure     Memory index out of bound
+2022-01-25 11:17:03   INFO      Main           Starting
+2022-01-25 11:17:07   INFO      Main           Updating
+2022-01-25 11:17:10   INFO      Main           Message here
+2022-01-25 11:17:10   INFO      Main           Operation complete
+2022-01-25 11:17:10   INFO      T2_measure     Starting
+2022-01-25 11:17:13   INFO      T2_measure     Progressing
+2022-01-25 11:17:17   INFO      T2_measure     You know this is random, right?
+2022-01-25 11:17:21   INFO      T2_measure     Updating
+2022-01-25 11:17:21   INFO      T2_measure     Operation complete
+2022-01-25 11:17:21   INFO      Main           Starting
+2022-01-25 11:17:25   INFO      Main           Progressing
+2022-01-25 11:17:29   WARNING   Main           One does not simply walk into Mordor
+2022-01-25 11:17:29   ERROR     Main           Memory index out of bound
+2022-01-25 11:17:29   INFO      T2_measure     Starting
+2022-01-25 11:17:32   INFO      T2_measure     Updating
+2022-01-25 11:17:37   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 11:17:37   INFO      T2_measure     Operation complete
+2022-01-25 11:17:37   INFO      Main           Starting
+2022-01-25 11:17:40   INFO      Main           One does not simply walk into Mordor
+2022-01-25 11:17:40   INFO      Main           Operation complete
+2022-01-25 11:17:40   INFO      T1_measure     Starting
+2022-01-25 11:17:45   INFO      T1_measure     You know this is random, right?
+2022-01-25 11:17:49   WARNING   T1_measure     You know this is random, right?
+2022-01-25 11:17:50   ERROR     T1_measure     One does not simply walk into Mordor
+2022-01-25 11:17:51   INFO      T1_measure     You know this is random, right?
+2022-01-25 11:17:51   INFO      T1_measure     Operation complete
+2022-01-25 11:17:51   INFO      T1_measure     Starting
+2022-01-25 11:17:55   INFO      T1_measure     Progressing
+2022-01-25 11:17:58   INFO      T1_measure     Progressing
+2022-01-25 11:17:58   INFO      T1_measure     Operation complete
+2022-01-25 11:17:58   INFO      T1_measure     Starting
+2022-01-25 11:17:59   INFO      T1_measure     You know this is random, right?
+2022-01-25 11:18:02   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 11:18:02   INFO      T1_measure     Operation complete
+2022-01-25 11:18:02   INFO      Main           Starting
+2022-01-25 11:18:07   INFO      Main           One does not simply walk into Mordor
+2022-01-25 11:18:11   WARNING   Main           Progressing
+2022-01-25 11:18:16   WARNING   Main           You know this is random, right?
+2022-01-25 11:18:18   WARNING   Main           You know this is random, right?
+2022-01-25 11:18:18   INFO      Main           Operation complete
+2022-01-25 11:18:18   INFO      T1_measure     Starting
+2022-01-25 11:18:23   WARNING   T1_measure     Progressing
+2022-01-25 11:18:23   INFO      T1_measure     Operation complete
+2022-01-25 11:18:23   INFO      Main           Starting
+2022-01-25 11:18:24   WARNING   Main           Message here
+2022-01-25 11:18:27   ERROR     Main           Progressing
+2022-01-25 11:18:29   INFO      Main           Progressing
+2022-01-25 11:18:29   INFO      Main           Operation complete
+2022-01-25 11:18:29   INFO      T1_measure     Starting
+2022-01-25 11:18:33   INFO      T1_measure     Message here
+2022-01-25 11:18:35   INFO      T1_measure     Message here
+2022-01-25 11:18:38   INFO      T1_measure     Progressing
+2022-01-25 11:18:42   INFO      T1_measure     Updating
+2022-01-25 11:18:42   INFO      T1_measure     Operation complete
+2022-01-25 11:18:42   INFO      T2_measure     Starting
+2022-01-25 11:18:45   WARNING   T2_measure     Updating
+2022-01-25 11:18:48   INFO      T2_measure     Updating
+2022-01-25 11:18:51   WARNING   T2_measure     You know this is random, right?
+2022-01-25 11:18:51   INFO      T2_measure     Operation complete
+2022-01-25 11:18:51   INFO      Main           Starting
+2022-01-25 11:18:52   INFO      Main           One does not simply walk into Mordor
+2022-01-25 11:18:55   INFO      Main           One does not simply walk into Mordor
+2022-01-25 11:18:58   INFO      Main           Message here
+2022-01-25 11:18:58   INFO      Main           Operation complete
+2022-01-25 11:18:58   INFO      T2_measure     Starting
+2022-01-25 11:19:01   WARNING   T2_measure     You know this is random, right?
+2022-01-25 11:19:02   INFO      T2_measure     Message here
+2022-01-25 11:19:03   WARNING   T2_measure     Message here
+2022-01-25 11:19:03   INFO      T2_measure     Operation complete
+2022-01-25 11:19:03   INFO      T1_measure     Starting
+2022-01-25 11:19:05   WARNING   T1_measure     Updating
+2022-01-25 11:19:09   WARNING   T1_measure     Progressing
+2022-01-25 11:19:09   INFO      T1_measure     Operation complete
+2022-01-25 11:19:09   INFO      T2_measure     Starting
+2022-01-25 11:19:11   INFO      T2_measure     Updating
+2022-01-25 11:19:11   INFO      T2_measure     Operation complete
+2022-01-25 11:19:11   INFO      T1_measure     Starting
+2022-01-25 11:19:15   ERROR     T1_measure     Progressing
+2022-01-25 11:19:19   WARNING   T1_measure     Updating
+2022-01-25 11:19:24   INFO      T1_measure     Message here
+2022-01-25 11:19:26   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 11:19:26   INFO      T1_measure     Operation complete
+2022-01-25 11:19:26   INFO      T1_measure     Starting
+2022-01-25 11:19:30   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 11:19:30   INFO      T1_measure     Operation complete
+2022-01-25 11:19:30   INFO      T1_measure     Starting
+2022-01-25 11:19:34   INFO      T1_measure     Message here
+2022-01-25 11:19:35   INFO      T1_measure     Progressing
+2022-01-25 11:19:39   WARNING   T1_measure     Updating
+2022-01-25 11:19:39   INFO      T1_measure     Operation complete
+2022-01-25 11:19:39   INFO      T1_measure     Starting
+2022-01-25 11:19:42   INFO      T1_measure     Message here
+2022-01-25 11:19:43   INFO      T1_measure     You know this is random, right?
+2022-01-25 11:19:46   INFO      T1_measure     Progressing
+2022-01-25 11:19:48   WARNING   T1_measure     One does not simply walk into Mordor
+2022-01-25 11:19:48   INFO      T1_measure     Operation complete
+2022-01-25 11:19:48   INFO      T1_measure     Starting
+2022-01-25 11:19:52   WARNING   T1_measure     Updating
+2022-01-25 11:19:53   ERROR     T1_measure     Progressing
+2022-01-25 11:19:53   ERROR     T1_measure     An error occured and the operation failed
+2022-01-25 11:19:53   INFO      Main           Starting
+2022-01-25 11:19:57   INFO      Main           You know this is random, right?
+2022-01-25 11:19:57   INFO      Main           Operation complete
+2022-01-25 11:19:57   INFO      T1_measure     Starting
+2022-01-25 11:20:02   WARNING   T1_measure     Message here
+2022-01-25 11:20:06   INFO      T1_measure     Updating
+2022-01-25 11:20:07   INFO      T1_measure     You know this is random, right?
+2022-01-25 11:20:07   INFO      T1_measure     Operation complete
+2022-01-25 11:20:07   INFO      T1_measure     Starting
+2022-01-25 11:20:08   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 11:20:13   INFO      T1_measure     Message here
+2022-01-25 11:20:13   INFO      T1_measure     Operation complete
+2022-01-25 11:20:13   INFO      T1_measure     Starting
+2022-01-25 11:20:16   WARNING   T1_measure     You know this is random, right?
+2022-01-25 11:20:16   INFO      T1_measure     Operation complete
+2022-01-25 11:20:16   INFO      Main           Starting
+2022-01-25 11:20:18   WARNING   Main           You know this is random, right?
+2022-01-25 11:20:20   WARNING   Main           Progressing
+2022-01-25 11:20:21   INFO      Main           Message here
+2022-01-25 11:20:21   ERROR     Main           Operation aborted
+2022-01-25 11:20:21   INFO      Main           Starting
+2022-01-25 11:20:26   ERROR     Main           You know this is random, right?
+2022-01-25 11:20:31   INFO      Main           Updating
+2022-01-25 11:20:31   INFO      Main           Operation complete
+2022-01-25 11:20:31   INFO      T2_measure     Starting
+2022-01-25 11:20:35   INFO      T2_measure     Updating
+2022-01-25 11:20:39   WARNING   T2_measure     Message here
+2022-01-25 11:20:40   WARNING   T2_measure     Updating
+2022-01-25 11:20:41   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 11:20:41   INFO      T2_measure     Operation complete
+2022-01-25 11:20:41   INFO      T1_measure     Starting
+2022-01-25 11:20:46   INFO      T1_measure     Message here
+2022-01-25 11:20:46   INFO      T1_measure     Operation complete
+2022-01-25 11:20:46   INFO      Main           Starting
+2022-01-25 11:20:49   INFO      Main           Message here
+2022-01-25 11:20:52   INFO      Main           You know this is random, right?
+2022-01-25 11:20:57   INFO      Main           Progressing
+2022-01-25 11:20:58   INFO      Main           Message here
+2022-01-25 11:20:58   INFO      Main           Operation complete
+2022-01-25 11:20:58   INFO      T1_measure     Starting
+2022-01-25 11:21:02   WARNING   T1_measure     You know this is random, right?
+2022-01-25 11:21:06   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 11:21:06   INFO      T1_measure     Operation complete
+2022-01-25 11:21:06   INFO      T1_measure     Starting
+2022-01-25 11:21:10   INFO      T1_measure     Progressing
+2022-01-25 11:21:12   INFO      T1_measure     You know this is random, right?
+2022-01-25 11:21:14   INFO      T1_measure     Progressing
+2022-01-25 11:21:14   INFO      T1_measure     Operation complete
+2022-01-25 11:21:14   INFO      T1_measure     Starting
+2022-01-25 11:21:17   WARNING   T1_measure     Progressing
+2022-01-25 11:21:19   INFO      T1_measure     Message here
+2022-01-25 11:21:24   INFO      T1_measure     Message here
+2022-01-25 11:21:28   INFO      T1_measure     Progressing
+2022-01-25 11:21:28   INFO      T1_measure     Operation complete
+2022-01-25 11:21:28   INFO      T2_measure     Starting
+2022-01-25 11:21:33   WARNING   T2_measure     Message here
+2022-01-25 11:21:33   INFO      T2_measure     Operation complete
+2022-01-25 11:21:33   INFO      T1_measure     Starting
+2022-01-25 11:21:37   INFO      T1_measure     Progressing
+2022-01-25 11:21:41   INFO      T1_measure     Updating
+2022-01-25 11:21:46   INFO      T1_measure     You know this is random, right?
+2022-01-25 11:21:46   INFO      T1_measure     Operation complete
+2022-01-25 11:21:46   INFO      T2_measure     Starting
+2022-01-25 11:21:48   INFO      T2_measure     Progressing
+2022-01-25 11:21:53   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 11:21:57   WARNING   T2_measure     You know this is random, right?
+2022-01-25 11:21:57   INFO      T2_measure     Operation complete
+2022-01-25 11:21:57   INFO      T1_measure     Starting
+2022-01-25 11:22:01   INFO      T1_measure     Updating
+2022-01-25 11:22:02   INFO      T1_measure     Progressing
+2022-01-25 11:22:02   INFO      T1_measure     Operation complete
+2022-01-25 11:22:02   INFO      Main           Starting
+2022-01-25 11:22:05   WARNING   Main           Message here
+2022-01-25 11:22:05   ERROR     Main           Connection dropped
+2022-01-25 11:22:05   INFO      T2_measure     Starting
+2022-01-25 11:22:09   INFO      T2_measure     You know this is random, right?
+2022-01-25 11:22:11   INFO      T2_measure     Message here
+2022-01-25 11:22:15   WARNING   T2_measure     Updating
+2022-01-25 11:22:16   INFO      T2_measure     You know this is random, right?
+2022-01-25 11:22:16   INFO      T2_measure     Operation complete
+2022-01-25 11:22:16   INFO      Main           Starting
+2022-01-25 11:22:20   WARNING   Main           Progressing
+2022-01-25 11:22:20   ERROR     Main           Memory index out of bound
+2022-01-25 11:22:20   INFO      Main           Starting
+2022-01-25 11:22:24   WARNING   Main           Message here
+2022-01-25 11:22:27   WARNING   Main           Message here
+2022-01-25 11:22:29   INFO      Main           You know this is random, right?
+2022-01-25 11:22:34   INFO      Main           You know this is random, right?
+2022-01-25 11:22:34   INFO      Main           Operation complete
+2022-01-25 11:22:34   INFO      Main           Starting
+2022-01-25 11:22:38   INFO      Main           One does not simply walk into Mordor
+2022-01-25 11:22:43   INFO      Main           You know this is random, right?
+2022-01-25 11:22:47   INFO      Main           Progressing
+2022-01-25 11:22:48   INFO      Main           Updating
+2022-01-25 11:22:48   INFO      Main           Operation complete
+2022-01-25 11:22:48   INFO      T2_measure     Starting
+2022-01-25 11:22:52   INFO      T2_measure     Progressing
+2022-01-25 11:22:56   INFO      T2_measure     Message here
+2022-01-25 11:22:58   WARNING   T2_measure     One does not simply walk into Mordor
+2022-01-25 11:23:03   INFO      T2_measure     You know this is random, right?
+2022-01-25 11:23:03   INFO      T2_measure     Operation complete
+2022-01-25 11:23:03   INFO      Main           Starting
+2022-01-25 11:23:08   INFO      Main           You know this is random, right?
+2022-01-25 11:23:11   INFO      Main           Message here
+2022-01-25 11:23:14   WARNING   Main           Progressing
+2022-01-25 11:23:14   ERROR     Main           Memory index out of bound
+2022-01-25 11:23:14   INFO      Main           Starting
+2022-01-25 11:23:17   INFO      Main           You know this is random, right?
+2022-01-25 11:23:20   WARNING   Main           One does not simply walk into Mordor
+2022-01-25 11:23:21   WARNING   Main           Progressing
+2022-01-25 11:23:21   INFO      Main           Operation complete
+2022-01-25 11:23:21   INFO      T1_measure     Starting
+2022-01-25 11:23:23   ERROR     T1_measure     You know this is random, right?
+2022-01-25 11:23:28   WARNING   T1_measure     Updating
+2022-01-25 11:23:32   INFO      T1_measure     You know this is random, right?
+2022-01-25 11:23:32   ERROR     T1_measure     An error occured and the operation failed
+2022-01-25 11:23:32   INFO      T2_measure     Starting
+2022-01-25 11:23:34   WARNING   T2_measure     You know this is random, right?
+2022-01-25 11:23:36   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 11:23:40   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 11:23:40   INFO      T2_measure     Operation complete
+2022-01-25 11:23:40   INFO      Main           Starting
+2022-01-25 11:23:41   INFO      Main           Message here
+2022-01-25 11:23:41   INFO      Main           Operation complete
+2022-01-25 11:23:41   INFO      Main           Starting
+2022-01-25 11:23:46   ERROR     Main           One does not simply walk into Mordor
+2022-01-25 11:23:48   INFO      Main           Message here
+2022-01-25 11:23:51   ERROR     Main           One does not simply walk into Mordor
+2022-01-25 11:23:51   INFO      Main           Operation complete
+2022-01-25 11:23:51   INFO      T2_measure     Starting
+2022-01-25 11:23:55   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 11:24:00   WARNING   T2_measure     One does not simply walk into Mordor
+2022-01-25 11:24:04   INFO      T2_measure     Progressing
+2022-01-25 11:24:04   INFO      T2_measure     Operation complete
+2022-01-25 11:24:04   INFO      Main           Starting
+2022-01-25 11:24:09   INFO      Main           You know this is random, right?
+2022-01-25 11:24:12   INFO      Main           Message here
+2022-01-25 11:24:16   WARNING   Main           Progressing
+2022-01-25 11:24:16   INFO      Main           Operation complete
+2022-01-25 11:24:16   INFO      T1_measure     Starting
+2022-01-25 11:24:20   INFO      T1_measure     You know this is random, right?
+2022-01-25 11:24:25   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 11:24:26   INFO      T1_measure     Message here
+2022-01-25 11:24:26   INFO      T1_measure     Operation complete
+2022-01-25 11:24:26   INFO      T2_measure     Starting
+2022-01-25 11:24:30   INFO      T2_measure     You know this is random, right?
+2022-01-25 11:24:33   INFO      T2_measure     You know this is random, right?
+2022-01-25 11:24:34   WARNING   T2_measure     You know this is random, right?
+2022-01-25 11:24:34   INFO      T2_measure     Operation complete
+2022-01-25 11:24:34   INFO      T2_measure     Starting
+2022-01-25 11:24:36   WARNING   T2_measure     One does not simply walk into Mordor
+2022-01-25 11:24:36   INFO      T2_measure     Operation complete
+2022-01-25 11:24:36   INFO      T2_measure     Starting
+2022-01-25 11:24:39   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 11:24:39   INFO      T2_measure     Operation complete
+2022-01-25 11:24:39   INFO      T1_measure     Starting
+2022-01-25 11:24:44   ERROR     T1_measure     One does not simply walk into Mordor
+2022-01-25 11:24:49   INFO      T1_measure     Updating
+2022-01-25 11:24:50   INFO      T1_measure     Message here
+2022-01-25 11:24:54   WARNING   T1_measure     Updating
+2022-01-25 11:24:54   INFO      T1_measure     Operation complete
+2022-01-25 11:24:54   INFO      T1_measure     Starting
+2022-01-25 11:24:57   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 11:25:02   INFO      T1_measure     You know this is random, right?
+2022-01-25 11:25:07   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 11:25:07   ERROR     T1_measure     Connection dropped
+2022-01-25 11:25:07   INFO      T2_measure     Starting
+2022-01-25 11:25:10   WARNING   T2_measure     Updating
+2022-01-25 11:25:15   WARNING   T2_measure     Progressing
+2022-01-25 11:25:19   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 11:25:19   INFO      T2_measure     Operation complete
+2022-01-25 11:25:19   INFO      Main           Starting
+2022-01-25 11:25:24   WARNING   Main           Progressing
+2022-01-25 11:25:29   INFO      Main           Progressing
+2022-01-25 11:25:31   INFO      Main           You know this is random, right?
+2022-01-25 11:25:31   INFO      Main           Operation complete
+2022-01-25 11:25:31   INFO      Main           Starting
+2022-01-25 11:25:33   INFO      Main           Progressing
+2022-01-25 11:25:36   INFO      Main           Updating
+2022-01-25 11:25:37   INFO      Main           Progressing
+2022-01-25 11:25:37   ERROR     Main           Operation aborted
+2022-01-25 11:25:37   INFO      T1_measure     Starting
+2022-01-25 11:25:39   WARNING   T1_measure     Updating
+2022-01-25 11:25:42   ERROR     T1_measure     One does not simply walk into Mordor
+2022-01-25 11:25:42   INFO      T1_measure     Operation complete
+2022-01-25 11:25:42   INFO      T1_measure     Starting
+2022-01-25 11:25:46   WARNING   T1_measure     You know this is random, right?
+2022-01-25 11:25:49   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 11:25:53   WARNING   T1_measure     One does not simply walk into Mordor
+2022-01-25 11:25:53   INFO      T1_measure     Operation complete
+2022-01-25 11:25:53   INFO      T2_measure     Starting
+2022-01-25 11:25:56   WARNING   T2_measure     Progressing
+2022-01-25 11:25:56   ERROR     T2_measure     Operation aborted
+2022-01-25 11:25:56   INFO      T2_measure     Starting
+2022-01-25 11:25:57   ERROR     T2_measure     Message here
+2022-01-25 11:25:58   INFO      T2_measure     Updating
+2022-01-25 11:25:59   INFO      T2_measure     You know this is random, right?
+2022-01-25 11:25:59   INFO      T2_measure     Operation complete
+2022-01-25 11:25:59   INFO      T1_measure     Starting
+2022-01-25 11:26:00   WARNING   T1_measure     Message here
+2022-01-25 11:26:01   WARNING   T1_measure     Updating
+2022-01-25 11:26:06   INFO      T1_measure     Message here
+2022-01-25 11:26:11   WARNING   T1_measure     Updating
+2022-01-25 11:26:11   INFO      T1_measure     Operation complete
+2022-01-25 11:26:11   INFO      Main           Starting
+2022-01-25 11:26:15   WARNING   Main           You know this is random, right?
+2022-01-25 11:26:15   INFO      Main           Operation complete
+2022-01-25 11:26:15   INFO      T1_measure     Starting
+2022-01-25 11:26:18   INFO      T1_measure     Progressing
+2022-01-25 11:26:18   INFO      T1_measure     Operation complete
+2022-01-25 11:26:18   INFO      T2_measure     Starting
+2022-01-25 11:26:23   INFO      T2_measure     Message here
+2022-01-25 11:26:25   WARNING   T2_measure     Updating
+2022-01-25 11:26:25   INFO      T2_measure     Operation complete
+2022-01-25 11:26:25   INFO      T2_measure     Starting
+2022-01-25 11:26:27   INFO      T2_measure     Updating
+2022-01-25 11:26:31   INFO      T2_measure     You know this is random, right?
+2022-01-25 11:26:31   INFO      T2_measure     Operation complete
+2022-01-25 11:26:31   INFO      Main           Starting
+2022-01-25 11:26:34   INFO      Main           Progressing
+2022-01-25 11:26:34   INFO      Main           Operation complete
+2022-01-25 11:26:34   INFO      Main           Starting
+2022-01-25 11:26:39   INFO      Main           Message here
+2022-01-25 11:26:43   WARNING   Main           Progressing
+2022-01-25 11:26:47   INFO      Main           One does not simply walk into Mordor
+2022-01-25 11:26:50   INFO      Main           You know this is random, right?
+2022-01-25 11:26:50   INFO      Main           Operation complete
+2022-01-25 11:26:50   INFO      T1_measure     Starting
+2022-01-25 11:26:51   ERROR     T1_measure     One does not simply walk into Mordor
+2022-01-25 11:26:53   WARNING   T1_measure     Progressing
+2022-01-25 11:26:57   ERROR     T1_measure     Updating
+2022-01-25 11:26:57   ERROR     T1_measure     Connection dropped
+2022-01-25 11:26:57   INFO      T2_measure     Starting
+2022-01-25 11:27:01   WARNING   T2_measure     You know this is random, right?
+2022-01-25 11:27:02   WARNING   T2_measure     Message here
+2022-01-25 11:27:06   INFO      T2_measure     You know this is random, right?
+2022-01-25 11:27:06   INFO      T2_measure     Operation complete
+2022-01-25 11:27:06   INFO      T1_measure     Starting
+2022-01-25 11:27:10   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 11:27:15   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 11:27:20   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 11:27:20   ERROR     T1_measure     Operation aborted
+2022-01-25 11:27:20   INFO      Main           Starting
+2022-01-25 11:27:24   INFO      Main           Updating
+2022-01-25 11:27:28   INFO      Main           Progressing
+2022-01-25 11:27:32   INFO      Main           Message here
+2022-01-25 11:27:32   INFO      Main           Operation complete
+2022-01-25 11:27:32   INFO      T2_measure     Starting
+2022-01-25 11:27:34   WARNING   T2_measure     Updating
+2022-01-25 11:27:34   ERROR     T2_measure     Connection dropped
+2022-01-25 11:27:34   INFO      T1_measure     Starting
+2022-01-25 11:27:35   WARNING   T1_measure     Message here
+2022-01-25 11:27:39   WARNING   T1_measure     Updating
+2022-01-25 11:27:39   INFO      T1_measure     Operation complete
+2022-01-25 11:27:39   INFO      T1_measure     Starting
+2022-01-25 11:27:44   ERROR     T1_measure     Progressing
+2022-01-25 11:27:45   INFO      T1_measure     Message here
+2022-01-25 11:27:45   INFO      T1_measure     Operation complete
+2022-01-25 11:27:45   INFO      T2_measure     Starting
+2022-01-25 11:27:50   INFO      T2_measure     Message here
+2022-01-25 11:27:53   INFO      T2_measure     Updating
+2022-01-25 11:27:53   INFO      T2_measure     Operation complete
+2022-01-25 11:27:53   INFO      T1_measure     Starting
+2022-01-25 11:27:56   WARNING   T1_measure     Updating
+2022-01-25 11:27:58   WARNING   T1_measure     Progressing
+2022-01-25 11:28:00   ERROR     T1_measure     One does not simply walk into Mordor
+2022-01-25 11:28:03   INFO      T1_measure     Progressing
+2022-01-25 11:28:03   ERROR     T1_measure     Operation aborted
+2022-01-25 11:28:03   INFO      T2_measure     Starting
+2022-01-25 11:28:08   INFO      T2_measure     Updating
+2022-01-25 11:28:08   INFO      T2_measure     Operation complete
+2022-01-25 11:28:08   INFO      T1_measure     Starting
+2022-01-25 11:28:11   INFO      T1_measure     Progressing
+2022-01-25 11:28:11   INFO      T1_measure     Operation complete
+2022-01-25 11:28:11   INFO      Main           Starting
+2022-01-25 11:28:14   WARNING   Main           Updating
+2022-01-25 11:28:14   INFO      Main           Operation complete
+2022-01-25 11:28:14   INFO      T1_measure     Starting
+2022-01-25 11:28:16   INFO      T1_measure     You know this is random, right?
+2022-01-25 11:28:17   INFO      T1_measure     Updating
+2022-01-25 11:28:19   INFO      T1_measure     You know this is random, right?
+2022-01-25 11:28:19   INFO      T1_measure     Operation complete
+2022-01-25 11:28:19   INFO      T1_measure     Starting
+2022-01-25 11:28:24   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 11:28:26   INFO      T1_measure     Updating
+2022-01-25 11:28:30   INFO      T1_measure     Updating
+2022-01-25 11:28:30   INFO      T1_measure     Operation complete
+2022-01-25 11:28:30   INFO      T2_measure     Starting
+2022-01-25 11:28:33   WARNING   T2_measure     You know this is random, right?
+2022-01-25 11:28:38   INFO      T2_measure     Message here
+2022-01-25 11:28:40   INFO      T2_measure     Progressing
+2022-01-25 11:28:42   INFO      T2_measure     You know this is random, right?
+2022-01-25 11:28:42   INFO      T2_measure     Operation complete
+2022-01-25 11:28:42   INFO      Main           Starting
+2022-01-25 11:28:45   INFO      Main           Message here
+2022-01-25 11:28:49   WARNING   Main           Progressing
+2022-01-25 11:28:53   INFO      Main           You know this is random, right?
+2022-01-25 11:28:53   INFO      Main           Operation complete
+2022-01-25 11:28:53   INFO      T2_measure     Starting
+2022-01-25 11:28:58   WARNING   T2_measure     Progressing
+2022-01-25 11:28:59   INFO      T2_measure     Progressing
+2022-01-25 11:29:03   ERROR     T2_measure     Progressing
+2022-01-25 11:29:03   INFO      T2_measure     Operation complete
+2022-01-25 11:29:03   INFO      Main           Starting
+2022-01-25 11:29:06   INFO      Main           Message here
+2022-01-25 11:29:10   INFO      Main           One does not simply walk into Mordor
+2022-01-25 11:29:13   WARNING   Main           One does not simply walk into Mordor
+2022-01-25 11:29:14   INFO      Main           Updating
+2022-01-25 11:29:14   INFO      Main           Operation complete
+2022-01-25 11:29:14   INFO      Main           Starting
+2022-01-25 11:29:16   INFO      Main           Updating
+2022-01-25 11:29:18   INFO      Main           You know this is random, right?
+2022-01-25 11:29:18   INFO      Main           Operation complete
+2022-01-25 11:29:18   INFO      T1_measure     Starting
+2022-01-25 11:29:20   INFO      T1_measure     Progressing
+2022-01-25 11:29:24   INFO      T1_measure     Updating
+2022-01-25 11:29:28   INFO      T1_measure     Updating
+2022-01-25 11:29:29   WARNING   T1_measure     Updating
+2022-01-25 11:29:29   ERROR     T1_measure     An error occured and the operation failed
+2022-01-25 11:29:29   INFO      Main           Starting
+2022-01-25 11:29:31   INFO      Main           You know this is random, right?
+2022-01-25 11:29:33   INFO      Main           You know this is random, right?
+2022-01-25 11:29:36   INFO      Main           Progressing
+2022-01-25 11:29:36   INFO      Main           Operation complete
+2022-01-25 11:29:36   INFO      T2_measure     Starting
+2022-01-25 11:29:38   INFO      T2_measure     Updating
+2022-01-25 11:29:41   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 11:29:41   INFO      T2_measure     Operation complete
+2022-01-25 11:29:41   INFO      T1_measure     Starting
+2022-01-25 11:29:42   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 11:29:42   INFO      T1_measure     Operation complete
+2022-01-25 11:29:42   INFO      T1_measure     Starting
+2022-01-25 11:29:46   INFO      T1_measure     Updating
+2022-01-25 11:29:50   INFO      T1_measure     Progressing
+2022-01-25 11:29:54   INFO      T1_measure     Progressing
+2022-01-25 11:29:54   INFO      T1_measure     Operation complete
+2022-01-25 11:29:54   INFO      T2_measure     Starting
+2022-01-25 11:29:58   INFO      T2_measure     Updating
+2022-01-25 11:29:58   INFO      T2_measure     Operation complete
+2022-01-25 11:29:58   INFO      T1_measure     Starting
+2022-01-25 11:30:02   WARNING   T1_measure     You know this is random, right?
+2022-01-25 11:30:05   INFO      T1_measure     You know this is random, right?
+2022-01-25 11:30:07   INFO      T1_measure     You know this is random, right?
+2022-01-25 11:30:07   INFO      T1_measure     Operation complete
+2022-01-25 11:30:07   INFO      Main           Starting
+2022-01-25 11:30:09   INFO      Main           One does not simply walk into Mordor
+2022-01-25 11:30:09   INFO      Main           Operation complete
+2022-01-25 11:30:09   INFO      T2_measure     Starting
+2022-01-25 11:30:13   INFO      T2_measure     Progressing
+2022-01-25 11:30:15   INFO      T2_measure     Updating
+2022-01-25 11:30:15   INFO      T2_measure     Operation complete
+2022-01-25 11:30:15   INFO      T1_measure     Starting
+2022-01-25 11:30:18   WARNING   T1_measure     Message here
+2022-01-25 11:30:20   WARNING   T1_measure     Message here
+2022-01-25 11:30:21   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 11:30:21   INFO      T1_measure     Operation complete
+2022-01-25 11:30:21   INFO      Main           Starting
+2022-01-25 11:30:22   INFO      Main           Updating
+2022-01-25 11:30:26   INFO      Main           You know this is random, right?
+2022-01-25 11:30:28   INFO      Main           You know this is random, right?
+2022-01-25 11:30:28   INFO      Main           Operation complete
+2022-01-25 11:30:28   INFO      T1_measure     Starting
+2022-01-25 11:30:33   INFO      T1_measure     Updating
+2022-01-25 11:30:36   WARNING   T1_measure     One does not simply walk into Mordor
+2022-01-25 11:30:39   INFO      T1_measure     Message here
+2022-01-25 11:30:39   INFO      T1_measure     Operation complete
+2022-01-25 11:30:39   INFO      Main           Starting
+2022-01-25 11:30:43   WARNING   Main           You know this is random, right?
+2022-01-25 11:30:48   ERROR     Main           Message here
+2022-01-25 11:30:51   INFO      Main           One does not simply walk into Mordor
+2022-01-25 11:30:51   INFO      Main           Operation complete
+2022-01-25 11:30:51   INFO      T1_measure     Starting
+2022-01-25 11:30:54   WARNING   T1_measure     Progressing
+2022-01-25 11:30:59   INFO      T1_measure     Updating
+2022-01-25 11:31:02   INFO      T1_measure     Updating
+2022-01-25 11:31:07   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 11:31:07   INFO      T1_measure     Operation complete
+2022-01-25 11:31:07   INFO      T1_measure     Starting
+2022-01-25 11:31:08   INFO      T1_measure     Message here
+2022-01-25 11:31:08   INFO      T1_measure     Operation complete
+2022-01-25 11:31:08   INFO      T2_measure     Starting
+2022-01-25 11:31:09   INFO      T2_measure     Updating
+2022-01-25 11:31:14   WARNING   T2_measure     You know this is random, right?
+2022-01-25 11:31:15   WARNING   T2_measure     Progressing
+2022-01-25 11:31:15   INFO      T2_measure     Operation complete
+2022-01-25 11:31:15   INFO      T2_measure     Starting
+2022-01-25 11:31:20   INFO      T2_measure     Message here
+2022-01-25 11:31:20   INFO      T2_measure     Operation complete
+2022-01-25 11:31:20   INFO      T1_measure     Starting
+2022-01-25 11:31:24   INFO      T1_measure     Updating
+2022-01-25 11:31:28   INFO      T1_measure     Progressing
+2022-01-25 11:31:31   INFO      T1_measure     Progressing
+2022-01-25 11:31:31   INFO      T1_measure     Operation complete
+2022-01-25 11:31:31   INFO      Main           Starting
+2022-01-25 11:31:33   WARNING   Main           You know this is random, right?
+2022-01-25 11:31:33   INFO      Main           Operation complete
+2022-01-25 11:31:33   INFO      Main           Starting
+2022-01-25 11:31:34   WARNING   Main           Progressing
+2022-01-25 11:31:34   ERROR     Main           An error occured and the operation failed
+2022-01-25 11:31:34   INFO      T2_measure     Starting
+2022-01-25 11:31:38   INFO      T2_measure     Message here
+2022-01-25 11:31:42   INFO      T2_measure     Updating
+2022-01-25 11:31:45   ERROR     T2_measure     Progressing
+2022-01-25 11:31:45   INFO      T2_measure     Operation complete
+2022-01-25 11:31:45   INFO      Main           Starting
+2022-01-25 11:31:49   INFO      Main           Updating
+2022-01-25 11:31:52   INFO      Main           One does not simply walk into Mordor
+2022-01-25 11:31:52   INFO      Main           Operation complete
+2022-01-25 11:31:52   INFO      T1_measure     Starting
+2022-01-25 11:31:55   INFO      T1_measure     Progressing
+2022-01-25 11:31:57   INFO      T1_measure     You know this is random, right?
+2022-01-25 11:31:57   INFO      T1_measure     Operation complete
+2022-01-25 11:31:57   INFO      T1_measure     Starting
+2022-01-25 11:32:02   INFO      T1_measure     Progressing
+2022-01-25 11:32:07   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 11:32:09   ERROR     T1_measure     You know this is random, right?
+2022-01-25 11:32:09   INFO      T1_measure     Operation complete
+2022-01-25 11:32:09   INFO      T1_measure     Starting
+2022-01-25 11:32:10   WARNING   T1_measure     You know this is random, right?
+2022-01-25 11:32:11   INFO      T1_measure     Updating
+2022-01-25 11:32:11   INFO      T1_measure     Operation complete
+2022-01-25 11:32:11   INFO      T2_measure     Starting
+2022-01-25 11:32:15   INFO      T2_measure     Message here
+2022-01-25 11:32:15   INFO      T2_measure     Operation complete
+2022-01-25 11:32:15   INFO      Main           Starting
+2022-01-25 11:32:16   INFO      Main           You know this is random, right?
+2022-01-25 11:32:18   WARNING   Main           Progressing
+2022-01-25 11:32:18   ERROR     Main           Memory index out of bound
+2022-01-25 11:32:18   INFO      Main           Starting
+2022-01-25 11:32:21   INFO      Main           You know this is random, right?
+2022-01-25 11:32:21   INFO      Main           Operation complete
+2022-01-25 11:32:21   INFO      Main           Starting
+2022-01-25 11:32:22   INFO      Main           Progressing
+2022-01-25 11:32:23   INFO      Main           Updating
+2022-01-25 11:32:23   INFO      Main           Operation complete
+2022-01-25 11:32:23   INFO      T1_measure     Starting
+2022-01-25 11:32:28   WARNING   T1_measure     You know this is random, right?
+2022-01-25 11:32:33   WARNING   T1_measure     You know this is random, right?
+2022-01-25 11:32:35   INFO      T1_measure     Progressing
+2022-01-25 11:32:35   INFO      T1_measure     Operation complete
+2022-01-25 11:32:35   INFO      T1_measure     Starting
+2022-01-25 11:32:40   INFO      T1_measure     You know this is random, right?
+2022-01-25 11:32:40   ERROR     T1_measure     Operation aborted
+2022-01-25 11:32:40   INFO      T1_measure     Starting
+2022-01-25 11:32:41   WARNING   T1_measure     You know this is random, right?
+2022-01-25 11:32:42   WARNING   T1_measure     Updating
+2022-01-25 11:32:47   INFO      T1_measure     Updating
+2022-01-25 11:32:49   ERROR     T1_measure     Message here
+2022-01-25 11:32:49   ERROR     T1_measure     Operation aborted
+2022-01-25 11:32:49   INFO      T1_measure     Starting
+2022-01-25 11:32:52   INFO      T1_measure     Updating
+2022-01-25 11:32:57   WARNING   T1_measure     Message here
+2022-01-25 11:32:59   INFO      T1_measure     You know this is random, right?
+2022-01-25 11:33:04   INFO      T1_measure     Message here
+2022-01-25 11:33:04   INFO      T1_measure     Operation complete
+2022-01-25 11:33:04   INFO      Main           Starting
+2022-01-25 11:33:05   ERROR     Main           Progressing
+2022-01-25 11:33:08   WARNING   Main           You know this is random, right?
+2022-01-25 11:33:11   INFO      Main           Updating
+2022-01-25 11:33:11   INFO      Main           Operation complete
+2022-01-25 11:33:11   INFO      T1_measure     Starting
+2022-01-25 11:33:14   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 11:33:14   INFO      T1_measure     Operation complete
+2022-01-25 11:33:14   INFO      Main           Starting
+2022-01-25 11:33:19   WARNING   Main           Updating
+2022-01-25 11:33:21   INFO      Main           You know this is random, right?
+2022-01-25 11:33:21   ERROR     Main           Operation aborted
+2022-01-25 11:33:21   INFO      T1_measure     Starting
+2022-01-25 11:33:24   ERROR     T1_measure     Updating
+2022-01-25 11:33:29   INFO      T1_measure     Progressing
+2022-01-25 11:33:29   INFO      T1_measure     Operation complete
+2022-01-25 11:33:29   INFO      T1_measure     Starting
+2022-01-25 11:33:31   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 11:33:34   ERROR     T1_measure     You know this is random, right?
+2022-01-25 11:33:35   ERROR     T1_measure     You know this is random, right?
+2022-01-25 11:33:40   INFO      T1_measure     You know this is random, right?
+2022-01-25 11:33:40   ERROR     T1_measure     Connection dropped
+2022-01-25 11:33:40   INFO      Main           Starting
+2022-01-25 11:33:44   WARNING   Main           One does not simply walk into Mordor
+2022-01-25 11:33:45   INFO      Main           Progressing
+2022-01-25 11:33:47   WARNING   Main           Updating
+2022-01-25 11:33:52   INFO      Main           Message here
+2022-01-25 11:33:52   ERROR     Main           Connection dropped
+2022-01-25 11:33:52   INFO      T1_measure     Starting
+2022-01-25 11:33:54   INFO      T1_measure     You know this is random, right?
+2022-01-25 11:33:57   WARNING   T1_measure     You know this is random, right?
+2022-01-25 11:33:59   ERROR     T1_measure     One does not simply walk into Mordor
+2022-01-25 11:34:02   INFO      T1_measure     You know this is random, right?
+2022-01-25 11:34:02   INFO      T1_measure     Operation complete
+2022-01-25 11:34:02   INFO      Main           Starting
+2022-01-25 11:34:07   ERROR     Main           Message here
+2022-01-25 11:34:12   WARNING   Main           Updating
+2022-01-25 11:34:15   WARNING   Main           Updating
+2022-01-25 11:34:15   INFO      Main           Operation complete
+2022-01-25 11:34:15   INFO      Main           Starting
+2022-01-25 11:34:19   WARNING   Main           Message here
+2022-01-25 11:34:24   INFO      Main           Progressing
+2022-01-25 11:34:28   INFO      Main           Updating
+2022-01-25 11:34:28   INFO      Main           Operation complete
+2022-01-25 11:34:28   INFO      Main           Starting
+2022-01-25 11:34:29   INFO      Main           You know this is random, right?
+2022-01-25 11:34:32   INFO      Main           One does not simply walk into Mordor
+2022-01-25 11:34:32   INFO      Main           Operation complete
+2022-01-25 11:34:32   INFO      Main           Starting
+2022-01-25 11:34:33   WARNING   Main           Message here
+2022-01-25 11:34:35   INFO      Main           One does not simply walk into Mordor
+2022-01-25 11:34:39   INFO      Main           Progressing
+2022-01-25 11:34:39   INFO      Main           Operation complete
+2022-01-25 11:34:39   INFO      Main           Starting
+2022-01-25 11:34:42   INFO      Main           Updating
+2022-01-25 11:34:42   INFO      Main           Operation complete
+2022-01-25 11:34:42   INFO      T2_measure     Starting
+2022-01-25 11:34:47   ERROR     T2_measure     One does not simply walk into Mordor
+2022-01-25 11:34:52   WARNING   T2_measure     Message here
+2022-01-25 11:34:52   INFO      T2_measure     Operation complete
+2022-01-25 11:34:52   INFO      T1_measure     Starting
+2022-01-25 11:34:54   WARNING   T1_measure     One does not simply walk into Mordor
+2022-01-25 11:34:59   ERROR     T1_measure     One does not simply walk into Mordor
+2022-01-25 11:34:59   INFO      T1_measure     Operation complete
+2022-01-25 11:34:59   INFO      Main           Starting
+2022-01-25 11:35:02   INFO      Main           You know this is random, right?
+2022-01-25 11:35:04   INFO      Main           One does not simply walk into Mordor
+2022-01-25 11:35:09   INFO      Main           You know this is random, right?
+2022-01-25 11:35:14   INFO      Main           You know this is random, right?
+2022-01-25 11:35:14   INFO      Main           Operation complete
+2022-01-25 11:35:14   INFO      T1_measure     Starting
+2022-01-25 11:35:16   INFO      T1_measure     Progressing
+2022-01-25 11:35:21   WARNING   T1_measure     Updating
+2022-01-25 11:35:23   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 11:35:26   INFO      T1_measure     Progressing
+2022-01-25 11:35:26   INFO      T1_measure     Operation complete
+2022-01-25 11:35:26   INFO      T1_measure     Starting
+2022-01-25 11:35:28   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 11:35:33   WARNING   T1_measure     One does not simply walk into Mordor
+2022-01-25 11:35:37   WARNING   T1_measure     Message here
+2022-01-25 11:35:38   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 11:35:38   ERROR     T1_measure     Connection dropped
+2022-01-25 11:35:38   INFO      Main           Starting
+2022-01-25 11:35:43   WARNING   Main           You know this is random, right?
+2022-01-25 11:35:43   INFO      Main           Operation complete
+2022-01-25 11:35:43   INFO      T2_measure     Starting
+2022-01-25 11:35:48   INFO      T2_measure     Updating
+2022-01-25 11:35:49   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 11:35:49   INFO      T2_measure     Operation complete
+2022-01-25 11:35:49   INFO      T2_measure     Starting
+2022-01-25 11:35:50   WARNING   T2_measure     You know this is random, right?
+2022-01-25 11:35:51   ERROR     T2_measure     Progressing
+2022-01-25 11:35:54   WARNING   T2_measure     One does not simply walk into Mordor
+2022-01-25 11:35:54   INFO      T2_measure     Operation complete
+2022-01-25 11:35:54   INFO      T1_measure     Starting
+2022-01-25 11:35:56   ERROR     T1_measure     One does not simply walk into Mordor
+2022-01-25 11:36:01   INFO      T1_measure     Updating
+2022-01-25 11:36:03   INFO      T1_measure     You know this is random, right?
+2022-01-25 11:36:07   WARNING   T1_measure     You know this is random, right?
+2022-01-25 11:36:07   INFO      T1_measure     Operation complete
+2022-01-25 11:36:07   INFO      T2_measure     Starting
+2022-01-25 11:36:09   INFO      T2_measure     Progressing
+2022-01-25 11:36:12   WARNING   T2_measure     You know this is random, right?
+2022-01-25 11:36:14   INFO      T2_measure     You know this is random, right?
+2022-01-25 11:36:18   INFO      T2_measure     Message here
+2022-01-25 11:36:18   INFO      T2_measure     Operation complete
+2022-01-25 11:36:18   INFO      Main           Starting
+2022-01-25 11:36:20   WARNING   Main           You know this is random, right?
+2022-01-25 11:36:21   WARNING   Main           Progressing
+2022-01-25 11:36:24   WARNING   Main           Progressing
+2022-01-25 11:36:27   INFO      Main           Updating
+2022-01-25 11:36:27   ERROR     Main           Operation aborted
+2022-01-25 11:36:27   INFO      T2_measure     Starting
+2022-01-25 11:36:29   ERROR     T2_measure     Message here
+2022-01-25 11:36:33   WARNING   T2_measure     Updating
+2022-01-25 11:36:36   WARNING   T2_measure     Updating
+2022-01-25 11:36:36   INFO      T2_measure     Operation complete
+2022-01-25 11:36:36   INFO      Main           Starting
+2022-01-25 11:36:39   WARNING   Main           One does not simply walk into Mordor
+2022-01-25 11:36:44   INFO      Main           You know this is random, right?
+2022-01-25 11:36:48   INFO      Main           You know this is random, right?
+2022-01-25 11:36:48   INFO      Main           Operation complete
+2022-01-25 11:36:48   INFO      Main           Starting
+2022-01-25 11:36:49   WARNING   Main           One does not simply walk into Mordor
+2022-01-25 11:36:52   INFO      Main           Progressing
+2022-01-25 11:36:52   INFO      Main           Operation complete
+2022-01-25 11:36:52   INFO      T1_measure     Starting
+2022-01-25 11:36:56   WARNING   T1_measure     Message here
+2022-01-25 11:37:00   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 11:37:00   INFO      T1_measure     Operation complete
+2022-01-25 11:37:00   INFO      Main           Starting
+2022-01-25 11:37:01   INFO      Main           You know this is random, right?
+2022-01-25 11:37:06   WARNING   Main           Progressing
+2022-01-25 11:37:07   INFO      Main           Progressing
+2022-01-25 11:37:11   INFO      Main           Message here
+2022-01-25 11:37:11   ERROR     Main           Operation aborted
+2022-01-25 11:37:11   INFO      Main           Starting
+2022-01-25 11:37:16   WARNING   Main           Updating
+2022-01-25 11:37:17   INFO      Main           Updating
+2022-01-25 11:37:20   ERROR     Main           Updating
+2022-01-25 11:37:25   INFO      Main           One does not simply walk into Mordor
+2022-01-25 11:37:25   INFO      Main           Operation complete
+2022-01-25 11:37:25   INFO      T1_measure     Starting
+2022-01-25 11:37:29   WARNING   T1_measure     You know this is random, right?
+2022-01-25 11:37:31   INFO      T1_measure     Updating
+2022-01-25 11:37:35   INFO      T1_measure     Progressing
+2022-01-25 11:37:38   WARNING   T1_measure     You know this is random, right?
+2022-01-25 11:37:38   INFO      T1_measure     Operation complete
+2022-01-25 11:37:38   INFO      T1_measure     Starting
+2022-01-25 11:37:43   INFO      T1_measure     Message here
+2022-01-25 11:37:43   ERROR     T1_measure     An error occured and the operation failed
+2022-01-25 11:37:43   INFO      T1_measure     Starting
+2022-01-25 11:37:48   WARNING   T1_measure     You know this is random, right?
+2022-01-25 11:37:52   INFO      T1_measure     Message here
+2022-01-25 11:37:56   ERROR     T1_measure     Updating
+2022-01-25 11:37:57   INFO      T1_measure     Updating
+2022-01-25 11:37:57   INFO      T1_measure     Operation complete
+2022-01-25 11:37:57   INFO      T1_measure     Starting
+2022-01-25 11:38:00   INFO      T1_measure     Progressing
+2022-01-25 11:38:04   INFO      T1_measure     Message here
+2022-01-25 11:38:04   INFO      T1_measure     Operation complete
+2022-01-25 11:38:04   INFO      T1_measure     Starting
+2022-01-25 11:38:06   WARNING   T1_measure     Updating
+2022-01-25 11:38:08   INFO      T1_measure     You know this is random, right?
+2022-01-25 11:38:08   INFO      T1_measure     Operation complete
+2022-01-25 11:38:08   INFO      Main           Starting
+2022-01-25 11:38:09   INFO      Main           Message here
+2022-01-25 11:38:09   INFO      Main           Operation complete
+2022-01-25 11:38:09   INFO      Main           Starting
+2022-01-25 11:38:13   ERROR     Main           Updating
+2022-01-25 11:38:15   WARNING   Main           Updating
+2022-01-25 11:38:16   INFO      Main           Progressing
+2022-01-25 11:38:18   WARNING   Main           Updating
+2022-01-25 11:38:18   ERROR     Main           Connection dropped
+2022-01-25 11:38:18   INFO      T2_measure     Starting
+2022-01-25 11:38:22   INFO      T2_measure     Updating
+2022-01-25 11:38:24   INFO      T2_measure     Message here
+2022-01-25 11:38:27   INFO      T2_measure     Progressing
+2022-01-25 11:38:28   INFO      T2_measure     Updating
+2022-01-25 11:38:28   INFO      T2_measure     Operation complete
+2022-01-25 11:38:28   INFO      T2_measure     Starting
+2022-01-25 11:38:29   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 11:38:30   ERROR     T2_measure     One does not simply walk into Mordor
+2022-01-25 11:38:34   INFO      T2_measure     Updating
+2022-01-25 11:38:38   WARNING   T2_measure     Progressing
+2022-01-25 11:38:38   INFO      T2_measure     Operation complete
+2022-01-25 11:38:38   INFO      T2_measure     Starting
+2022-01-25 11:38:43   INFO      T2_measure     Progressing
+2022-01-25 11:38:45   WARNING   T2_measure     Message here
+2022-01-25 11:38:49   WARNING   T2_measure     You know this is random, right?
+2022-01-25 11:38:49   INFO      T2_measure     Operation complete
+2022-01-25 11:38:49   INFO      Main           Starting
+2022-01-25 11:38:51   INFO      Main           You know this is random, right?
+2022-01-25 11:38:51   INFO      Main           Operation complete
+2022-01-25 11:38:51   INFO      T1_measure     Starting
+2022-01-25 11:38:52   WARNING   T1_measure     Message here
+2022-01-25 11:38:56   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 11:38:57   ERROR     T1_measure     One does not simply walk into Mordor
+2022-01-25 11:38:57   INFO      T1_measure     Operation complete
+2022-01-25 11:38:57   INFO      T2_measure     Starting
+2022-01-25 11:39:01   INFO      T2_measure     Updating
+2022-01-25 11:39:04   INFO      T2_measure     Message here
+2022-01-25 11:39:04   INFO      T2_measure     Operation complete
+2022-01-25 11:39:04   INFO      T2_measure     Starting
+2022-01-25 11:39:09   ERROR     T2_measure     One does not simply walk into Mordor
+2022-01-25 11:39:13   INFO      T2_measure     Progressing
+2022-01-25 11:39:15   INFO      T2_measure     Message here
+2022-01-25 11:39:15   ERROR     T2_measure     Operation aborted
+2022-01-25 11:39:15   INFO      Main           Starting
+2022-01-25 11:39:18   WARNING   Main           One does not simply walk into Mordor
+2022-01-25 11:39:21   INFO      Main           Progressing
+2022-01-25 11:39:21   INFO      Main           Operation complete
+2022-01-25 11:39:21   INFO      T2_measure     Starting
+2022-01-25 11:39:26   INFO      T2_measure     You know this is random, right?
+2022-01-25 11:39:26   INFO      T2_measure     Operation complete
+2022-01-25 11:39:26   INFO      Main           Starting
+2022-01-25 11:39:29   ERROR     Main           Progressing
+2022-01-25 11:39:29   INFO      Main           Operation complete
+2022-01-25 11:39:29   INFO      Main           Starting
+2022-01-25 11:39:32   INFO      Main           Message here
+2022-01-25 11:39:35   INFO      Main           Message here
+2022-01-25 11:39:36   WARNING   Main           One does not simply walk into Mordor
+2022-01-25 11:39:36   INFO      Main           Operation complete
+2022-01-25 11:39:36   INFO      T1_measure     Starting
+2022-01-25 11:39:37   WARNING   T1_measure     Updating
+2022-01-25 11:39:38   WARNING   T1_measure     Message here
+2022-01-25 11:39:38   INFO      T1_measure     Operation complete
+2022-01-25 11:39:38   INFO      T1_measure     Starting
+2022-01-25 11:39:40   WARNING   T1_measure     Updating
+2022-01-25 11:39:42   WARNING   T1_measure     Progressing
+2022-01-25 11:39:45   INFO      T1_measure     Progressing
+2022-01-25 11:39:47   INFO      T1_measure     Updating
+2022-01-25 11:39:47   ERROR     T1_measure     An error occured and the operation failed
+2022-01-25 11:39:47   INFO      T1_measure     Starting
+2022-01-25 11:39:49   WARNING   T1_measure     Message here
+2022-01-25 11:39:52   ERROR     T1_measure     You know this is random, right?
+2022-01-25 11:39:56   INFO      T1_measure     You know this is random, right?
+2022-01-25 11:39:56   INFO      T1_measure     Operation complete
+2022-01-25 11:39:56   INFO      T1_measure     Starting
+2022-01-25 11:39:58   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 11:40:02   ERROR     T1_measure     You know this is random, right?
+2022-01-25 11:40:05   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 11:40:05   INFO      T1_measure     Operation complete
+2022-01-25 11:40:05   INFO      T1_measure     Starting
+2022-01-25 11:40:07   WARNING   T1_measure     Message here
+2022-01-25 11:40:10   WARNING   T1_measure     You know this is random, right?
+2022-01-25 11:40:13   INFO      T1_measure     Progressing
+2022-01-25 11:40:13   INFO      T1_measure     Operation complete
+2022-01-25 11:40:13   INFO      Main           Starting
+2022-01-25 11:40:16   INFO      Main           You know this is random, right?
+2022-01-25 11:40:16   INFO      Main           Operation complete
+2022-01-25 11:40:16   INFO      Main           Starting
+2022-01-25 11:40:19   WARNING   Main           You know this is random, right?
+2022-01-25 11:40:23   INFO      Main           Message here
+2022-01-25 11:40:24   WARNING   Main           Updating
+2022-01-25 11:40:24   INFO      Main           Operation complete
+2022-01-25 11:40:24   INFO      Main           Starting
+2022-01-25 11:40:26   WARNING   Main           Updating
+2022-01-25 11:40:28   INFO      Main           Progressing
+2022-01-25 11:40:32   INFO      Main           Progressing
+2022-01-25 11:40:32   INFO      Main           Operation complete
+2022-01-25 11:40:32   INFO      T1_measure     Starting
+2022-01-25 11:40:36   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 11:40:40   INFO      T1_measure     Progressing
+2022-01-25 11:40:45   WARNING   T1_measure     Message here
+2022-01-25 11:40:45   INFO      T1_measure     Operation complete
+2022-01-25 11:40:45   INFO      Main           Starting
+2022-01-25 11:40:50   INFO      Main           Message here
+2022-01-25 11:40:53   INFO      Main           Progressing
+2022-01-25 11:40:58   ERROR     Main           One does not simply walk into Mordor
+2022-01-25 11:41:01   INFO      Main           You know this is random, right?
+2022-01-25 11:41:01   INFO      Main           Operation complete
+2022-01-25 11:41:01   INFO      T1_measure     Starting
+2022-01-25 11:41:05   WARNING   T1_measure     One does not simply walk into Mordor
+2022-01-25 11:41:07   INFO      T1_measure     Updating
+2022-01-25 11:41:07   INFO      T1_measure     Operation complete
+2022-01-25 11:41:07   INFO      T1_measure     Starting
+2022-01-25 11:41:09   INFO      T1_measure     Message here
+2022-01-25 11:41:10   INFO      T1_measure     Message here
+2022-01-25 11:41:14   WARNING   T1_measure     Message here
+2022-01-25 11:41:14   INFO      T1_measure     Operation complete
+2022-01-25 11:41:14   INFO      Main           Starting
+2022-01-25 11:41:18   ERROR     Main           One does not simply walk into Mordor
+2022-01-25 11:41:18   ERROR     Main           Connection dropped
+2022-01-25 11:41:18   INFO      T2_measure     Starting
+2022-01-25 11:41:20   WARNING   T2_measure     Updating
+2022-01-25 11:41:21   ERROR     T2_measure     Progressing
+2022-01-25 11:41:23   WARNING   T2_measure     You know this is random, right?
+2022-01-25 11:41:23   INFO      T2_measure     Operation complete
+2022-01-25 11:41:23   INFO      T1_measure     Starting
+2022-01-25 11:41:27   INFO      T1_measure     Progressing
+2022-01-25 11:41:28   WARNING   T1_measure     Message here
+2022-01-25 11:41:28   INFO      T1_measure     Operation complete
+2022-01-25 11:41:28   INFO      T2_measure     Starting
+2022-01-25 11:41:32   INFO      T2_measure     Message here
+2022-01-25 11:41:32   INFO      T2_measure     Operation complete
+2022-01-25 11:41:32   INFO      Main           Starting
+2022-01-25 11:41:36   INFO      Main           One does not simply walk into Mordor
+2022-01-25 11:41:40   INFO      Main           Progressing
+2022-01-25 11:41:40   INFO      Main           Operation complete
+2022-01-25 11:41:40   INFO      T1_measure     Starting
+2022-01-25 11:41:43   INFO      T1_measure     You know this is random, right?
+2022-01-25 11:41:46   WARNING   T1_measure     Updating
+2022-01-25 11:41:50   INFO      T1_measure     You know this is random, right?
+2022-01-25 11:41:53   ERROR     T1_measure     Progressing
+2022-01-25 11:41:53   INFO      T1_measure     Operation complete
+2022-01-25 11:41:53   INFO      T2_measure     Starting
+2022-01-25 11:41:56   INFO      T2_measure     Message here
+2022-01-25 11:41:57   WARNING   T2_measure     You know this is random, right?
+2022-01-25 11:41:57   ERROR     T2_measure     Operation aborted
+2022-01-25 11:41:57   INFO      T1_measure     Starting
+2022-01-25 11:42:02   ERROR     T1_measure     You know this is random, right?
+2022-01-25 11:42:03   WARNING   T1_measure     Progressing
+2022-01-25 11:42:07   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 11:42:12   INFO      T1_measure     Message here
+2022-01-25 11:42:12   ERROR     T1_measure     An error occured and the operation failed
+2022-01-25 11:42:12   INFO      Main           Starting
+2022-01-25 11:42:14   INFO      Main           Updating
+2022-01-25 11:42:14   INFO      Main           Operation complete
+2022-01-25 11:42:14   INFO      Main           Starting
+2022-01-25 11:42:17   WARNING   Main           You know this is random, right?
+2022-01-25 11:42:22   INFO      Main           Message here
+2022-01-25 11:42:27   ERROR     Main           Progressing
+2022-01-25 11:42:32   WARNING   Main           You know this is random, right?
+2022-01-25 11:42:32   INFO      Main           Operation complete
+2022-01-25 11:42:32   INFO      T1_measure     Starting
+2022-01-25 11:42:34   INFO      T1_measure     Updating
+2022-01-25 11:42:35   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 11:42:35   INFO      T1_measure     Operation complete
+2022-01-25 11:42:35   INFO      T1_measure     Starting
+2022-01-25 11:42:37   INFO      T1_measure     You know this is random, right?
+2022-01-25 11:42:41   INFO      T1_measure     Progressing
+2022-01-25 11:42:43   ERROR     T1_measure     Progressing
+2022-01-25 11:42:45   INFO      T1_measure     You know this is random, right?
+2022-01-25 11:42:45   INFO      T1_measure     Operation complete
+2022-01-25 11:42:45   INFO      Main           Starting
+2022-01-25 11:42:46   WARNING   Main           You know this is random, right?
+2022-01-25 11:42:51   INFO      Main           You know this is random, right?
+2022-01-25 11:42:51   ERROR     Main           Operation aborted
+2022-01-25 11:42:51   INFO      T2_measure     Starting
+2022-01-25 11:42:54   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 11:42:55   INFO      T2_measure     Progressing
+2022-01-25 11:42:55   INFO      T2_measure     Operation complete
+2022-01-25 11:42:55   INFO      T2_measure     Starting
+2022-01-25 11:43:00   INFO      T2_measure     You know this is random, right?
+2022-01-25 11:43:00   INFO      T2_measure     Operation complete
+2022-01-25 11:43:00   INFO      Main           Starting
+2022-01-25 11:43:05   INFO      Main           You know this is random, right?
+2022-01-25 11:43:05   INFO      Main           Operation complete
+2022-01-25 11:43:05   INFO      T1_measure     Starting
+2022-01-25 11:43:06   INFO      T1_measure     Progressing
+2022-01-25 11:43:06   INFO      T1_measure     Operation complete
+2022-01-25 11:43:06   INFO      Main           Starting
+2022-01-25 11:43:07   WARNING   Main           One does not simply walk into Mordor
+2022-01-25 11:43:12   INFO      Main           Progressing
+2022-01-25 11:43:12   ERROR     Main           Connection dropped
+2022-01-25 11:43:12   INFO      T2_measure     Starting
+2022-01-25 11:43:15   INFO      T2_measure     Updating
+2022-01-25 11:43:15   INFO      T2_measure     Operation complete
+2022-01-25 11:43:15   INFO      T1_measure     Starting
+2022-01-25 11:43:18   ERROR     T1_measure     One does not simply walk into Mordor
+2022-01-25 11:43:20   INFO      T1_measure     Updating
+2022-01-25 11:43:24   INFO      T1_measure     You know this is random, right?
+2022-01-25 11:43:25   WARNING   T1_measure     Message here
+2022-01-25 11:43:25   ERROR     T1_measure     Operation aborted
+2022-01-25 11:43:25   INFO      T2_measure     Starting
+2022-01-25 11:43:27   INFO      T2_measure     Message here
+2022-01-25 11:43:30   WARNING   T2_measure     Message here
+2022-01-25 11:43:34   WARNING   T2_measure     Progressing
+2022-01-25 11:43:35   INFO      T2_measure     Message here
+2022-01-25 11:43:35   INFO      T2_measure     Operation complete
+2022-01-25 11:43:35   INFO      T2_measure     Starting
+2022-01-25 11:43:36   INFO      T2_measure     You know this is random, right?
+2022-01-25 11:43:38   INFO      T2_measure     Progressing
+2022-01-25 11:43:43   INFO      T2_measure     Updating
+2022-01-25 11:43:43   ERROR     T2_measure     Connection dropped
+2022-01-25 11:43:43   INFO      T1_measure     Starting
+2022-01-25 11:43:48   WARNING   T1_measure     You know this is random, right?
+2022-01-25 11:43:49   ERROR     T1_measure     Progressing
+2022-01-25 11:43:52   WARNING   T1_measure     Updating
+2022-01-25 11:43:52   INFO      T1_measure     Operation complete
+2022-01-25 11:43:52   INFO      Main           Starting
+2022-01-25 11:43:54   WARNING   Main           Message here
+2022-01-25 11:43:55   WARNING   Main           Progressing
+2022-01-25 11:43:56   INFO      Main           Message here
+2022-01-25 11:43:58   WARNING   Main           You know this is random, right?
+2022-01-25 11:43:58   INFO      Main           Operation complete
+2022-01-25 11:43:58   INFO      T2_measure     Starting
+2022-01-25 11:44:00   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 11:44:05   WARNING   T2_measure     Progressing
+2022-01-25 11:44:09   WARNING   T2_measure     Message here
+2022-01-25 11:44:11   WARNING   T2_measure     Updating
+2022-01-25 11:44:11   INFO      T2_measure     Operation complete
+2022-01-25 11:44:11   INFO      T1_measure     Starting
+2022-01-25 11:44:15   INFO      T1_measure     Message here
+2022-01-25 11:44:20   INFO      T1_measure     Updating
+2022-01-25 11:44:20   INFO      T1_measure     Operation complete
+2022-01-25 11:44:20   INFO      Main           Starting
+2022-01-25 11:44:22   INFO      Main           Updating
+2022-01-25 11:44:23   INFO      Main           Updating
+2022-01-25 11:44:23   INFO      Main           Operation complete
+2022-01-25 11:44:23   INFO      T2_measure     Starting
+2022-01-25 11:44:24   WARNING   T2_measure     Updating
+2022-01-25 11:44:26   WARNING   T2_measure     You know this is random, right?
+2022-01-25 11:44:31   INFO      T2_measure     Progressing
+2022-01-25 11:44:33   WARNING   T2_measure     One does not simply walk into Mordor
+2022-01-25 11:44:33   ERROR     T2_measure     Connection dropped
+2022-01-25 11:44:33   INFO      T2_measure     Starting
+2022-01-25 11:44:38   WARNING   T2_measure     Updating
+2022-01-25 11:44:42   ERROR     T2_measure     One does not simply walk into Mordor
+2022-01-25 11:44:45   INFO      T2_measure     Message here
+2022-01-25 11:44:45   INFO      T2_measure     Operation complete
+2022-01-25 11:44:45   INFO      T1_measure     Starting
+2022-01-25 11:44:47   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 11:44:50   INFO      T1_measure     You know this is random, right?
+2022-01-25 11:44:53   ERROR     T1_measure     Message here
+2022-01-25 11:44:54   INFO      T1_measure     Message here
+2022-01-25 11:44:54   INFO      T1_measure     Operation complete
+2022-01-25 11:44:54   INFO      Main           Starting
+2022-01-25 11:44:59   WARNING   Main           Updating
+2022-01-25 11:45:03   ERROR     Main           Updating
+2022-01-25 11:45:05   INFO      Main           Progressing
+2022-01-25 11:45:10   WARNING   Main           One does not simply walk into Mordor
+2022-01-25 11:45:10   INFO      Main           Operation complete
+2022-01-25 11:45:10   INFO      T1_measure     Starting
+2022-01-25 11:45:11   INFO      T1_measure     Updating
+2022-01-25 11:45:12   INFO      T1_measure     You know this is random, right?
+2022-01-25 11:45:12   INFO      T1_measure     Operation complete
+2022-01-25 11:45:12   INFO      T2_measure     Starting
+2022-01-25 11:45:17   INFO      T2_measure     Progressing
+2022-01-25 11:45:17   INFO      T2_measure     Operation complete
+2022-01-25 11:45:17   INFO      T2_measure     Starting
+2022-01-25 11:45:18   INFO      T2_measure     Progressing
+2022-01-25 11:45:20   ERROR     T2_measure     You know this is random, right?
+2022-01-25 11:45:23   WARNING   T2_measure     You know this is random, right?
+2022-01-25 11:45:24   WARNING   T2_measure     Updating
+2022-01-25 11:45:24   INFO      T2_measure     Operation complete
+2022-01-25 11:45:24   INFO      T1_measure     Starting
+2022-01-25 11:45:29   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 11:45:32   INFO      T1_measure     Progressing
+2022-01-25 11:45:35   INFO      T1_measure     You know this is random, right?
+2022-01-25 11:45:37   ERROR     T1_measure     One does not simply walk into Mordor
+2022-01-25 11:45:37   INFO      T1_measure     Operation complete
+2022-01-25 11:45:37   INFO      Main           Starting
+2022-01-25 11:45:39   INFO      Main           Updating
+2022-01-25 11:45:44   INFO      Main           Progressing
+2022-01-25 11:45:47   INFO      Main           Progressing
+2022-01-25 11:45:50   INFO      Main           Updating
+2022-01-25 11:45:50   INFO      Main           Operation complete
+2022-01-25 11:45:50   INFO      T1_measure     Starting
+2022-01-25 11:45:55   INFO      T1_measure     Message here
+2022-01-25 11:46:00   INFO      T1_measure     Updating
+2022-01-25 11:46:01   INFO      T1_measure     You know this is random, right?
+2022-01-25 11:46:01   INFO      T1_measure     Operation complete
+2022-01-25 11:46:01   INFO      T2_measure     Starting
+2022-01-25 11:46:04   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 11:46:04   INFO      T2_measure     Operation complete
+2022-01-25 11:46:04   INFO      T2_measure     Starting
+2022-01-25 11:46:08   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 11:46:13   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 11:46:14   INFO      T2_measure     Message here
+2022-01-25 11:46:14   ERROR     T2_measure     An error occured and the operation failed
+2022-01-25 11:46:14   INFO      Main           Starting
+2022-01-25 11:46:17   ERROR     Main           You know this is random, right?
+2022-01-25 11:46:21   INFO      Main           Message here
+2022-01-25 11:46:23   WARNING   Main           Updating
+2022-01-25 11:46:28   WARNING   Main           Updating
+2022-01-25 11:46:28   INFO      Main           Operation complete
+2022-01-25 11:46:28   INFO      T1_measure     Starting
+2022-01-25 11:46:32   WARNING   T1_measure     Message here
+2022-01-25 11:46:34   INFO      T1_measure     You know this is random, right?
+2022-01-25 11:46:34   ERROR     T1_measure     An error occured and the operation failed
+2022-01-25 11:46:34   INFO      T2_measure     Starting
+2022-01-25 11:46:35   ERROR     T2_measure     Progressing
+2022-01-25 11:46:35   INFO      T2_measure     Operation complete
+2022-01-25 11:46:35   INFO      Main           Starting
+2022-01-25 11:46:40   INFO      Main           One does not simply walk into Mordor
+2022-01-25 11:46:41   INFO      Main           Updating
+2022-01-25 11:46:42   INFO      Main           Progressing
+2022-01-25 11:46:42   INFO      Main           Operation complete
+2022-01-25 11:46:42   INFO      Main           Starting
+2022-01-25 11:46:46   WARNING   Main           Updating
+2022-01-25 11:46:46   INFO      Main           Operation complete
+2022-01-25 11:46:46   INFO      T1_measure     Starting
+2022-01-25 11:46:49   WARNING   T1_measure     You know this is random, right?
+2022-01-25 11:46:52   INFO      T1_measure     Message here
+2022-01-25 11:46:53   WARNING   T1_measure     Message here
+2022-01-25 11:46:56   INFO      T1_measure     You know this is random, right?
+2022-01-25 11:46:56   INFO      T1_measure     Operation complete
+2022-01-25 11:46:56   INFO      T2_measure     Starting
+2022-01-25 11:47:00   WARNING   T2_measure     Progressing
+2022-01-25 11:47:01   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 11:47:02   INFO      T2_measure     Progressing
+2022-01-25 11:47:02   INFO      T2_measure     Operation complete
+2022-01-25 11:47:02   INFO      T2_measure     Starting
+2022-01-25 11:47:03   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 11:47:05   INFO      T2_measure     Message here
+2022-01-25 11:47:09   WARNING   T2_measure     Progressing
+2022-01-25 11:47:14   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 11:47:14   INFO      T2_measure     Operation complete
+2022-01-25 11:47:14   INFO      T2_measure     Starting
+2022-01-25 11:47:19   ERROR     T2_measure     One does not simply walk into Mordor
+2022-01-25 11:47:19   INFO      T2_measure     Operation complete
+2022-01-25 11:47:19   INFO      Main           Starting
+2022-01-25 11:47:21   ERROR     Main           Updating
+2022-01-25 11:47:25   INFO      Main           One does not simply walk into Mordor
+2022-01-25 11:47:28   INFO      Main           Message here
+2022-01-25 11:47:28   ERROR     Main           Connection dropped
+2022-01-25 11:47:28   INFO      T1_measure     Starting
+2022-01-25 11:47:32   INFO      T1_measure     Progressing
+2022-01-25 11:47:33   WARNING   T1_measure     Progressing
+2022-01-25 11:47:35   INFO      T1_measure     Updating
+2022-01-25 11:47:35   INFO      T1_measure     Operation complete
+2022-01-25 11:47:35   INFO      T1_measure     Starting
+2022-01-25 11:47:39   INFO      T1_measure     Updating
+2022-01-25 11:47:40   INFO      T1_measure     Updating
+2022-01-25 11:47:45   INFO      T1_measure     Message here
+2022-01-25 11:47:45   INFO      T1_measure     Operation complete
+2022-01-25 11:47:45   INFO      T2_measure     Starting
+2022-01-25 11:47:48   ERROR     T2_measure     Message here
+2022-01-25 11:47:48   INFO      T2_measure     Operation complete
+2022-01-25 11:47:48   INFO      T2_measure     Starting
+2022-01-25 11:47:49   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 11:47:49   INFO      T2_measure     Operation complete
+2022-01-25 11:47:49   INFO      T2_measure     Starting
+2022-01-25 11:47:54   INFO      T2_measure     Progressing
+2022-01-25 11:47:55   INFO      T2_measure     Message here
+2022-01-25 11:47:55   INFO      T2_measure     Operation complete
+2022-01-25 11:47:55   INFO      T1_measure     Starting
+2022-01-25 11:47:57   INFO      T1_measure     Updating
+2022-01-25 11:47:57   INFO      T1_measure     Operation complete
+2022-01-25 11:47:57   INFO      T2_measure     Starting
+2022-01-25 11:48:00   INFO      T2_measure     Updating
+2022-01-25 11:48:00   ERROR     T2_measure     Memory index out of bound
+2022-01-25 11:48:00   INFO      Main           Starting
+2022-01-25 11:48:02   ERROR     Main           Updating
+2022-01-25 11:48:02   INFO      Main           Operation complete
+2022-01-25 11:48:02   INFO      Main           Starting
+2022-01-25 11:48:06   WARNING   Main           Progressing
+2022-01-25 11:48:09   INFO      Main           One does not simply walk into Mordor
+2022-01-25 11:48:09   INFO      Main           Operation complete
+2022-01-25 11:48:09   INFO      Main           Starting
+2022-01-25 11:48:13   INFO      Main           Message here
+2022-01-25 11:48:13   INFO      Main           Operation complete
+2022-01-25 11:48:13   INFO      T2_measure     Starting
+2022-01-25 11:48:15   INFO      T2_measure     You know this is random, right?
+2022-01-25 11:48:20   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 11:48:20   INFO      T2_measure     Operation complete
+2022-01-25 11:48:20   INFO      T2_measure     Starting
+2022-01-25 11:48:23   INFO      T2_measure     Message here
+2022-01-25 11:48:24   INFO      T2_measure     Updating
+2022-01-25 11:48:28   INFO      T2_measure     You know this is random, right?
+2022-01-25 11:48:32   WARNING   T2_measure     Updating
+2022-01-25 11:48:32   INFO      T2_measure     Operation complete
+2022-01-25 11:48:32   INFO      Main           Starting
+2022-01-25 11:48:34   INFO      Main           You know this is random, right?
+2022-01-25 11:48:39   WARNING   Main           Updating
+2022-01-25 11:48:39   INFO      Main           Operation complete
+2022-01-25 11:48:39   INFO      Main           Starting
+2022-01-25 11:48:44   INFO      Main           You know this is random, right?
+2022-01-25 11:48:46   ERROR     Main           Message here
+2022-01-25 11:48:47   WARNING   Main           Progressing
+2022-01-25 11:48:49   INFO      Main           Progressing
+2022-01-25 11:48:49   INFO      Main           Operation complete
+2022-01-25 11:48:49   INFO      Main           Starting
+2022-01-25 11:48:50   WARNING   Main           Progressing
+2022-01-25 11:48:55   INFO      Main           One does not simply walk into Mordor
+2022-01-25 11:48:55   ERROR     Main           An error occured and the operation failed
+2022-01-25 11:48:55   INFO      Main           Starting
+2022-01-25 11:48:57   INFO      Main           One does not simply walk into Mordor
+2022-01-25 11:49:01   INFO      Main           Progressing
+2022-01-25 11:49:06   INFO      Main           Message here
+2022-01-25 11:49:06   INFO      Main           Operation complete
+2022-01-25 11:49:06   INFO      Main           Starting
+2022-01-25 11:49:09   INFO      Main           Message here
+2022-01-25 11:49:13   INFO      Main           You know this is random, right?
+2022-01-25 11:49:16   WARNING   Main           Message here
+2022-01-25 11:49:16   INFO      Main           Operation complete
+2022-01-25 11:49:16   INFO      T1_measure     Starting
+2022-01-25 11:49:19   ERROR     T1_measure     Progressing
+2022-01-25 11:49:21   INFO      T1_measure     Message here
+2022-01-25 11:49:24   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 11:49:24   INFO      T1_measure     Operation complete
+2022-01-25 11:49:24   INFO      T1_measure     Starting
+2022-01-25 11:49:29   INFO      T1_measure     Message here
+2022-01-25 11:49:29   INFO      T1_measure     Operation complete
+2022-01-25 11:49:29   INFO      T2_measure     Starting
+2022-01-25 11:49:34   INFO      T2_measure     You know this is random, right?
+2022-01-25 11:49:35   INFO      T2_measure     You know this is random, right?
+2022-01-25 11:49:36   WARNING   T2_measure     One does not simply walk into Mordor
+2022-01-25 11:49:41   INFO      T2_measure     Progressing
+2022-01-25 11:49:41   INFO      T2_measure     Operation complete
+2022-01-25 11:49:41   INFO      T2_measure     Starting
+2022-01-25 11:49:45   WARNING   T2_measure     Progressing
+2022-01-25 11:49:45   ERROR     T2_measure     Connection dropped
+2022-01-25 11:49:45   INFO      Main           Starting
+2022-01-25 11:49:46   INFO      Main           You know this is random, right?
+2022-01-25 11:49:46   INFO      Main           Operation complete
+2022-01-25 11:49:46   INFO      T1_measure     Starting
+2022-01-25 11:49:47   INFO      T1_measure     Progressing
+2022-01-25 11:49:47   INFO      T1_measure     Operation complete
+2022-01-25 11:49:47   INFO      T2_measure     Starting
+2022-01-25 11:49:48   WARNING   T2_measure     Progressing
+2022-01-25 11:49:50   INFO      T2_measure     You know this is random, right?
+2022-01-25 11:49:54   ERROR     T2_measure     Updating
+2022-01-25 11:49:59   INFO      T2_measure     Message here
+2022-01-25 11:49:59   INFO      T2_measure     Operation complete
+2022-01-25 11:49:59   INFO      T2_measure     Starting
+2022-01-25 11:50:02   ERROR     T2_measure     Message here
+2022-01-25 11:50:02   INFO      T2_measure     Operation complete
+2022-01-25 11:50:02   INFO      Main           Starting
+2022-01-25 11:50:04   INFO      Main           Message here
+2022-01-25 11:50:08   WARNING   Main           You know this is random, right?
+2022-01-25 11:50:12   INFO      Main           Progressing
+2022-01-25 11:50:15   WARNING   Main           Updating
+2022-01-25 11:50:15   INFO      Main           Operation complete
+2022-01-25 11:50:15   INFO      Main           Starting
+2022-01-25 11:50:19   WARNING   Main           One does not simply walk into Mordor
+2022-01-25 11:50:20   INFO      Main           Updating
+2022-01-25 11:50:23   WARNING   Main           Updating
+2022-01-25 11:50:23   INFO      Main           Operation complete
+2022-01-25 11:50:23   INFO      Main           Starting
+2022-01-25 11:50:28   WARNING   Main           Updating
+2022-01-25 11:50:29   INFO      Main           Updating
+2022-01-25 11:50:34   ERROR     Main           Message here
+2022-01-25 11:50:39   WARNING   Main           Updating
+2022-01-25 11:50:39   INFO      Main           Operation complete
+2022-01-25 11:50:39   INFO      Main           Starting
+2022-01-25 11:50:41   INFO      Main           You know this is random, right?
+2022-01-25 11:50:42   WARNING   Main           One does not simply walk into Mordor
+2022-01-25 11:50:42   INFO      Main           Operation complete
+2022-01-25 11:50:42   INFO      T2_measure     Starting
+2022-01-25 11:50:44   INFO      T2_measure     Updating
+2022-01-25 11:50:47   WARNING   T2_measure     Message here
+2022-01-25 11:50:52   ERROR     T2_measure     Progressing
+2022-01-25 11:50:55   WARNING   T2_measure     One does not simply walk into Mordor
+2022-01-25 11:50:55   INFO      T2_measure     Operation complete
+2022-01-25 11:50:55   INFO      Main           Starting
+2022-01-25 11:50:56   WARNING   Main           One does not simply walk into Mordor
+2022-01-25 11:50:56   INFO      Main           Operation complete
+2022-01-25 11:50:56   INFO      T2_measure     Starting
+2022-01-25 11:51:01   INFO      T2_measure     Progressing
+2022-01-25 11:51:03   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 11:51:06   ERROR     T2_measure     Progressing
+2022-01-25 11:51:10   INFO      T2_measure     Message here
+2022-01-25 11:51:10   INFO      T2_measure     Operation complete
+2022-01-25 11:51:10   INFO      T1_measure     Starting
+2022-01-25 11:51:12   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 11:51:14   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 11:51:18   INFO      T1_measure     Message here
+2022-01-25 11:51:20   INFO      T1_measure     Progressing
+2022-01-25 11:51:20   INFO      T1_measure     Operation complete
+2022-01-25 11:51:20   INFO      T2_measure     Starting
+2022-01-25 11:51:25   WARNING   T2_measure     Message here
+2022-01-25 11:51:30   WARNING   T2_measure     Progressing
+2022-01-25 11:51:30   ERROR     T2_measure     Memory index out of bound
+2022-01-25 11:51:30   INFO      T2_measure     Starting
+2022-01-25 11:51:32   ERROR     T2_measure     Progressing
+2022-01-25 11:51:32   INFO      T2_measure     Operation complete
+2022-01-25 11:51:32   INFO      T1_measure     Starting
+2022-01-25 11:51:35   INFO      T1_measure     Message here
+2022-01-25 11:51:35   INFO      T1_measure     Operation complete
+2022-01-25 11:51:35   INFO      T2_measure     Starting
+2022-01-25 11:51:36   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 11:51:40   ERROR     T2_measure     Message here
+2022-01-25 11:51:45   INFO      T2_measure     Message here
+2022-01-25 11:51:45   INFO      T2_measure     Operation complete
+2022-01-25 11:51:45   INFO      T2_measure     Starting
+2022-01-25 11:51:46   WARNING   T2_measure     Updating
+2022-01-25 11:51:48   INFO      T2_measure     Progressing
+2022-01-25 11:51:49   INFO      T2_measure     Message here
+2022-01-25 11:51:51   INFO      T2_measure     You know this is random, right?
+2022-01-25 11:51:51   INFO      T2_measure     Operation complete
+2022-01-25 11:51:51   INFO      Main           Starting
+2022-01-25 11:51:52   INFO      Main           Message here
+2022-01-25 11:51:54   INFO      Main           You know this is random, right?
+2022-01-25 11:51:54   INFO      Main           Operation complete
+2022-01-25 11:51:54   INFO      Main           Starting
+2022-01-25 11:51:55   INFO      Main           You know this is random, right?
+2022-01-25 11:51:55   INFO      Main           Operation complete
+2022-01-25 11:51:55   INFO      Main           Starting
+2022-01-25 11:51:58   INFO      Main           You know this is random, right?
+2022-01-25 11:51:58   INFO      Main           Operation complete
+2022-01-25 11:51:58   INFO      T2_measure     Starting
+2022-01-25 11:52:00   INFO      T2_measure     Updating
+2022-01-25 11:52:03   WARNING   T2_measure     One does not simply walk into Mordor
+2022-01-25 11:52:04   INFO      T2_measure     You know this is random, right?
+2022-01-25 11:52:06   WARNING   T2_measure     Message here
+2022-01-25 11:52:06   INFO      T2_measure     Operation complete
+2022-01-25 11:52:06   INFO      T2_measure     Starting
+2022-01-25 11:52:10   WARNING   T2_measure     One does not simply walk into Mordor
+2022-01-25 11:52:11   INFO      T2_measure     Progressing
+2022-01-25 11:52:15   WARNING   T2_measure     Updating
+2022-01-25 11:52:15   INFO      T2_measure     Operation complete
+2022-01-25 11:52:15   INFO      T1_measure     Starting
+2022-01-25 11:52:16   INFO      T1_measure     Updating
+2022-01-25 11:52:20   WARNING   T1_measure     Message here
+2022-01-25 11:52:20   INFO      T1_measure     Operation complete
+2022-01-25 11:52:20   INFO      Main           Starting
+2022-01-25 11:52:23   INFO      Main           You know this is random, right?
+2022-01-25 11:52:24   INFO      Main           Progressing
+2022-01-25 11:52:24   INFO      Main           Operation complete
+2022-01-25 11:52:24   INFO      T2_measure     Starting
+2022-01-25 11:52:26   WARNING   T2_measure     One does not simply walk into Mordor
+2022-01-25 11:52:30   INFO      T2_measure     Message here
+2022-01-25 11:52:30   INFO      T2_measure     Operation complete
+2022-01-25 11:52:30   INFO      T1_measure     Starting
+2022-01-25 11:52:32   WARNING   T1_measure     Updating
+2022-01-25 11:52:37   INFO      T1_measure     You know this is random, right?
+2022-01-25 11:52:37   INFO      T1_measure     Operation complete
+2022-01-25 11:52:37   INFO      Main           Starting
+2022-01-25 11:52:39   ERROR     Main           One does not simply walk into Mordor
+2022-01-25 11:52:44   INFO      Main           One does not simply walk into Mordor
+2022-01-25 11:52:47   INFO      Main           Updating
+2022-01-25 11:52:50   INFO      Main           You know this is random, right?
+2022-01-25 11:52:50   INFO      Main           Operation complete
+2022-01-25 11:52:50   INFO      T1_measure     Starting
+2022-01-25 11:52:51   WARNING   T1_measure     Message here
+2022-01-25 11:52:51   ERROR     T1_measure     Memory index out of bound
+2022-01-25 11:52:51   INFO      Main           Starting
+2022-01-25 11:52:54   INFO      Main           Updating
+2022-01-25 11:52:56   INFO      Main           Progressing
+2022-01-25 11:52:56   ERROR     Main           Memory index out of bound
+2022-01-25 11:52:56   INFO      Main           Starting
+2022-01-25 11:53:01   WARNING   Main           One does not simply walk into Mordor
+2022-01-25 11:53:03   ERROR     Main           You know this is random, right?
+2022-01-25 11:53:03   INFO      Main           Operation complete
+2022-01-25 11:53:03   INFO      Main           Starting
+2022-01-25 11:53:06   INFO      Main           Message here
+2022-01-25 11:53:07   INFO      Main           One does not simply walk into Mordor
+2022-01-25 11:53:10   INFO      Main           Updating
+2022-01-25 11:53:11   INFO      Main           Updating
+2022-01-25 11:53:11   INFO      Main           Operation complete
+2022-01-25 11:53:11   INFO      T2_measure     Starting
+2022-01-25 11:53:16   INFO      T2_measure     Updating
+2022-01-25 11:53:20   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 11:53:22   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 11:53:26   INFO      T2_measure     Progressing
+2022-01-25 11:53:26   INFO      T2_measure     Operation complete
+2022-01-25 11:53:26   INFO      T1_measure     Starting
+2022-01-25 11:53:30   WARNING   T1_measure     Message here
+2022-01-25 11:53:31   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 11:53:34   WARNING   T1_measure     Updating
+2022-01-25 11:53:36   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 11:53:36   INFO      T1_measure     Operation complete
+2022-01-25 11:53:36   INFO      Main           Starting
+2022-01-25 11:53:38   WARNING   Main           One does not simply walk into Mordor
+2022-01-25 11:53:40   WARNING   Main           Updating
+2022-01-25 11:53:43   INFO      Main           You know this is random, right?
+2022-01-25 11:53:45   INFO      Main           Message here
+2022-01-25 11:53:45   ERROR     Main           Operation aborted
+2022-01-25 11:53:45   INFO      Main           Starting
+2022-01-25 11:53:47   INFO      Main           Message here
+2022-01-25 11:53:47   INFO      Main           Operation complete
+2022-01-25 11:53:47   INFO      T1_measure     Starting
+2022-01-25 11:53:52   ERROR     T1_measure     Progressing
+2022-01-25 11:53:54   INFO      T1_measure     Progressing
+2022-01-25 11:53:59   INFO      T1_measure     Updating
+2022-01-25 11:54:02   INFO      T1_measure     Message here
+2022-01-25 11:54:02   INFO      T1_measure     Operation complete
+2022-01-25 11:54:02   INFO      Main           Starting
+2022-01-25 11:54:06   WARNING   Main           One does not simply walk into Mordor
+2022-01-25 11:54:11   WARNING   Main           Message here
+2022-01-25 11:54:11   INFO      Main           Operation complete
+2022-01-25 11:54:11   INFO      T2_measure     Starting
+2022-01-25 11:54:15   WARNING   T2_measure     Message here
+2022-01-25 11:54:16   INFO      T2_measure     Progressing
+2022-01-25 11:54:17   INFO      T2_measure     Progressing
+2022-01-25 11:54:19   INFO      T2_measure     Progressing
+2022-01-25 11:54:19   INFO      T2_measure     Operation complete
+2022-01-25 11:54:19   INFO      Main           Starting
+2022-01-25 11:54:21   INFO      Main           You know this is random, right?
+2022-01-25 11:54:24   ERROR     Main           Updating
+2022-01-25 11:54:25   WARNING   Main           Progressing
+2022-01-25 11:54:25   INFO      Main           Operation complete
+2022-01-25 11:54:25   INFO      T2_measure     Starting
+2022-01-25 11:54:30   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 11:54:30   INFO      T2_measure     Operation complete
+2022-01-25 11:54:30   INFO      Main           Starting
+2022-01-25 11:54:35   INFO      Main           You know this is random, right?
+2022-01-25 11:54:40   INFO      Main           You know this is random, right?
+2022-01-25 11:54:44   WARNING   Main           Progressing
+2022-01-25 11:54:44   INFO      Main           Operation complete
+2022-01-25 11:54:44   INFO      T2_measure     Starting
+2022-01-25 11:54:46   INFO      T2_measure     Progressing
+2022-01-25 11:54:49   INFO      T2_measure     You know this is random, right?
+2022-01-25 11:54:49   INFO      T2_measure     Operation complete
+2022-01-25 11:54:49   INFO      T2_measure     Starting
+2022-01-25 11:54:52   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 11:54:57   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 11:54:57   INFO      T2_measure     Operation complete
+2022-01-25 11:54:57   INFO      T2_measure     Starting
+2022-01-25 11:54:59   INFO      T2_measure     You know this is random, right?
+2022-01-25 11:55:01   WARNING   T2_measure     Message here
+2022-01-25 11:55:05   INFO      T2_measure     Updating
+2022-01-25 11:55:08   WARNING   T2_measure     One does not simply walk into Mordor
+2022-01-25 11:55:08   INFO      T2_measure     Operation complete
+2022-01-25 11:55:08   INFO      T1_measure     Starting
+2022-01-25 11:55:12   INFO      T1_measure     Message here
+2022-01-25 11:55:17   WARNING   T1_measure     Updating
+2022-01-25 11:55:19   INFO      T1_measure     Message here
+2022-01-25 11:55:20   INFO      T1_measure     You know this is random, right?
+2022-01-25 11:55:20   INFO      T1_measure     Operation complete
+2022-01-25 11:55:20   INFO      T2_measure     Starting
+2022-01-25 11:55:23   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 11:55:24   WARNING   T2_measure     You know this is random, right?
+2022-01-25 11:55:25   INFO      T2_measure     You know this is random, right?
+2022-01-25 11:55:25   INFO      T2_measure     Operation complete
+2022-01-25 11:55:25   INFO      T2_measure     Starting
+2022-01-25 11:55:30   INFO      T2_measure     You know this is random, right?
+2022-01-25 11:55:32   INFO      T2_measure     Updating
+2022-01-25 11:55:32   INFO      T2_measure     Operation complete
+2022-01-25 11:55:32   INFO      Main           Starting
+2022-01-25 11:55:36   INFO      Main           Progressing
+2022-01-25 11:55:37   INFO      Main           Updating
+2022-01-25 11:55:40   INFO      Main           One does not simply walk into Mordor
+2022-01-25 11:55:40   INFO      Main           Operation complete
+2022-01-25 11:55:40   INFO      T2_measure     Starting
+2022-01-25 11:55:45   INFO      T2_measure     Progressing
+2022-01-25 11:55:47   WARNING   T2_measure     Progressing
+2022-01-25 11:55:47   INFO      T2_measure     Operation complete
+2022-01-25 11:55:47   INFO      Main           Starting
+2022-01-25 11:55:48   WARNING   Main           One does not simply walk into Mordor
+2022-01-25 11:55:50   INFO      Main           You know this is random, right?
+2022-01-25 11:55:50   INFO      Main           Operation complete
+2022-01-25 11:55:50   INFO      T2_measure     Starting
+2022-01-25 11:55:52   WARNING   T2_measure     Updating
+2022-01-25 11:55:56   INFO      T2_measure     Progressing
+2022-01-25 11:56:00   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 11:56:04   INFO      T2_measure     Progressing
+2022-01-25 11:56:04   INFO      T2_measure     Operation complete
+2022-01-25 11:56:04   INFO      T2_measure     Starting
+2022-01-25 11:56:08   INFO      T2_measure     Progressing
+2022-01-25 11:56:10   INFO      T2_measure     Progressing
+2022-01-25 11:56:13   WARNING   T2_measure     Progressing
+2022-01-25 11:56:13   ERROR     T2_measure     Memory index out of bound
+2022-01-25 11:56:13   INFO      T2_measure     Starting
+2022-01-25 11:56:15   WARNING   T2_measure     You know this is random, right?
+2022-01-25 11:56:19   ERROR     T2_measure     One does not simply walk into Mordor
+2022-01-25 11:56:19   INFO      T2_measure     Operation complete
+2022-01-25 11:56:19   INFO      T2_measure     Starting
+2022-01-25 11:56:24   INFO      T2_measure     Message here
+2022-01-25 11:56:24   INFO      T2_measure     Operation complete
+2022-01-25 11:56:24   INFO      T2_measure     Starting
+2022-01-25 11:56:29   INFO      T2_measure     Progressing
+2022-01-25 11:56:33   WARNING   T2_measure     Updating
+2022-01-25 11:56:33   INFO      T2_measure     Operation complete
+2022-01-25 11:56:33   INFO      T1_measure     Starting
+2022-01-25 11:56:37   WARNING   T1_measure     One does not simply walk into Mordor
+2022-01-25 11:56:37   INFO      T1_measure     Operation complete
+2022-01-25 11:56:37   INFO      T1_measure     Starting
+2022-01-25 11:56:42   INFO      T1_measure     Updating
+2022-01-25 11:56:45   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 11:56:48   ERROR     T1_measure     Updating
+2022-01-25 11:56:48   INFO      T1_measure     Operation complete
+2022-01-25 11:56:48   INFO      T1_measure     Starting
+2022-01-25 11:56:50   INFO      T1_measure     Message here
+2022-01-25 11:56:52   WARNING   T1_measure     Updating
+2022-01-25 11:56:52   INFO      T1_measure     Operation complete
+2022-01-25 11:56:52   INFO      T1_measure     Starting
+2022-01-25 11:56:54   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 11:56:58   ERROR     T1_measure     One does not simply walk into Mordor
+2022-01-25 11:57:00   WARNING   T1_measure     Progressing
+2022-01-25 11:57:05   WARNING   T1_measure     Progressing
+2022-01-25 11:57:05   INFO      T1_measure     Operation complete
+2022-01-25 11:57:05   INFO      T2_measure     Starting
+2022-01-25 11:57:07   INFO      T2_measure     Updating
+2022-01-25 11:57:11   ERROR     T2_measure     You know this is random, right?
+2022-01-25 11:57:15   WARNING   T2_measure     Message here
+2022-01-25 11:57:15   INFO      T2_measure     Operation complete
+2022-01-25 11:57:15   INFO      Main           Starting
+2022-01-25 11:57:19   WARNING   Main           Updating
+2022-01-25 11:57:22   INFO      Main           Message here
+2022-01-25 11:57:25   WARNING   Main           Progressing
+2022-01-25 11:57:25   INFO      Main           Operation complete
+2022-01-25 11:57:25   INFO      Main           Starting
+2022-01-25 11:57:30   INFO      Main           Progressing
+2022-01-25 11:57:31   WARNING   Main           One does not simply walk into Mordor
+2022-01-25 11:57:34   ERROR     Main           Updating
+2022-01-25 11:57:34   INFO      Main           Operation complete
+2022-01-25 11:57:34   INFO      Main           Starting
+2022-01-25 11:57:36   WARNING   Main           Progressing
+2022-01-25 11:57:39   INFO      Main           Updating
+2022-01-25 11:57:40   INFO      Main           Message here
+2022-01-25 11:57:40   ERROR     Main           Connection dropped
+2022-01-25 11:57:40   INFO      Main           Starting
+2022-01-25 11:57:43   ERROR     Main           You know this is random, right?
+2022-01-25 11:57:47   INFO      Main           Updating
+2022-01-25 11:57:51   INFO      Main           One does not simply walk into Mordor
+2022-01-25 11:57:54   WARNING   Main           One does not simply walk into Mordor
+2022-01-25 11:57:54   INFO      Main           Operation complete
+2022-01-25 11:57:54   INFO      T2_measure     Starting
+2022-01-25 11:57:59   INFO      T2_measure     Updating
+2022-01-25 11:58:01   WARNING   T2_measure     Progressing
+2022-01-25 11:58:01   INFO      T2_measure     Operation complete
+2022-01-25 11:58:01   INFO      T1_measure     Starting
+2022-01-25 11:58:02   INFO      T1_measure     Message here
+2022-01-25 11:58:04   INFO      T1_measure     Message here
+2022-01-25 11:58:04   INFO      T1_measure     Operation complete
+2022-01-25 11:58:04   INFO      T2_measure     Starting
+2022-01-25 11:58:07   INFO      T2_measure     Progressing
+2022-01-25 11:58:07   ERROR     T2_measure     Memory index out of bound
+2022-01-25 11:58:07   INFO      T1_measure     Starting
+2022-01-25 11:58:10   ERROR     T1_measure     Message here
+2022-01-25 11:58:13   INFO      T1_measure     Progressing
+2022-01-25 11:58:18   INFO      T1_measure     Message here
+2022-01-25 11:58:19   INFO      T1_measure     You know this is random, right?
+2022-01-25 11:58:19   INFO      T1_measure     Operation complete
+2022-01-25 11:58:19   INFO      T1_measure     Starting
+2022-01-25 11:58:20   INFO      T1_measure     Updating
+2022-01-25 11:58:21   INFO      T1_measure     Progressing
+2022-01-25 11:58:21   INFO      T1_measure     Operation complete
+2022-01-25 11:58:21   INFO      T1_measure     Starting
+2022-01-25 11:58:22   ERROR     T1_measure     One does not simply walk into Mordor
+2022-01-25 11:58:24   INFO      T1_measure     Updating
+2022-01-25 11:58:24   INFO      T1_measure     Operation complete
+2022-01-25 11:58:24   INFO      T1_measure     Starting
+2022-01-25 11:58:26   WARNING   T1_measure     You know this is random, right?
+2022-01-25 11:58:28   INFO      T1_measure     Message here
+2022-01-25 11:58:28   ERROR     T1_measure     An error occured and the operation failed
+2022-01-25 11:58:28   INFO      Main           Starting
+2022-01-25 11:58:32   WARNING   Main           You know this is random, right?
+2022-01-25 11:58:37   WARNING   Main           Updating
+2022-01-25 11:58:42   WARNING   Main           Progressing
+2022-01-25 11:58:47   WARNING   Main           Message here
+2022-01-25 11:58:47   INFO      Main           Operation complete
+2022-01-25 11:58:47   INFO      Main           Starting
+2022-01-25 11:58:49   WARNING   Main           Message here
+2022-01-25 11:58:50   WARNING   Main           Updating
+2022-01-25 11:58:55   WARNING   Main           Progressing
+2022-01-25 11:59:00   INFO      Main           One does not simply walk into Mordor
+2022-01-25 11:59:00   INFO      Main           Operation complete
+2022-01-25 11:59:00   INFO      T2_measure     Starting
+2022-01-25 11:59:05   ERROR     T2_measure     One does not simply walk into Mordor
+2022-01-25 11:59:05   INFO      T2_measure     Operation complete
+2022-01-25 11:59:05   INFO      T2_measure     Starting
+2022-01-25 11:59:10   INFO      T2_measure     Updating
+2022-01-25 11:59:14   WARNING   T2_measure     Updating
+2022-01-25 11:59:14   INFO      T2_measure     Operation complete
+2022-01-25 11:59:14   INFO      T1_measure     Starting
+2022-01-25 11:59:19   INFO      T1_measure     Updating
+2022-01-25 11:59:23   WARNING   T1_measure     Message here
+2022-01-25 11:59:25   WARNING   T1_measure     You know this is random, right?
+2022-01-25 11:59:26   ERROR     T1_measure     You know this is random, right?
+2022-01-25 11:59:26   INFO      T1_measure     Operation complete
+2022-01-25 11:59:26   INFO      T1_measure     Starting
+2022-01-25 11:59:28   INFO      T1_measure     You know this is random, right?
+2022-01-25 11:59:28   INFO      T1_measure     Operation complete
+2022-01-25 11:59:28   INFO      Main           Starting
+2022-01-25 11:59:30   WARNING   Main           One does not simply walk into Mordor
+2022-01-25 11:59:32   WARNING   Main           One does not simply walk into Mordor
+2022-01-25 11:59:32   INFO      Main           Operation complete
+2022-01-25 11:59:32   INFO      T2_measure     Starting
+2022-01-25 11:59:37   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 11:59:37   INFO      T2_measure     Operation complete
+2022-01-25 11:59:37   INFO      T1_measure     Starting
+2022-01-25 11:59:39   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 11:59:39   INFO      T1_measure     Operation complete
+2022-01-25 11:59:39   INFO      T2_measure     Starting
+2022-01-25 11:59:44   ERROR     T2_measure     Message here
+2022-01-25 11:59:45   WARNING   T2_measure     Message here
+2022-01-25 11:59:45   INFO      T2_measure     Operation complete
+2022-01-25 11:59:45   INFO      T1_measure     Starting
+2022-01-25 11:59:48   WARNING   T1_measure     You know this is random, right?
+2022-01-25 11:59:48   ERROR     T1_measure     An error occured and the operation failed
+2022-01-25 11:59:48   INFO      T1_measure     Starting
+2022-01-25 11:59:51   INFO      T1_measure     Progressing
+2022-01-25 11:59:51   INFO      T1_measure     Operation complete
+2022-01-25 11:59:51   INFO      T2_measure     Starting
+2022-01-25 11:59:56   WARNING   T2_measure     Progressing
+2022-01-25 11:59:56   INFO      T2_measure     Operation complete
+2022-01-25 11:59:56   INFO      T1_measure     Starting
+2022-01-25 11:59:59   INFO      T1_measure     Progressing
+2022-01-25 12:00:04   WARNING   T1_measure     Progressing
+2022-01-25 12:00:07   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 12:00:10   INFO      T1_measure     You know this is random, right?
+2022-01-25 12:00:10   INFO      T1_measure     Operation complete
+2022-01-25 12:00:10   INFO      Main           Starting
+2022-01-25 12:00:12   ERROR     Main           Progressing
+2022-01-25 12:00:17   INFO      Main           Message here
+2022-01-25 12:00:17   INFO      Main           Operation complete
+2022-01-25 12:00:17   INFO      T1_measure     Starting
+2022-01-25 12:00:21   INFO      T1_measure     Updating
+2022-01-25 12:00:24   WARNING   T1_measure     Updating
+2022-01-25 12:00:28   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 12:00:29   ERROR     T1_measure     You know this is random, right?
+2022-01-25 12:00:29   INFO      T1_measure     Operation complete
+2022-01-25 12:00:29   INFO      T1_measure     Starting
+2022-01-25 12:00:32   INFO      T1_measure     You know this is random, right?
+2022-01-25 12:00:32   INFO      T1_measure     Operation complete
+2022-01-25 12:00:32   INFO      Main           Starting
+2022-01-25 12:00:34   INFO      Main           One does not simply walk into Mordor
+2022-01-25 12:00:34   INFO      Main           Operation complete
+2022-01-25 12:00:34   INFO      T1_measure     Starting
+2022-01-25 12:00:38   WARNING   T1_measure     One does not simply walk into Mordor
+2022-01-25 12:00:42   WARNING   T1_measure     One does not simply walk into Mordor
+2022-01-25 12:00:44   INFO      T1_measure     Updating
+2022-01-25 12:00:44   INFO      T1_measure     Operation complete
+2022-01-25 12:00:44   INFO      T2_measure     Starting
+2022-01-25 12:00:49   WARNING   T2_measure     Progressing
+2022-01-25 12:00:52   INFO      T2_measure     Updating
+2022-01-25 12:00:52   ERROR     T2_measure     Operation aborted
+2022-01-25 12:00:52   INFO      T2_measure     Starting
+2022-01-25 12:00:54   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 12:00:56   INFO      T2_measure     Progressing
+2022-01-25 12:00:59   ERROR     T2_measure     Message here
+2022-01-25 12:01:03   INFO      T2_measure     Message here
+2022-01-25 12:01:03   INFO      T2_measure     Operation complete
+2022-01-25 12:01:03   INFO      T1_measure     Starting
+2022-01-25 12:01:08   INFO      T1_measure     Message here
+2022-01-25 12:01:09   INFO      T1_measure     Updating
+2022-01-25 12:01:14   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 12:01:14   ERROR     T1_measure     Connection dropped
+2022-01-25 12:01:14   INFO      Main           Starting
+2022-01-25 12:01:15   WARNING   Main           Progressing
+2022-01-25 12:01:20   ERROR     Main           Progressing
+2022-01-25 12:01:22   INFO      Main           You know this is random, right?
+2022-01-25 12:01:22   ERROR     Main           Operation aborted
+2022-01-25 12:01:22   INFO      Main           Starting
+2022-01-25 12:01:26   INFO      Main           Message here
+2022-01-25 12:01:26   INFO      Main           Operation complete
+2022-01-25 12:01:26   INFO      Main           Starting
+2022-01-25 12:01:28   INFO      Main           You know this is random, right?
+2022-01-25 12:01:30   INFO      Main           You know this is random, right?
+2022-01-25 12:01:33   INFO      Main           You know this is random, right?
+2022-01-25 12:01:37   INFO      Main           Progressing
+2022-01-25 12:01:37   INFO      Main           Operation complete
+2022-01-25 12:01:37   INFO      T2_measure     Starting
+2022-01-25 12:01:41   ERROR     T2_measure     Message here
+2022-01-25 12:01:44   INFO      T2_measure     You know this is random, right?
+2022-01-25 12:01:44   ERROR     T2_measure     An error occured and the operation failed
+2022-01-25 12:01:44   INFO      Main           Starting
+2022-01-25 12:01:45   INFO      Main           You know this is random, right?
+2022-01-25 12:01:46   INFO      Main           Message here
+2022-01-25 12:01:51   INFO      Main           Progressing
+2022-01-25 12:01:51   INFO      Main           Operation complete
+2022-01-25 12:01:51   INFO      T2_measure     Starting
+2022-01-25 12:01:54   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 12:01:55   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 12:02:00   INFO      T2_measure     Updating
+2022-01-25 12:02:00   INFO      T2_measure     Operation complete
+2022-01-25 12:02:00   INFO      T1_measure     Starting
+2022-01-25 12:02:02   WARNING   T1_measure     Message here
+2022-01-25 12:02:06   WARNING   T1_measure     Progressing
+2022-01-25 12:02:07   INFO      T1_measure     Progressing
+2022-01-25 12:02:12   WARNING   T1_measure     You know this is random, right?
+2022-01-25 12:02:12   INFO      T1_measure     Operation complete
+2022-01-25 12:02:12   INFO      T1_measure     Starting
+2022-01-25 12:02:17   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 12:02:19   ERROR     T1_measure     Progressing
+2022-01-25 12:02:21   ERROR     T1_measure     You know this is random, right?
+2022-01-25 12:02:21   ERROR     T1_measure     Memory index out of bound
+2022-01-25 12:02:21   INFO      T2_measure     Starting
+2022-01-25 12:02:25   INFO      T2_measure     You know this is random, right?
+2022-01-25 12:02:29   INFO      T2_measure     You know this is random, right?
+2022-01-25 12:02:31   ERROR     T2_measure     One does not simply walk into Mordor
+2022-01-25 12:02:31   INFO      T2_measure     Operation complete
+2022-01-25 12:02:31   INFO      T2_measure     Starting
+2022-01-25 12:02:32   WARNING   T2_measure     Updating
+2022-01-25 12:02:35   INFO      T2_measure     Progressing
+2022-01-25 12:02:39   INFO      T2_measure     Updating
+2022-01-25 12:02:39   INFO      T2_measure     Operation complete
+2022-01-25 12:02:39   INFO      T2_measure     Starting
+2022-01-25 12:02:44   WARNING   T2_measure     One does not simply walk into Mordor
+2022-01-25 12:02:45   ERROR     T2_measure     Message here
+2022-01-25 12:02:45   INFO      T2_measure     Operation complete
+2022-01-25 12:02:45   INFO      Main           Starting
+2022-01-25 12:02:47   INFO      Main           Progressing
+2022-01-25 12:02:50   INFO      Main           One does not simply walk into Mordor
+2022-01-25 12:02:54   INFO      Main           One does not simply walk into Mordor
+2022-01-25 12:02:54   INFO      Main           Operation complete
+2022-01-25 12:02:54   INFO      T1_measure     Starting
+2022-01-25 12:02:55   INFO      T1_measure     You know this is random, right?
+2022-01-25 12:02:59   WARNING   T1_measure     Progressing
+2022-01-25 12:03:03   WARNING   T1_measure     Updating
+2022-01-25 12:03:03   INFO      T1_measure     Operation complete
+2022-01-25 12:03:03   INFO      Main           Starting
+2022-01-25 12:03:08   INFO      Main           Updating
+2022-01-25 12:03:09   INFO      Main           Progressing
+2022-01-25 12:03:14   INFO      Main           One does not simply walk into Mordor
+2022-01-25 12:03:16   WARNING   Main           Message here
+2022-01-25 12:03:16   INFO      Main           Operation complete
+2022-01-25 12:03:16   INFO      T2_measure     Starting
+2022-01-25 12:03:18   INFO      T2_measure     Message here
+2022-01-25 12:03:20   INFO      T2_measure     Progressing
+2022-01-25 12:03:25   ERROR     T2_measure     You know this is random, right?
+2022-01-25 12:03:25   INFO      T2_measure     Operation complete
+2022-01-25 12:03:25   INFO      Main           Starting
+2022-01-25 12:03:28   INFO      Main           Message here
+2022-01-25 12:03:28   INFO      Main           Operation complete
+2022-01-25 12:03:28   INFO      Main           Starting
+2022-01-25 12:03:32   INFO      Main           Updating
+2022-01-25 12:03:36   INFO      Main           Progressing
+2022-01-25 12:03:38   INFO      Main           Message here
+2022-01-25 12:03:38   ERROR     Main           Memory index out of bound
+2022-01-25 12:03:38   INFO      T2_measure     Starting
+2022-01-25 12:03:42   INFO      T2_measure     Progressing
+2022-01-25 12:03:42   INFO      T2_measure     Operation complete
+2022-01-25 12:03:42   INFO      T1_measure     Starting
+2022-01-25 12:03:44   INFO      T1_measure     You know this is random, right?
+2022-01-25 12:03:48   INFO      T1_measure     Message here
+2022-01-25 12:03:48   INFO      T1_measure     Operation complete
+2022-01-25 12:03:48   INFO      T2_measure     Starting
+2022-01-25 12:03:52   INFO      T2_measure     Progressing
+2022-01-25 12:03:54   WARNING   T2_measure     One does not simply walk into Mordor
+2022-01-25 12:03:57   ERROR     T2_measure     Progressing
+2022-01-25 12:03:57   ERROR     T2_measure     Operation aborted
+2022-01-25 12:03:57   INFO      T1_measure     Starting
+2022-01-25 12:04:02   ERROR     T1_measure     One does not simply walk into Mordor
+2022-01-25 12:04:02   INFO      T1_measure     Operation complete
+2022-01-25 12:04:02   INFO      Main           Starting
+2022-01-25 12:04:03   ERROR     Main           You know this is random, right?
+2022-01-25 12:04:07   INFO      Main           Message here
+2022-01-25 12:04:08   INFO      Main           Progressing
+2022-01-25 12:04:08   ERROR     Main           Connection dropped
+2022-01-25 12:04:08   INFO      T1_measure     Starting
+2022-01-25 12:04:11   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 12:04:14   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 12:04:14   INFO      T1_measure     Operation complete
+2022-01-25 12:04:14   INFO      Main           Starting
+2022-01-25 12:04:19   INFO      Main           Updating
+2022-01-25 12:04:19   INFO      Main           Operation complete
+2022-01-25 12:04:19   INFO      T1_measure     Starting
+2022-01-25 12:04:24   ERROR     T1_measure     You know this is random, right?
+2022-01-25 12:04:29   INFO      T1_measure     Message here
+2022-01-25 12:04:29   INFO      T1_measure     Operation complete
+2022-01-25 12:04:29   INFO      Main           Starting
+2022-01-25 12:04:33   INFO      Main           Updating
+2022-01-25 12:04:36   INFO      Main           You know this is random, right?
+2022-01-25 12:04:37   INFO      Main           Updating
+2022-01-25 12:04:40   INFO      Main           One does not simply walk into Mordor
+2022-01-25 12:04:40   INFO      Main           Operation complete
+2022-01-25 12:04:40   INFO      T1_measure     Starting
+2022-01-25 12:04:43   ERROR     T1_measure     One does not simply walk into Mordor
+2022-01-25 12:04:43   INFO      T1_measure     Operation complete
+2022-01-25 12:04:43   INFO      Main           Starting
+2022-01-25 12:04:46   INFO      Main           You know this is random, right?
+2022-01-25 12:04:49   INFO      Main           Message here
+2022-01-25 12:04:52   ERROR     Main           One does not simply walk into Mordor
+2022-01-25 12:04:53   INFO      Main           Updating
+2022-01-25 12:04:53   INFO      Main           Operation complete
+2022-01-25 12:04:53   INFO      Main           Starting
+2022-01-25 12:04:54   ERROR     Main           You know this is random, right?
+2022-01-25 12:04:59   ERROR     Main           Progressing
+2022-01-25 12:05:01   INFO      Main           Message here
+2022-01-25 12:05:06   INFO      Main           You know this is random, right?
+2022-01-25 12:05:06   INFO      Main           Operation complete
+2022-01-25 12:05:06   INFO      T1_measure     Starting
+2022-01-25 12:05:07   WARNING   T1_measure     Message here
+2022-01-25 12:05:07   INFO      T1_measure     Operation complete
+2022-01-25 12:05:07   INFO      T2_measure     Starting
+2022-01-25 12:05:09   INFO      T2_measure     Message here
+2022-01-25 12:05:13   INFO      T2_measure     Progressing
+2022-01-25 12:05:13   INFO      T2_measure     Operation complete
+2022-01-25 12:05:13   INFO      Main           Starting
+2022-01-25 12:05:16   INFO      Main           Updating
+2022-01-25 12:05:18   INFO      Main           Message here
+2022-01-25 12:05:23   INFO      Main           Progressing
+2022-01-25 12:05:28   WARNING   Main           One does not simply walk into Mordor
+2022-01-25 12:05:28   INFO      Main           Operation complete
+2022-01-25 12:05:28   INFO      Main           Starting
+2022-01-25 12:05:32   WARNING   Main           You know this is random, right?
+2022-01-25 12:05:34   ERROR     Main           Updating
+2022-01-25 12:05:39   INFO      Main           One does not simply walk into Mordor
+2022-01-25 12:05:39   INFO      Main           Operation complete
+2022-01-25 12:05:39   INFO      T1_measure     Starting
+2022-01-25 12:05:43   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 12:05:48   INFO      T1_measure     You know this is random, right?
+2022-01-25 12:05:48   INFO      T1_measure     Operation complete
+2022-01-25 12:05:48   INFO      Main           Starting
+2022-01-25 12:05:50   INFO      Main           One does not simply walk into Mordor
+2022-01-25 12:05:51   INFO      Main           One does not simply walk into Mordor
+2022-01-25 12:05:51   INFO      Main           Operation complete
+2022-01-25 12:05:51   INFO      T2_measure     Starting
+2022-01-25 12:05:55   ERROR     T2_measure     You know this is random, right?
+2022-01-25 12:05:56   WARNING   T2_measure     Message here
+2022-01-25 12:05:59   INFO      T2_measure     Progressing
+2022-01-25 12:06:04   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 12:06:04   INFO      T2_measure     Operation complete
+2022-01-25 12:06:04   INFO      Main           Starting
+2022-01-25 12:06:09   WARNING   Main           Updating
+2022-01-25 12:06:14   INFO      Main           Progressing
+2022-01-25 12:06:14   INFO      Main           Operation complete
+2022-01-25 12:06:14   INFO      T1_measure     Starting
+2022-01-25 12:06:17   WARNING   T1_measure     One does not simply walk into Mordor
+2022-01-25 12:06:17   INFO      T1_measure     Operation complete
+2022-01-25 12:06:17   INFO      T1_measure     Starting
+2022-01-25 12:06:18   WARNING   T1_measure     Progressing
+2022-01-25 12:06:19   WARNING   T1_measure     One does not simply walk into Mordor
+2022-01-25 12:06:20   INFO      T1_measure     Progressing
+2022-01-25 12:06:20   ERROR     T1_measure     Operation aborted
+2022-01-25 12:06:20   INFO      T2_measure     Starting
+2022-01-25 12:06:23   WARNING   T2_measure     Updating
+2022-01-25 12:06:26   INFO      T2_measure     Updating
+2022-01-25 12:06:26   INFO      T2_measure     Operation complete
+2022-01-25 12:06:26   INFO      Main           Starting
+2022-01-25 12:06:31   WARNING   Main           Updating
+2022-01-25 12:06:33   INFO      Main           Updating
+2022-01-25 12:06:33   INFO      Main           Operation complete
+2022-01-25 12:06:33   INFO      T2_measure     Starting
+2022-01-25 12:06:37   INFO      T2_measure     Progressing
+2022-01-25 12:06:41   WARNING   T2_measure     Message here
+2022-01-25 12:06:46   INFO      T2_measure     Progressing
+2022-01-25 12:06:46   INFO      T2_measure     Operation complete
+2022-01-25 12:06:46   INFO      T2_measure     Starting
+2022-01-25 12:06:48   INFO      T2_measure     Updating
+2022-01-25 12:06:49   INFO      T2_measure     Message here
+2022-01-25 12:06:54   INFO      T2_measure     Message here
+2022-01-25 12:06:58   INFO      T2_measure     Progressing
+2022-01-25 12:06:58   INFO      T2_measure     Operation complete
+2022-01-25 12:06:58   INFO      T1_measure     Starting
+2022-01-25 12:07:03   WARNING   T1_measure     Message here
+2022-01-25 12:07:05   WARNING   T1_measure     You know this is random, right?
+2022-01-25 12:07:05   INFO      T1_measure     Operation complete
+2022-01-25 12:07:05   INFO      T1_measure     Starting
+2022-01-25 12:07:06   WARNING   T1_measure     One does not simply walk into Mordor
+2022-01-25 12:07:06   ERROR     T1_measure     Operation aborted
+2022-01-25 12:07:06   INFO      Main           Starting
+2022-01-25 12:07:07   WARNING   Main           Progressing
+2022-01-25 12:07:11   INFO      Main           Progressing
+2022-01-25 12:07:11   INFO      Main           Operation complete
+2022-01-25 12:07:11   INFO      T1_measure     Starting
+2022-01-25 12:07:15   INFO      T1_measure     Updating
+2022-01-25 12:07:17   INFO      T1_measure     Updating
+2022-01-25 12:07:19   INFO      T1_measure     You know this is random, right?
+2022-01-25 12:07:24   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 12:07:24   INFO      T1_measure     Operation complete
+2022-01-25 12:07:24   INFO      Main           Starting
+2022-01-25 12:07:25   INFO      Main           You know this is random, right?
+2022-01-25 12:07:25   INFO      Main           Operation complete
+2022-01-25 12:07:25   INFO      T1_measure     Starting
+2022-01-25 12:07:26   INFO      T1_measure     Progressing
+2022-01-25 12:07:28   WARNING   T1_measure     You know this is random, right?
+2022-01-25 12:07:28   INFO      T1_measure     Operation complete
+2022-01-25 12:07:28   INFO      T1_measure     Starting
+2022-01-25 12:07:29   WARNING   T1_measure     Progressing
+2022-01-25 12:07:30   INFO      T1_measure     Updating
+2022-01-25 12:07:35   WARNING   T1_measure     Message here
+2022-01-25 12:07:39   WARNING   T1_measure     Updating
+2022-01-25 12:07:39   INFO      T1_measure     Operation complete
+2022-01-25 12:07:39   INFO      T1_measure     Starting
+2022-01-25 12:07:41   INFO      T1_measure     Message here
+2022-01-25 12:07:45   WARNING   T1_measure     One does not simply walk into Mordor
+2022-01-25 12:07:50   INFO      T1_measure     Updating
+2022-01-25 12:07:50   INFO      T1_measure     Operation complete
+2022-01-25 12:07:50   INFO      Main           Starting
+2022-01-25 12:07:55   INFO      Main           You know this is random, right?
+2022-01-25 12:07:55   INFO      Main           Operation complete
+2022-01-25 12:07:55   INFO      Main           Starting
+2022-01-25 12:07:59   ERROR     Main           You know this is random, right?
+2022-01-25 12:08:01   INFO      Main           Message here
+2022-01-25 12:08:01   INFO      Main           Operation complete
+2022-01-25 12:08:01   INFO      T2_measure     Starting
+2022-01-25 12:08:05   INFO      T2_measure     You know this is random, right?
+2022-01-25 12:08:05   INFO      T2_measure     Operation complete
+2022-01-25 12:08:05   INFO      T1_measure     Starting
+2022-01-25 12:08:10   WARNING   T1_measure     Updating
+2022-01-25 12:08:15   WARNING   T1_measure     You know this is random, right?
+2022-01-25 12:08:19   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 12:08:19   INFO      T1_measure     Operation complete
+2022-01-25 12:08:19   INFO      Main           Starting
+2022-01-25 12:08:21   WARNING   Main           Progressing
+2022-01-25 12:08:24   INFO      Main           One does not simply walk into Mordor
+2022-01-25 12:08:24   INFO      Main           Operation complete
+2022-01-25 12:08:24   INFO      T1_measure     Starting
+2022-01-25 12:08:26   WARNING   T1_measure     You know this is random, right?
+2022-01-25 12:08:27   INFO      T1_measure     You know this is random, right?
+2022-01-25 12:08:28   INFO      T1_measure     You know this is random, right?
+2022-01-25 12:08:28   INFO      T1_measure     Operation complete
+2022-01-25 12:08:28   INFO      T1_measure     Starting
+2022-01-25 12:08:32   INFO      T1_measure     Progressing
+2022-01-25 12:08:37   INFO      T1_measure     You know this is random, right?
+2022-01-25 12:08:38   ERROR     T1_measure     Message here
+2022-01-25 12:08:40   WARNING   T1_measure     Updating
+2022-01-25 12:08:40   INFO      T1_measure     Operation complete
+2022-01-25 12:08:40   INFO      Main           Starting
+2022-01-25 12:08:41   INFO      Main           Message here
+2022-01-25 12:08:45   WARNING   Main           Progressing
+2022-01-25 12:08:46   ERROR     Main           Updating
+2022-01-25 12:08:46   INFO      Main           Operation complete
+2022-01-25 12:08:46   INFO      Main           Starting
+2022-01-25 12:08:50   WARNING   Main           One does not simply walk into Mordor
+2022-01-25 12:08:53   INFO      Main           Updating
+2022-01-25 12:08:55   INFO      Main           Message here
+2022-01-25 12:08:58   WARNING   Main           Message here
+2022-01-25 12:08:58   INFO      Main           Operation complete
+2022-01-25 12:08:58   INFO      T2_measure     Starting
+2022-01-25 12:08:59   WARNING   T2_measure     Updating
+2022-01-25 12:09:00   WARNING   T2_measure     One does not simply walk into Mordor
+2022-01-25 12:09:02   INFO      T2_measure     Progressing
+2022-01-25 12:09:03   WARNING   T2_measure     Message here
+2022-01-25 12:09:03   INFO      T2_measure     Operation complete
+2022-01-25 12:09:03   INFO      Main           Starting
+2022-01-25 12:09:06   INFO      Main           One does not simply walk into Mordor
+2022-01-25 12:09:10   INFO      Main           Message here
+2022-01-25 12:09:10   INFO      Main           Operation complete
+2022-01-25 12:09:10   INFO      T2_measure     Starting
+2022-01-25 12:09:13   WARNING   T2_measure     You know this is random, right?
+2022-01-25 12:09:17   INFO      T2_measure     Updating
+2022-01-25 12:09:17   INFO      T2_measure     Operation complete
+2022-01-25 12:09:17   INFO      T2_measure     Starting
+2022-01-25 12:09:21   WARNING   T2_measure     Updating
+2022-01-25 12:09:25   INFO      T2_measure     Updating
+2022-01-25 12:09:25   ERROR     T2_measure     Connection dropped
+2022-01-25 12:09:25   INFO      T2_measure     Starting
+2022-01-25 12:09:26   ERROR     T2_measure     Message here
+2022-01-25 12:09:26   INFO      T2_measure     Operation complete
+2022-01-25 12:09:26   INFO      T2_measure     Starting
+2022-01-25 12:09:30   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 12:09:30   INFO      T2_measure     Operation complete
+2022-01-25 12:09:30   INFO      T1_measure     Starting
+2022-01-25 12:09:31   WARNING   T1_measure     You know this is random, right?
+2022-01-25 12:09:34   WARNING   T1_measure     You know this is random, right?
+2022-01-25 12:09:34   INFO      T1_measure     Operation complete
+2022-01-25 12:09:34   INFO      T1_measure     Starting
+2022-01-25 12:09:35   WARNING   T1_measure     You know this is random, right?
+2022-01-25 12:09:35   ERROR     T1_measure     Connection dropped
+2022-01-25 12:09:35   INFO      T1_measure     Starting
+2022-01-25 12:09:39   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 12:09:43   INFO      T1_measure     Message here
+2022-01-25 12:09:46   WARNING   T1_measure     You know this is random, right?
+2022-01-25 12:09:46   ERROR     T1_measure     Connection dropped
+2022-01-25 12:09:46   INFO      T2_measure     Starting
+2022-01-25 12:09:49   INFO      T2_measure     Message here
+2022-01-25 12:09:49   INFO      T2_measure     Operation complete
+2022-01-25 12:09:49   INFO      T2_measure     Starting
+2022-01-25 12:09:50   INFO      T2_measure     Updating
+2022-01-25 12:09:53   INFO      T2_measure     Message here
+2022-01-25 12:09:53   INFO      T2_measure     Operation complete
+2022-01-25 12:09:53   INFO      T2_measure     Starting
+2022-01-25 12:09:58   WARNING   T2_measure     You know this is random, right?
+2022-01-25 12:09:59   INFO      T2_measure     Updating
+2022-01-25 12:09:59   INFO      T2_measure     Operation complete
+2022-01-25 12:09:59   INFO      T2_measure     Starting
+2022-01-25 12:10:02   INFO      T2_measure     Progressing
+2022-01-25 12:10:04   INFO      T2_measure     Updating
+2022-01-25 12:10:06   WARNING   T2_measure     Updating
+2022-01-25 12:10:06   INFO      T2_measure     Operation complete
+2022-01-25 12:10:06   INFO      Main           Starting
+2022-01-25 12:10:08   INFO      Main           Updating
+2022-01-25 12:10:09   INFO      Main           Message here
+2022-01-25 12:10:09   INFO      Main           Operation complete
+2022-01-25 12:10:09   INFO      Main           Starting
+2022-01-25 12:10:14   WARNING   Main           Updating
+2022-01-25 12:10:19   INFO      Main           You know this is random, right?
+2022-01-25 12:10:21   INFO      Main           Updating
+2022-01-25 12:10:21   ERROR     Main           Operation aborted
+2022-01-25 12:10:21   INFO      T1_measure     Starting
+2022-01-25 12:10:26   INFO      T1_measure     Progressing
+2022-01-25 12:10:26   INFO      T1_measure     Operation complete
+2022-01-25 12:10:26   INFO      T1_measure     Starting
+2022-01-25 12:10:31   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 12:10:32   WARNING   T1_measure     Updating
+2022-01-25 12:10:33   ERROR     T1_measure     Message here
+2022-01-25 12:10:33   INFO      T1_measure     Operation complete
+2022-01-25 12:10:33   INFO      T1_measure     Starting
+2022-01-25 12:10:36   ERROR     T1_measure     One does not simply walk into Mordor
+2022-01-25 12:10:38   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 12:10:39   WARNING   T1_measure     One does not simply walk into Mordor
+2022-01-25 12:10:42   WARNING   T1_measure     You know this is random, right?
+2022-01-25 12:10:42   INFO      T1_measure     Operation complete
+2022-01-25 12:10:42   INFO      T2_measure     Starting
+2022-01-25 12:10:44   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 12:10:48   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 12:10:52   INFO      T2_measure     Progressing
+2022-01-25 12:10:57   ERROR     T2_measure     You know this is random, right?
+2022-01-25 12:10:57   INFO      T2_measure     Operation complete
+2022-01-25 12:10:57   INFO      T1_measure     Starting
+2022-01-25 12:11:00   WARNING   T1_measure     Updating
+2022-01-25 12:11:01   INFO      T1_measure     Updating
+2022-01-25 12:11:03   INFO      T1_measure     Progressing
+2022-01-25 12:11:06   INFO      T1_measure     Message here
+2022-01-25 12:11:06   ERROR     T1_measure     Operation aborted
+2022-01-25 12:11:06   INFO      T1_measure     Starting
+2022-01-25 12:11:07   WARNING   T1_measure     You know this is random, right?
+2022-01-25 12:11:07   INFO      T1_measure     Operation complete
+2022-01-25 12:11:07   INFO      T2_measure     Starting
+2022-01-25 12:11:08   INFO      T2_measure     Progressing
+2022-01-25 12:11:09   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 12:11:14   INFO      T2_measure     You know this is random, right?
+2022-01-25 12:11:16   WARNING   T2_measure     Updating
+2022-01-25 12:11:16   INFO      T2_measure     Operation complete
+2022-01-25 12:11:16   INFO      T2_measure     Starting
+2022-01-25 12:11:19   INFO      T2_measure     Progressing
+2022-01-25 12:11:24   WARNING   T2_measure     Updating
+2022-01-25 12:11:27   WARNING   T2_measure     One does not simply walk into Mordor
+2022-01-25 12:11:27   INFO      T2_measure     Operation complete
+2022-01-25 12:11:27   INFO      Main           Starting
+2022-01-25 12:11:32   INFO      Main           Progressing
+2022-01-25 12:11:37   INFO      Main           Progressing
+2022-01-25 12:11:42   INFO      Main           Progressing
+2022-01-25 12:11:45   INFO      Main           Message here
+2022-01-25 12:11:45   INFO      Main           Operation complete
+2022-01-25 12:11:45   INFO      T2_measure     Starting
+2022-01-25 12:11:48   INFO      T2_measure     Progressing
+2022-01-25 12:11:52   INFO      T2_measure     Message here
+2022-01-25 12:11:57   INFO      T2_measure     Progressing
+2022-01-25 12:11:57   INFO      T2_measure     Operation complete
+2022-01-25 12:11:57   INFO      Main           Starting
+2022-01-25 12:12:02   INFO      Main           Progressing
+2022-01-25 12:12:06   WARNING   Main           Progressing
+2022-01-25 12:12:10   WARNING   Main           Updating
+2022-01-25 12:12:11   WARNING   Main           You know this is random, right?
+2022-01-25 12:12:11   INFO      Main           Operation complete
+2022-01-25 12:12:11   INFO      T1_measure     Starting
+2022-01-25 12:12:12   WARNING   T1_measure     Progressing
+2022-01-25 12:12:12   INFO      T1_measure     Operation complete
+2022-01-25 12:12:12   INFO      Main           Starting
+2022-01-25 12:12:15   INFO      Main           Message here
+2022-01-25 12:12:15   INFO      Main           Operation complete
+2022-01-25 12:12:15   INFO      Main           Starting
+2022-01-25 12:12:17   INFO      Main           Updating
+2022-01-25 12:12:17   INFO      Main           Operation complete
+2022-01-25 12:12:17   INFO      T2_measure     Starting
+2022-01-25 12:12:21   WARNING   T2_measure     You know this is random, right?
+2022-01-25 12:12:22   INFO      T2_measure     You know this is random, right?
+2022-01-25 12:12:22   INFO      T2_measure     Operation complete
+2022-01-25 12:12:22   INFO      T1_measure     Starting
+2022-01-25 12:12:25   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 12:12:27   WARNING   T1_measure     You know this is random, right?
+2022-01-25 12:12:31   INFO      T1_measure     Updating
+2022-01-25 12:12:33   ERROR     T1_measure     One does not simply walk into Mordor
+2022-01-25 12:12:33   INFO      T1_measure     Operation complete
+2022-01-25 12:12:33   INFO      T1_measure     Starting
+2022-01-25 12:12:36   INFO      T1_measure     Message here
+2022-01-25 12:12:41   INFO      T1_measure     You know this is random, right?
+2022-01-25 12:12:42   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 12:12:42   ERROR     T1_measure     Operation aborted
+2022-01-25 12:12:42   INFO      T2_measure     Starting
+2022-01-25 12:12:43   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 12:12:47   INFO      T2_measure     Message here
+2022-01-25 12:12:50   INFO      T2_measure     Progressing
+2022-01-25 12:12:55   WARNING   T2_measure     Message here
+2022-01-25 12:12:55   INFO      T2_measure     Operation complete
+2022-01-25 12:12:55   INFO      T1_measure     Starting
+2022-01-25 12:12:59   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 12:13:01   WARNING   T1_measure     Message here
+2022-01-25 12:13:05   WARNING   T1_measure     You know this is random, right?
+2022-01-25 12:13:06   WARNING   T1_measure     Progressing
+2022-01-25 12:13:06   ERROR     T1_measure     An error occured and the operation failed
+2022-01-25 12:13:06   INFO      T1_measure     Starting
+2022-01-25 12:13:10   ERROR     T1_measure     Progressing
+2022-01-25 12:13:11   WARNING   T1_measure     Updating
+2022-01-25 12:13:12   WARNING   T1_measure     You know this is random, right?
+2022-01-25 12:13:15   WARNING   T1_measure     Message here
+2022-01-25 12:13:15   ERROR     T1_measure     Memory index out of bound
+2022-01-25 12:13:15   INFO      T2_measure     Starting
+2022-01-25 12:13:18   INFO      T2_measure     Message here
+2022-01-25 12:13:21   INFO      T2_measure     You know this is random, right?
+2022-01-25 12:13:23   ERROR     T2_measure     Updating
+2022-01-25 12:13:23   INFO      T2_measure     Operation complete
+2022-01-25 12:13:23   INFO      T2_measure     Starting
+2022-01-25 12:13:26   INFO      T2_measure     Updating
+2022-01-25 12:13:30   ERROR     T2_measure     Message here
+2022-01-25 12:13:31   WARNING   T2_measure     Message here
+2022-01-25 12:13:35   INFO      T2_measure     Progressing
+2022-01-25 12:13:35   INFO      T2_measure     Operation complete
+2022-01-25 12:13:35   INFO      T2_measure     Starting
+2022-01-25 12:13:37   WARNING   T2_measure     You know this is random, right?
+2022-01-25 12:13:42   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 12:13:44   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 12:13:49   INFO      T2_measure     Updating
+2022-01-25 12:13:49   INFO      T2_measure     Operation complete
+2022-01-25 12:13:49   INFO      T2_measure     Starting
+2022-01-25 12:13:51   WARNING   T2_measure     Progressing
+2022-01-25 12:13:53   WARNING   T2_measure     You know this is random, right?
+2022-01-25 12:13:53   INFO      T2_measure     Operation complete
+2022-01-25 12:13:53   INFO      T2_measure     Starting
+2022-01-25 12:13:55   ERROR     T2_measure     You know this is random, right?
+2022-01-25 12:14:00   INFO      T2_measure     Updating
+2022-01-25 12:14:00   INFO      T2_measure     Operation complete
+2022-01-25 12:14:00   INFO      T1_measure     Starting
+2022-01-25 12:14:03   WARNING   T1_measure     One does not simply walk into Mordor
+2022-01-25 12:14:03   ERROR     T1_measure     Operation aborted
+2022-01-25 12:14:03   INFO      T1_measure     Starting
+2022-01-25 12:14:04   INFO      T1_measure     Progressing
+2022-01-25 12:14:04   INFO      T1_measure     Operation complete
+2022-01-25 12:14:04   INFO      T2_measure     Starting
+2022-01-25 12:14:07   WARNING   T2_measure     Updating
+2022-01-25 12:14:11   ERROR     T2_measure     Updating
+2022-01-25 12:14:14   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 12:14:14   ERROR     T2_measure     Memory index out of bound
+2022-01-25 12:14:14   INFO      T2_measure     Starting
+2022-01-25 12:14:19   INFO      T2_measure     Progressing
+2022-01-25 12:14:23   WARNING   T2_measure     Updating
+2022-01-25 12:14:23   ERROR     T2_measure     Operation aborted
+2022-01-25 12:14:23   INFO      Main           Starting
+2022-01-25 12:14:28   WARNING   Main           Updating
+2022-01-25 12:14:31   INFO      Main           Progressing
+2022-01-25 12:14:36   INFO      Main           You know this is random, right?
+2022-01-25 12:14:36   INFO      Main           Operation complete
+2022-01-25 12:14:36   INFO      T2_measure     Starting
+2022-01-25 12:14:38   WARNING   T2_measure     You know this is random, right?
+2022-01-25 12:14:41   WARNING   T2_measure     One does not simply walk into Mordor
+2022-01-25 12:14:44   WARNING   T2_measure     You know this is random, right?
+2022-01-25 12:14:47   WARNING   T2_measure     Message here
+2022-01-25 12:14:47   INFO      T2_measure     Operation complete
+2022-01-25 12:14:47   INFO      Main           Starting
+2022-01-25 12:14:50   ERROR     Main           You know this is random, right?
+2022-01-25 12:14:50   INFO      Main           Operation complete
+2022-01-25 12:14:50   INFO      T1_measure     Starting
+2022-01-25 12:14:55   WARNING   T1_measure     You know this is random, right?
+2022-01-25 12:14:55   INFO      T1_measure     Operation complete
+2022-01-25 12:14:55   INFO      T1_measure     Starting
+2022-01-25 12:14:57   INFO      T1_measure     Progressing
+2022-01-25 12:14:59   INFO      T1_measure     Message here
+2022-01-25 12:14:59   INFO      T1_measure     Operation complete
+2022-01-25 12:14:59   INFO      T2_measure     Starting
+2022-01-25 12:15:03   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 12:15:03   INFO      T2_measure     Operation complete
+2022-01-25 12:15:03   INFO      T1_measure     Starting
+2022-01-25 12:15:07   INFO      T1_measure     Message here
+2022-01-25 12:15:07   INFO      T1_measure     Operation complete
+2022-01-25 12:15:07   INFO      Main           Starting
+2022-01-25 12:15:09   INFO      Main           Message here
+2022-01-25 12:15:09   INFO      Main           Operation complete
+2022-01-25 12:15:09   INFO      T1_measure     Starting
+2022-01-25 12:15:10   ERROR     T1_measure     One does not simply walk into Mordor
+2022-01-25 12:15:13   INFO      T1_measure     Progressing
+2022-01-25 12:15:16   INFO      T1_measure     Message here
+2022-01-25 12:15:16   INFO      T1_measure     Operation complete
+2022-01-25 12:15:16   INFO      Main           Starting
+2022-01-25 12:15:20   WARNING   Main           One does not simply walk into Mordor
+2022-01-25 12:15:22   INFO      Main           Message here
+2022-01-25 12:15:22   INFO      Main           Operation complete
+2022-01-25 12:15:22   INFO      Main           Starting
+2022-01-25 12:15:25   ERROR     Main           Progressing
+2022-01-25 12:15:26   INFO      Main           Updating
+2022-01-25 12:15:28   WARNING   Main           You know this is random, right?
+2022-01-25 12:15:31   INFO      Main           Progressing
+2022-01-25 12:15:31   INFO      Main           Operation complete
+2022-01-25 12:15:31   INFO      Main           Starting
+2022-01-25 12:15:33   ERROR     Main           Message here
+2022-01-25 12:15:33   INFO      Main           Operation complete
+2022-01-25 12:15:33   INFO      Main           Starting
+2022-01-25 12:15:38   WARNING   Main           You know this is random, right?
+2022-01-25 12:15:43   WARNING   Main           Progressing
+2022-01-25 12:15:47   WARNING   Main           You know this is random, right?
+2022-01-25 12:15:49   ERROR     Main           Message here
+2022-01-25 12:15:49   INFO      Main           Operation complete
+2022-01-25 12:15:49   INFO      T2_measure     Starting
+2022-01-25 12:15:54   INFO      T2_measure     Message here
+2022-01-25 12:15:55   INFO      T2_measure     Progressing
+2022-01-25 12:15:56   INFO      T2_measure     Message here
+2022-01-25 12:16:01   WARNING   T2_measure     Updating
+2022-01-25 12:16:01   INFO      T2_measure     Operation complete
+2022-01-25 12:16:01   INFO      T1_measure     Starting
+2022-01-25 12:16:05   INFO      T1_measure     Updating
+2022-01-25 12:16:05   INFO      T1_measure     Operation complete
+2022-01-25 12:16:05   INFO      T1_measure     Starting
+2022-01-25 12:16:08   WARNING   T1_measure     Updating
+2022-01-25 12:16:13   INFO      T1_measure     Progressing
+2022-01-25 12:16:17   WARNING   T1_measure     Progressing
+2022-01-25 12:16:17   INFO      T1_measure     Operation complete
+2022-01-25 12:16:17   INFO      T1_measure     Starting
+2022-01-25 12:16:22   INFO      T1_measure     Updating
+2022-01-25 12:16:22   INFO      T1_measure     Operation complete
+2022-01-25 12:16:22   INFO      T1_measure     Starting
+2022-01-25 12:16:25   WARNING   T1_measure     You know this is random, right?
+2022-01-25 12:16:25   INFO      T1_measure     Operation complete
+2022-01-25 12:16:25   INFO      T2_measure     Starting
+2022-01-25 12:16:27   WARNING   T2_measure     Message here
+2022-01-25 12:16:27   INFO      T2_measure     Operation complete
+2022-01-25 12:16:27   INFO      T2_measure     Starting
+2022-01-25 12:16:30   ERROR     T2_measure     Progressing
+2022-01-25 12:16:31   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 12:16:32   INFO      T2_measure     Progressing
+2022-01-25 12:16:37   INFO      T2_measure     Updating
+2022-01-25 12:16:37   INFO      T2_measure     Operation complete
+2022-01-25 12:16:37   INFO      T1_measure     Starting
+2022-01-25 12:16:41   WARNING   T1_measure     You know this is random, right?
+2022-01-25 12:16:41   INFO      T1_measure     Operation complete
+2022-01-25 12:16:41   INFO      T2_measure     Starting
+2022-01-25 12:16:43   WARNING   T2_measure     One does not simply walk into Mordor
+2022-01-25 12:16:48   INFO      T2_measure     Message here
+2022-01-25 12:16:52   INFO      T2_measure     Updating
+2022-01-25 12:16:55   INFO      T2_measure     You know this is random, right?
+2022-01-25 12:16:55   INFO      T2_measure     Operation complete
+2022-01-25 12:16:55   INFO      Main           Starting
+2022-01-25 12:16:56   WARNING   Main           You know this is random, right?
+2022-01-25 12:16:56   INFO      Main           Operation complete
+2022-01-25 12:16:56   INFO      T2_measure     Starting
+2022-01-25 12:16:58   INFO      T2_measure     You know this is random, right?
+2022-01-25 12:16:58   INFO      T2_measure     Operation complete
+2022-01-25 12:16:58   INFO      T2_measure     Starting
+2022-01-25 12:16:59   WARNING   T2_measure     Message here
+2022-01-25 12:17:01   ERROR     T2_measure     One does not simply walk into Mordor
+2022-01-25 12:17:04   INFO      T2_measure     Updating
+2022-01-25 12:17:04   INFO      T2_measure     Operation complete
+2022-01-25 12:17:04   INFO      T2_measure     Starting
+2022-01-25 12:17:06   WARNING   T2_measure     One does not simply walk into Mordor
+2022-01-25 12:17:06   ERROR     T2_measure     An error occured and the operation failed
+2022-01-25 12:17:06   INFO      Main           Starting
+2022-01-25 12:17:09   INFO      Main           You know this is random, right?
+2022-01-25 12:17:14   INFO      Main           You know this is random, right?
+2022-01-25 12:17:15   INFO      Main           You know this is random, right?
+2022-01-25 12:17:15   INFO      Main           Operation complete
+2022-01-25 12:17:15   INFO      T1_measure     Starting
+2022-01-25 12:17:16   WARNING   T1_measure     Updating
+2022-01-25 12:17:20   INFO      T1_measure     You know this is random, right?
+2022-01-25 12:17:24   WARNING   T1_measure     Progressing
+2022-01-25 12:17:24   INFO      T1_measure     Operation complete
+2022-01-25 12:17:24   INFO      Main           Starting
+2022-01-25 12:17:25   WARNING   Main           Updating
+2022-01-25 12:17:30   WARNING   Main           Message here
+2022-01-25 12:17:30   INFO      Main           Operation complete
+2022-01-25 12:17:30   INFO      Main           Starting
+2022-01-25 12:17:32   INFO      Main           Progressing
+2022-01-25 12:17:34   WARNING   Main           Updating
+2022-01-25 12:17:34   INFO      Main           Operation complete
+2022-01-25 12:17:34   INFO      Main           Starting
+2022-01-25 12:17:37   INFO      Main           Progressing
+2022-01-25 12:17:40   WARNING   Main           Progressing
+2022-01-25 12:17:42   INFO      Main           Message here
+2022-01-25 12:17:42   INFO      Main           Operation complete
+2022-01-25 12:17:42   INFO      Main           Starting
+2022-01-25 12:17:46   INFO      Main           Message here
+2022-01-25 12:17:47   WARNING   Main           Updating
+2022-01-25 12:17:47   INFO      Main           Operation complete
+2022-01-25 12:17:47   INFO      Main           Starting
+2022-01-25 12:17:51   ERROR     Main           One does not simply walk into Mordor
+2022-01-25 12:17:56   INFO      Main           One does not simply walk into Mordor
+2022-01-25 12:18:01   INFO      Main           Updating
+2022-01-25 12:18:02   INFO      Main           Updating
+2022-01-25 12:18:02   INFO      Main           Operation complete
+2022-01-25 12:18:02   INFO      Main           Starting
+2022-01-25 12:18:03   INFO      Main           Updating
+2022-01-25 12:18:05   ERROR     Main           Progressing
+2022-01-25 12:18:05   INFO      Main           Operation complete
+2022-01-25 12:18:05   INFO      Main           Starting
+2022-01-25 12:18:08   WARNING   Main           Message here
+2022-01-25 12:18:08   INFO      Main           Operation complete
+2022-01-25 12:18:08   INFO      Main           Starting
+2022-01-25 12:18:12   ERROR     Main           Progressing
+2022-01-25 12:18:16   INFO      Main           Message here
+2022-01-25 12:18:17   INFO      Main           Progressing
+2022-01-25 12:18:17   INFO      Main           Operation complete
+2022-01-25 12:18:17   INFO      T1_measure     Starting
+2022-01-25 12:18:21   INFO      T1_measure     Message here
+2022-01-25 12:18:21   INFO      T1_measure     Operation complete
+2022-01-25 12:18:21   INFO      Main           Starting
+2022-01-25 12:18:22   INFO      Main           One does not simply walk into Mordor
+2022-01-25 12:18:27   INFO      Main           Message here
+2022-01-25 12:18:27   INFO      Main           Operation complete
+2022-01-25 12:18:27   INFO      T1_measure     Starting
+2022-01-25 12:18:29   INFO      T1_measure     Updating
+2022-01-25 12:18:33   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 12:18:35   INFO      T1_measure     Message here
+2022-01-25 12:18:36   WARNING   T1_measure     Updating
+2022-01-25 12:18:36   INFO      T1_measure     Operation complete
+2022-01-25 12:18:36   INFO      T1_measure     Starting
+2022-01-25 12:18:39   INFO      T1_measure     Progressing
+2022-01-25 12:18:39   INFO      T1_measure     Operation complete
+2022-01-25 12:18:39   INFO      T2_measure     Starting
+2022-01-25 12:18:40   INFO      T2_measure     Updating
+2022-01-25 12:18:45   WARNING   T2_measure     Message here
+2022-01-25 12:18:49   ERROR     T2_measure     One does not simply walk into Mordor
+2022-01-25 12:18:50   INFO      T2_measure     You know this is random, right?
+2022-01-25 12:18:50   INFO      T2_measure     Operation complete
+2022-01-25 12:18:50   INFO      T1_measure     Starting
+2022-01-25 12:18:53   INFO      T1_measure     Message here
+2022-01-25 12:18:57   WARNING   T1_measure     You know this is random, right?
+2022-01-25 12:18:58   WARNING   T1_measure     Message here
+2022-01-25 12:18:58   INFO      T1_measure     Operation complete
+2022-01-25 12:18:58   INFO      T2_measure     Starting
+2022-01-25 12:19:03   INFO      T2_measure     Updating
+2022-01-25 12:19:07   WARNING   T2_measure     One does not simply walk into Mordor
+2022-01-25 12:19:08   WARNING   T2_measure     Progressing
+2022-01-25 12:19:08   INFO      T2_measure     Operation complete
+2022-01-25 12:19:08   INFO      Main           Starting
+2022-01-25 12:19:10   INFO      Main           One does not simply walk into Mordor
+2022-01-25 12:19:15   ERROR     Main           One does not simply walk into Mordor
+2022-01-25 12:19:15   INFO      Main           Operation complete
+2022-01-25 12:19:15   INFO      Main           Starting
+2022-01-25 12:19:18   WARNING   Main           Progressing
+2022-01-25 12:19:18   ERROR     Main           Connection dropped
+2022-01-25 12:19:18   INFO      Main           Starting
+2022-01-25 12:19:23   INFO      Main           You know this is random, right?
+2022-01-25 12:19:23   INFO      Main           Operation complete
+2022-01-25 12:19:23   INFO      T2_measure     Starting
+2022-01-25 12:19:26   WARNING   T2_measure     Updating
+2022-01-25 12:19:30   WARNING   T2_measure     Progressing
+2022-01-25 12:19:32   WARNING   T2_measure     Updating
+2022-01-25 12:19:32   INFO      T2_measure     Operation complete
+2022-01-25 12:19:32   INFO      T1_measure     Starting
+2022-01-25 12:19:34   ERROR     T1_measure     Message here
+2022-01-25 12:19:34   INFO      T1_measure     Operation complete
+2022-01-25 12:19:34   INFO      T1_measure     Starting
+2022-01-25 12:19:38   INFO      T1_measure     Message here
+2022-01-25 12:19:43   INFO      T1_measure     Message here
+2022-01-25 12:19:43   INFO      T1_measure     Operation complete
+2022-01-25 12:19:43   INFO      T1_measure     Starting
+2022-01-25 12:19:46   INFO      T1_measure     Updating
+2022-01-25 12:19:51   WARNING   T1_measure     Progressing
+2022-01-25 12:19:51   INFO      T1_measure     Operation complete
+2022-01-25 12:19:51   INFO      Main           Starting
+2022-01-25 12:19:53   INFO      Main           You know this is random, right?
+2022-01-25 12:19:54   INFO      Main           One does not simply walk into Mordor
+2022-01-25 12:19:57   INFO      Main           One does not simply walk into Mordor
+2022-01-25 12:19:57   INFO      Main           Operation complete
+2022-01-25 12:19:57   INFO      T1_measure     Starting
+2022-01-25 12:19:58   INFO      T1_measure     Message here
+2022-01-25 12:20:00   WARNING   T1_measure     Progressing
+2022-01-25 12:20:01   ERROR     T1_measure     Updating
+2022-01-25 12:20:02   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 12:20:02   INFO      T1_measure     Operation complete
+2022-01-25 12:20:02   INFO      T2_measure     Starting
+2022-01-25 12:20:07   INFO      T2_measure     Progressing
+2022-01-25 12:20:09   WARNING   T2_measure     Progressing
+2022-01-25 12:20:11   ERROR     T2_measure     You know this is random, right?
+2022-01-25 12:20:11   INFO      T2_measure     Operation complete
+2022-01-25 12:20:11   INFO      T1_measure     Starting
+2022-01-25 12:20:15   INFO      T1_measure     Progressing
+2022-01-25 12:20:16   INFO      T1_measure     Message here
+2022-01-25 12:20:16   INFO      T1_measure     Operation complete
+2022-01-25 12:20:16   INFO      T1_measure     Starting
+2022-01-25 12:20:18   WARNING   T1_measure     You know this is random, right?
+2022-01-25 12:20:23   WARNING   T1_measure     Progressing
+2022-01-25 12:20:23   INFO      T1_measure     Operation complete
+2022-01-25 12:20:23   INFO      Main           Starting
+2022-01-25 12:20:25   ERROR     Main           Updating
+2022-01-25 12:20:25   INFO      Main           Operation complete
+2022-01-25 12:20:25   INFO      T2_measure     Starting
+2022-01-25 12:20:26   INFO      T2_measure     Updating
+2022-01-25 12:20:26   INFO      T2_measure     Operation complete
+2022-01-25 12:20:26   INFO      Main           Starting
+2022-01-25 12:20:27   ERROR     Main           Progressing
+2022-01-25 12:20:32   INFO      Main           Updating
+2022-01-25 12:20:32   INFO      Main           Operation complete
+2022-01-25 12:20:32   INFO      T1_measure     Starting
+2022-01-25 12:20:37   WARNING   T1_measure     One does not simply walk into Mordor
+2022-01-25 12:20:39   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 12:20:41   ERROR     T1_measure     One does not simply walk into Mordor
+2022-01-25 12:20:41   INFO      T1_measure     Operation complete
+2022-01-25 12:20:41   INFO      T1_measure     Starting
+2022-01-25 12:20:43   WARNING   T1_measure     Message here
+2022-01-25 12:20:45   WARNING   T1_measure     One does not simply walk into Mordor
+2022-01-25 12:20:50   INFO      T1_measure     You know this is random, right?
+2022-01-25 12:20:50   INFO      T1_measure     Operation complete
+2022-01-25 12:20:50   INFO      T2_measure     Starting
+2022-01-25 12:20:55   WARNING   T2_measure     One does not simply walk into Mordor
+2022-01-25 12:21:00   INFO      T2_measure     Progressing
+2022-01-25 12:21:02   INFO      T2_measure     Message here
+2022-01-25 12:21:07   WARNING   T2_measure     Message here
+2022-01-25 12:21:07   ERROR     T2_measure     Connection dropped
+2022-01-25 12:21:07   INFO      T2_measure     Starting
+2022-01-25 12:21:11   WARNING   T2_measure     Message here
+2022-01-25 12:21:14   WARNING   T2_measure     Message here
+2022-01-25 12:21:14   ERROR     T2_measure     Connection dropped
+2022-01-25 12:21:14   INFO      T2_measure     Starting
+2022-01-25 12:21:15   WARNING   T2_measure     You know this is random, right?
+2022-01-25 12:21:20   INFO      T2_measure     Updating
+2022-01-25 12:21:20   ERROR     T2_measure     Operation aborted
+2022-01-25 12:21:20   INFO      T2_measure     Starting
+2022-01-25 12:21:22   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 12:21:23   WARNING   T2_measure     Message here
+2022-01-25 12:21:27   INFO      T2_measure     You know this is random, right?
+2022-01-25 12:21:27   ERROR     T2_measure     An error occured and the operation failed
+2022-01-25 12:21:27   INFO      Main           Starting
+2022-01-25 12:21:28   INFO      Main           One does not simply walk into Mordor
+2022-01-25 12:21:31   ERROR     Main           One does not simply walk into Mordor
+2022-01-25 12:21:31   INFO      Main           Operation complete
+2022-01-25 12:21:31   INFO      T2_measure     Starting
+2022-01-25 12:21:32   WARNING   T2_measure     Message here
+2022-01-25 12:21:36   WARNING   T2_measure     Message here
+2022-01-25 12:21:36   INFO      T2_measure     Operation complete
+2022-01-25 12:21:36   INFO      Main           Starting
+2022-01-25 12:21:39   INFO      Main           You know this is random, right?
+2022-01-25 12:21:39   INFO      Main           Operation complete
+2022-01-25 12:21:39   INFO      T1_measure     Starting
+2022-01-25 12:21:42   INFO      T1_measure     Message here
+2022-01-25 12:21:47   WARNING   T1_measure     Message here
+2022-01-25 12:21:51   INFO      T1_measure     You know this is random, right?
+2022-01-25 12:21:54   INFO      T1_measure     Message here
+2022-01-25 12:21:54   INFO      T1_measure     Operation complete
+2022-01-25 12:21:54   INFO      T1_measure     Starting
+2022-01-25 12:21:57   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 12:21:57   INFO      T1_measure     Operation complete
+2022-01-25 12:21:57   INFO      T2_measure     Starting
+2022-01-25 12:22:01   INFO      T2_measure     You know this is random, right?
+2022-01-25 12:22:01   INFO      T2_measure     Operation complete
+2022-01-25 12:22:01   INFO      T1_measure     Starting
+2022-01-25 12:22:05   WARNING   T1_measure     One does not simply walk into Mordor
+2022-01-25 12:22:10   INFO      T1_measure     Message here
+2022-01-25 12:22:15   INFO      T1_measure     One does not simply walk into Mordor
+2022-01-25 12:22:16   INFO      T1_measure     Progressing
+2022-01-25 12:22:16   INFO      T1_measure     Operation complete
+2022-01-25 12:22:16   INFO      T2_measure     Starting
+2022-01-25 12:22:18   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 12:22:19   INFO      T2_measure     You know this is random, right?
+2022-01-25 12:22:21   INFO      T2_measure     Message here
+2022-01-25 12:22:24   WARNING   T2_measure     One does not simply walk into Mordor
+2022-01-25 12:22:24   INFO      T2_measure     Operation complete
+2022-01-25 12:22:24   INFO      T1_measure     Starting
+2022-01-25 12:22:28   WARNING   T1_measure     Updating
+2022-01-25 12:22:33   INFO      T1_measure     Progressing
+2022-01-25 12:22:33   ERROR     T1_measure     Connection dropped
+2022-01-25 12:22:33   INFO      Main           Starting
+2022-01-25 12:22:37   INFO      Main           Message here
+2022-01-25 12:22:42   ERROR     Main           You know this is random, right?
+2022-01-25 12:22:42   INFO      Main           Operation complete
+2022-01-25 12:22:42   INFO      T2_measure     Starting
+2022-01-25 12:22:45   INFO      T2_measure     Message here
+2022-01-25 12:22:45   INFO      T2_measure     Operation complete
+2022-01-25 12:22:45   INFO      T2_measure     Starting
+2022-01-25 12:22:47   INFO      T2_measure     Updating
+2022-01-25 12:22:47   INFO      T2_measure     Operation complete
+2022-01-25 12:22:47   INFO      T2_measure     Starting
+2022-01-25 12:22:52   INFO      T2_measure     Progressing
+2022-01-25 12:22:54   WARNING   T2_measure     You know this is random, right?
+2022-01-25 12:22:54   ERROR     T2_measure     Connection dropped
+2022-01-25 12:22:54   INFO      T1_measure     Starting
+2022-01-25 12:22:58   INFO      T1_measure     Progressing
+2022-01-25 12:23:00   INFO      T1_measure     Message here
+2022-01-25 12:23:01   INFO      T1_measure     Progressing
+2022-01-25 12:23:04   WARNING   T1_measure     Message here
+2022-01-25 12:23:04   INFO      T1_measure     Operation complete
+2022-01-25 12:23:04   INFO      T2_measure     Starting
+2022-01-25 12:23:06   INFO      T2_measure     Updating
+2022-01-25 12:23:10   WARNING   T2_measure     Updating
+2022-01-25 12:23:10   INFO      T2_measure     Operation complete
+2022-01-25 12:23:10   INFO      T2_measure     Starting
+2022-01-25 12:23:13   WARNING   T2_measure     Message here
+2022-01-25 12:23:17   INFO      T2_measure     You know this is random, right?
+2022-01-25 12:23:22   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 12:23:22   INFO      T2_measure     Operation complete
+2022-01-25 12:23:22   INFO      Main           Starting
+2022-01-25 12:23:27   INFO      Main           One does not simply walk into Mordor
+2022-01-25 12:23:30   WARNING   Main           Progressing
+2022-01-25 12:23:34   WARNING   Main           Updating
+2022-01-25 12:23:37   ERROR     Main           You know this is random, right?
+2022-01-25 12:23:37   INFO      Main           Operation complete
+2022-01-25 12:23:37   INFO      T2_measure     Starting
+2022-01-25 12:23:40   WARNING   T2_measure     Message here
+2022-01-25 12:23:44   INFO      T2_measure     Progressing
+2022-01-25 12:23:45   INFO      T2_measure     Updating
+2022-01-25 12:23:48   INFO      T2_measure     You know this is random, right?
+2022-01-25 12:23:48   ERROR     T2_measure     An error occured and the operation failed
+2022-01-25 12:23:48   INFO      Main           Starting
+2022-01-25 12:23:53   INFO      Main           One does not simply walk into Mordor
+2022-01-25 12:23:56   INFO      Main           Updating
+2022-01-25 12:23:57   INFO      Main           Updating
+2022-01-25 12:23:57   INFO      Main           Operation complete
+2022-01-25 12:23:57   INFO      Main           Starting
+2022-01-25 12:23:59   WARNING   Main           Updating
+2022-01-25 12:24:02   WARNING   Main           Updating
+2022-01-25 12:24:02   ERROR     Main           Operation aborted
+2022-01-25 12:24:02   INFO      Main           Starting
+2022-01-25 12:24:04   INFO      Main           Message here
+2022-01-25 12:24:08   WARNING   Main           One does not simply walk into Mordor
+2022-01-25 12:24:10   INFO      Main           Progressing
+2022-01-25 12:24:14   INFO      Main           Updating
+2022-01-25 12:24:14   INFO      Main           Operation complete
+2022-01-25 12:24:14   INFO      T1_measure     Starting
+2022-01-25 12:24:17   WARNING   T1_measure     You know this is random, right?
+2022-01-25 12:24:20   INFO      T1_measure     Message here
+2022-01-25 12:24:25   WARNING   T1_measure     Message here
+2022-01-25 12:24:26   INFO      T1_measure     Progressing
+2022-01-25 12:24:26   INFO      T1_measure     Operation complete
+2022-01-25 12:24:26   INFO      T1_measure     Starting
+2022-01-25 12:24:27   ERROR     T1_measure     One does not simply walk into Mordor
+2022-01-25 12:24:27   INFO      T1_measure     Operation complete
+2022-01-25 12:24:27   INFO      T2_measure     Starting
+2022-01-25 12:24:32   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 12:24:36   INFO      T2_measure     You know this is random, right?
+2022-01-25 12:24:38   INFO      T2_measure     Message here
+2022-01-25 12:24:43   INFO      T2_measure     Updating
+2022-01-25 12:24:43   INFO      T2_measure     Operation complete
+2022-01-25 12:24:43   INFO      Main           Starting
+2022-01-25 12:24:44   INFO      Main           You know this is random, right?
+2022-01-25 12:24:47   INFO      Main           Message here
+2022-01-25 12:24:49   WARNING   Main           Progressing
+2022-01-25 12:24:54   WARNING   Main           You know this is random, right?
+2022-01-25 12:24:54   INFO      Main           Operation complete
+2022-01-25 12:24:54   INFO      T1_measure     Starting
+2022-01-25 12:24:56   INFO      T1_measure     Message here
+2022-01-25 12:25:01   INFO      T1_measure     Message here
+2022-01-25 12:25:06   WARNING   T1_measure     Message here
+2022-01-25 12:25:11   INFO      T1_measure     Progressing
+2022-01-25 12:25:11   INFO      T1_measure     Operation complete
+2022-01-25 12:25:11   INFO      T2_measure     Starting
+2022-01-25 12:25:13   WARNING   T2_measure     Message here
+2022-01-25 12:25:16   WARNING   T2_measure     One does not simply walk into Mordor
+2022-01-25 12:25:20   INFO      T2_measure     Message here
+2022-01-25 12:25:20   INFO      T2_measure     Operation complete
+2022-01-25 12:25:20   INFO      T1_measure     Starting
+2022-01-25 12:25:24   WARNING   T1_measure     One does not simply walk into Mordor
+2022-01-25 12:25:26   WARNING   T1_measure     One does not simply walk into Mordor
+2022-01-25 12:25:31   INFO      T1_measure     You know this is random, right?
+2022-01-25 12:25:32   INFO      T1_measure     Message here
+2022-01-25 12:25:32   INFO      T1_measure     Operation complete
+2022-01-25 12:25:32   INFO      T2_measure     Starting
+2022-01-25 12:25:34   INFO      T2_measure     Message here
+2022-01-25 12:25:34   INFO      T2_measure     Operation complete
+2022-01-25 12:25:34   INFO      Main           Starting
+2022-01-25 12:25:35   WARNING   Main           Progressing
+2022-01-25 12:25:37   INFO      Main           You know this is random, right?
+2022-01-25 12:25:41   WARNING   Main           One does not simply walk into Mordor
+2022-01-25 12:25:41   INFO      Main           Operation complete
+2022-01-25 12:25:41   INFO      Main           Starting
+2022-01-25 12:25:44   INFO      Main           Progressing
+2022-01-25 12:25:45   INFO      Main           Message here
+2022-01-25 12:25:45   INFO      Main           Operation complete
+2022-01-25 12:25:45   INFO      T1_measure     Starting
+2022-01-25 12:25:46   INFO      T1_measure     Updating
+2022-01-25 12:25:50   INFO      T1_measure     Progressing
+2022-01-25 12:25:50   INFO      T1_measure     Operation complete
+2022-01-25 12:25:50   INFO      T2_measure     Starting
+2022-01-25 12:25:52   WARNING   T2_measure     You know this is random, right?
+2022-01-25 12:25:55   WARNING   T2_measure     Message here
+2022-01-25 12:25:58   WARNING   T2_measure     One does not simply walk into Mordor
+2022-01-25 12:25:59   WARNING   T2_measure     Updating
+2022-01-25 12:25:59   INFO      T2_measure     Operation complete
+2022-01-25 12:25:59   INFO      Main           Starting
+2022-01-25 12:26:01   WARNING   Main           Progressing
+2022-01-25 12:26:03   ERROR     Main           Updating
+2022-01-25 12:26:07   ERROR     Main           Updating
+2022-01-25 12:26:12   INFO      Main           Progressing
+2022-01-25 12:26:12   INFO      Main           Operation complete
+2022-01-25 12:26:12   INFO      T1_measure     Starting
+2022-01-25 12:26:15   INFO      T1_measure     Progressing
+2022-01-25 12:26:20   WARNING   T1_measure     Message here
+2022-01-25 12:26:20   ERROR     T1_measure     An error occured and the operation failed
+2022-01-25 12:26:20   INFO      T1_measure     Starting
+2022-01-25 12:26:23   ERROR     T1_measure     Progressing
+2022-01-25 12:26:23   INFO      T1_measure     Operation complete
+2022-01-25 12:26:23   INFO      T2_measure     Starting
+2022-01-25 12:26:24   INFO      T2_measure     One does not simply walk into Mordor
+2022-01-25 12:26:28   INFO      T2_measure     You know this is random, right?
+2022-01-25 12:26:31   INFO      T2_measure     Updating
+2022-01-25 12:26:35   WARNING   T2_measure     Message here
+2022-01-25 12:26:35   INFO      T2_measure     Operation complete
+2022-01-25 12:26:35   INFO      Main           Starting
+2022-01-25 12:26:38   WARNING   Main           One does not simply walk into Mordor
+2022-01-25 12:26:42   INFO      Main           Progressing
+2022-01-25 12:26:42   INFO      Main           Operation complete
+2022-01-25 12:26:42   INFO      Main           Starting
+2022-01-25 12:26:46   INFO      Main           Progressing
+2022-01-25 12:26:51   INFO      Main           You know this is random, right?
+2022-01-25 12:26:51   ERROR     Main           Memory index out of bound
+2022-01-25 12:26:51   INFO      Main           Starting
+2022-01-25 12:26:53   INFO      Main           Updating
+2022-01-25 12:26:58   ERROR     Main           One does not simply walk into Mordor
+2022-01-25 12:27:01   WARNING   Main           One does not simply walk into Mordor
+2022-01-25 12:27:01   INFO      Main           Operation complete
